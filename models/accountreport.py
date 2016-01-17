@@ -14,7 +14,7 @@ class AccountReport(object):
                     <td>{Transaction}</td>
                     <td>{AddDescription}</td>
                     <td>{Channel}</td>
-                    <td>{Invoice}</td>
+                    <td>{Description}</td>
                     <td class="euro">{Amount:,.2f}</td>
                     <td class="int">{CD}</td>
                     <td class="int">{LP}</td>
@@ -155,7 +155,7 @@ class AccountReport(object):
                     <th>Transaction</th>
                     <th>Add. Description</th>
                     <th>Channel</th>
-                    <th>Invoice #</th>
+                    <th>Description</th>
                     <th class="euro">Amount</th>
                     <th class="int">CD</th>
                     <th class="int">LP</th>

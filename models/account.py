@@ -85,7 +85,7 @@ class Account(object):
         assert account in AccountMeta.accounts()
         self.__account = account
         self.__meta = AccountMeta.accounts()[account]
-        self.__entries = [{'date': start_date, 'amount': start_balance, 'description': 'carry-over', 'cds': start_cd, 'lps': start_lp}]
+        self.__entries = [{'date': start_date, 'amount': start_balance, 'transaction': 'carry-over', 'cds': start_cd, 'lps': start_lp}]
         for bs in kwargs.get('brokensilence', []):
             self.__entries += bs.entries_for(self)
         for ds in kwargs.get('direct', []):
@@ -123,10 +123,10 @@ class Account(object):
             stock_cds += entry.get('cds', 0)
             stock_lps += entry.get('lps', 0)
             yield {'Date': entry['date'],
-                   'Transaction': entry['description'],
+                   'Transaction': entry['transaction'],
                    'AddDescription': entry.get('comment', ''),
                    'Channel': entry.get('channel', ''),
-                   'Invoice': entry.get('invoice', ''),
+                   'Description': entry.get('description', ''),
                    'Amount': entry['amount'],
                    'CD': entry.get('cds', ''),
                    'LP': entry.get('lps', ''),

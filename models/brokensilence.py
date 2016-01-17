@@ -34,7 +34,7 @@ class BrokenSilence(object):
                         entries.append(
                             {'date': report_date,
                              'amount': float(row['amount domestic']),
-                             'description': 'sale',
+                             'transaction': 'sale',
                              'channel': 'Brokensilence',
                              'cds': -sales_count if row['article no'].startswith('CD') else 0,
                              'lps': 0 if row['article no'].startswith('CD') else -sales_count, })
@@ -43,7 +43,7 @@ class BrokenSilence(object):
                         entries.append(
                             {'date': report_date,
                              'amount': float(row['amount returns domestic']),
-                             'description': 'return',
+                             'transaction': 'return',
                              'channel': 'Brokensilence',
                              'cds': return_count if row['article no'].startswith('CD') else 0,
                              'lps': 0 if row['article no'].startswith('CD') else return_count, })
@@ -58,7 +58,7 @@ class BrokenSilence(object):
                         entries.append(
                             {'date':  report_date,
                              'amount': float(row['amount export']),
-                             'description': 'sale',
+                             'transaction': 'sale',
                              'channel': 'Brokensilence',
                              'cds': -sales_count if row['article no.'].startswith('CD') else 0,
                              'lps': 0 if row['article no.'].startswith('CD') else -sales_count, })
@@ -67,7 +67,7 @@ class BrokenSilence(object):
                         entries.append(
                             {'date': report_date,
                              'amount': float(row['amount returns exp.']),
-                             'description': 'return',
+                             'transaction': 'return',
                              'channel': 'Brokensilence',
                              'cds': return_count if row['article no.'].startswith('CD') else 0,
                              'lps': 0 if row['article no.'].startswith('CD') else return_count, })
@@ -79,7 +79,7 @@ class BrokenSilence(object):
                     entries.append(
                         {'date': report_date,
                          'amount': float(row['total amount']),
-                         'description': 'download/stream',
+                         'transaction': 'download/stream',
                          'comment': u'/'.join(row['track']) if isinstance(row['track'], (tuple, list)) else row['track'],
                          'channel': row['shop'],
                          'digital': int(row['domestic'][0])})

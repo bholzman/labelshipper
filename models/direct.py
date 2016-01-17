@@ -32,9 +32,10 @@ class Direct(object):
                 entries.append(
                     {'date': row['date'],
                      'amount': row['amount'],
-                     'description': 'sale',
+                     'transaction': row['transaction'],
+                     'description': row['description'],
                      'comment': row['comment'],
-                     'channel': 'Labelship direct sale',
+                     'channel': row['channel'],
                      'cds': -row['cds'] if row['cds'] else 0,
                      'lps': -row['lps'] if row['lps'] else 0, })
         return entries
@@ -43,7 +44,7 @@ class Direct(object):
         import csv
         reader = csv.reader(self.__fh)
         for row in reader:
-            date_, account, cds, lps, amount = row
+            date_, account, cds, lps, amount, transaction, channel, description = row
             date_ = _parse_date(date_)
             cds = int(cds)
             lps = int(lps)
@@ -59,6 +60,9 @@ class Direct(object):
                 {'date': date_,
                  'account': account,
                  'amount': amount,
+                 'transaction': transaction,
+                 'description': description,
                  'comment': comment,
+                 'channel': channel,
                  'cds': cds,
                  'lps': lps, })
