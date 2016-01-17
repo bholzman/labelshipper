@@ -1,0 +1,66 @@
+#!/usr/bin/python
+
+from __future__ import absolute_import
+import sys
+from models import AccountReport, AccountMeta, Account, BrokenSilence, Direct
+from datetime import date
+
+def _bs(csv):
+    with open(csv, 'r') as fh:
+        bs = BrokenSilence(fh)
+        bs.parse()
+    return bs
+
+def _ds(csv):
+    with open(csv, 'r') as fh:
+        d = Direct(fh)
+        d.parse()
+    return d
+
+def _accounts():
+    AccountMeta.import_accounts()
+    return AccountMeta.accounts().keys()
+
+def _balances():
+    import csv
+    with open('etc/balance.csv', 'rb') as fh:
+        reader = csv.reader(fh)
+        return {row[0]:{'as_of': date(*map(int, row[1].split('-'))),
+                        'balance': float(row[2]),
+                        'stockCD': int(row[3]),
+                        'stockLP': int(row[4])} for row in reader}
+
+def main(args):
+    accounts = _accounts()
+    balances = _balances()
+
+    brokensilence_statements = []
+    direct_statements = []
+    active = None
+    for a in args:
+        if a == '--bs':
+            active = 'bs'
+        elif a == '--direct':
+            active = 'direct'
+        elif active == 'bs':
+            brokensilence_statements.append(_bs(a))
+        elif active == 'direct':
+            direct_statements.append(_ds(a))
+
+    for account_id in accounts:
+        balance = balances[account_id]
+        account = Account(
+            account_id,
+            balance['as_of'],
+            balance['balance'],
+            balance['stockCD'],
+            balance['stockLP'],
+            brokensilence=brokensilence_statements,
+            direct=direct_statements)
+        account_report = AccountReport(account)
+        html = account_report.as_html()
+        with open('reports/{}-{}.html'.format(account_id, date.today()), 'w') as fh:
+            fh.write(html.encode('utf-8'))
+
+if __name__ == '__main__':
+    sys.exit(main(sys.argv[1:]))

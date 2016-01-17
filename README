@@ -1,0 +1,31 @@
+README - this file
+
+artist-reports - script to generate a series of artist reports for all known accounts,
+                 based on the account and balance information in etc/accounts.csv and
+                 etc/balance.csv, and the supplied brokensilence and direct-sale CSV
+                 files specified on the command line. Sample invocation:
+
+                 python artist-reports --bs brokensilence/* --direct direct/*
+
+etc/ - holds configuration files
+    balance.csv - current account balances and stock counts, in this format:
+        LSXXX,AS-OF-DATE,BALANCE,CDs,LPs
+    accounts.csv - lists accounts and brokensilence product codes, in this format:
+        LSXXX,INITIALS,ARTIST,TITLE,STATUS,TYPE OF DIGITAL,TYPE OF CD,TYPE OF LP,ORIGIN,BS CD,BS LP
+
+models/ - python objects used by the system to model reality
+    account.py - model of an artist account; uses etc/accounts.csv
+    brokensilence.py - model of a brokensilence CSV account statement
+    direct.py - model of a labelship direct-sale CSV account statement
+    accountreport.py - model of an HTML artist account statement 
+
+tests/ - unit tests of the system; can be executed once with 'make test' or repeatedly with 'make ci'
+    (required pytest)
+
+brokensilence/ - brokensilence CSV account statements are stored here
+
+direct/ - labelship direct-sale CSV statements are stored here
+
+reports/ - output location for generated HTML reports
+
+pdfs/ - output location for PDFs (generated manually by printing the HTML reports from Firefox)

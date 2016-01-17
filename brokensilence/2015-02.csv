@@ -1,0 +1,522 @@
+statement national reference no: 918524, date: 28.02.2015, salesperiode: 01.02.2015-28.02.2015
+
+article no;artist / title;stock begin / end;arrivals dispatch;domestic qty/dealer/net(aver.);amount domestic;export qty;returns domestic qty/dealer/net(aver.);amount returns domestic;f.o.c dom.;total amount
+7"*06256;Tonfang/ThePiss;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+7"*06271;LonesomeStation/s.t.;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06252;V.A./MelodicaCompilation1;20 / 20;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06254;KidDecker/YourKind;38 / 38;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06255;Binoculers/EverySeaman s...;23 / 23;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06261;OwlsOfTheSwamp/GoWithRiver;76 / 76;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06263;V.A./MelodicaCompilation2;54 / 54;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06264;MeikeSchrader/DasGrün...;124 / 120;0 / 0;4 / 5,388 / 3,664;14,66;0;0 / 0,000 / 0,000;-0,00;0;14,66
+CD 06267;LizHanley/TheEcstasy...;28 / 28;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06270;St.Allen/WreckThe...;29 / 29;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06272;OwlsOfTheSwamp/Atlas;119 / 124;0 / 0;0 / 0,000 / 0,000;0,00;0;5 / 7,300 / 4,964;-24,82;0;-24,82
+CD 06275;FrogbellyAndSymphony/BlueBright...;0 / 0;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 13906;EmmyMoll/AllTheMonsters;9 / 7;0 / 0;2 / 3,296 / 2,241;4,48;0;0 / 0,000 / 0,000;-0,00;0;4,48
+CD*06251;KidDecker/Reveries;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06253;DearJohnLetter/PartAndFragment;5 / 5;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06257;T.Stock/Rocket;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06258;OverdriveAmpExplosion/Blanks;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06260;StarsForTheBanned/StarsForTheBanned;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06265;N.Wilckens/StoriesTheSea...;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06266;Outroads/IAmHappy;6 / 6;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13901;AstridsFarm/Cyclist;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13903;Xrfarflight/TheEarlyBird;6 / 6;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13908;DearJohnLetter/Between Leaves-Forestal;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13910;FrauKraushaar/LeSalonIsVeryMorbidä;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13912;V.A./IntroducingLabelship;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13913;J.Ufer/KopfInDenSternen;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 05257;Binoculers/EverySeaman s...;9 / 9;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 06268;Frogbelly.../TheEye;36 / 36;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 06273;OwlsOfTheSwamp/Atlas(Lim.Ed.);46 / 45;0 / 0;1 / 8,997 / 6,118;6,12;0;0 / 0,000 / 0,000;-0,00;0;6,12
+LP 06274;M.Bisi/Ex-Nihilo;45 / 45;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06259;OverdriveAmpExplosion/EasyTiger(Split-EP;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13902;AstridsFarm/Cyclist;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13904;Xrfarflight/TheEarlyBird;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13907;EmmyMoll/AllTheMonsters;15 / 15;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13909;DearJohnLetter/Between Leaves-Forestal;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13911;FrauKraushaar/LeSalonIsVeryMorbidä;8 / 8;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+
+total sales domestic;total amount domestic;total returns domestic;ret amount domestic;total value;handling fee returns;f.o.c total;reserve for returns (nat+int);refund of reserve;stock-return shipping;v.a.t. / tax 16%;v.a.t. / tax 7%;total value to be transfered
+7;25,26;5;-24,82;0,44;-1,09;0;-7,58;21,16;0,00;0,00;0,00;12,92 EUR
+
+
+statement international reference no: 918524, date: 28.02.2015, salesperiode: 01.02.2015-28.02.2015
+
+
+total sales export;total amount export;total returns export;total amount returns exp.;handling fee returns;f.o.c. total;total value;v.a.t. / tax 16%;v.a.t. / tax 7%;total value to be transfered
+0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00 EUR
+
+
+
+statement downloads reference no: 918524, date: 28.02.2015, salesperiode: -
+
+
+article no.;artist;title;track;shop;domestic;total amount
+7" 06256;TONFANG;The Piss;Middleman (4Track Mix);Spotify;1 / 0,003 / 0,002;0,00
+7" 06256;TONFANG;The Piss;Jess;Spotify;1 / 0,008 / 0,006;0,01
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);The Flowers Are Gone;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);What We ve Said;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);Just Look;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);Happy in the Dark;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);Dmand;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);A Man Without a Back;Napster;6 / 0,007 / 0,005;0,03
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);A Man Without a Back;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);A Long Day;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);22h;iTunes;1 / 0,600 / 0,480;0,48
+7" 06271;LONESOME STATION;Lonesome Station (+ CD);The Flowers Are Gone;Spotify;1 / 0,000 / 0,000;0,00
+CD 06251;KID DECKER ;Reveries EP;Memories And Plans;Rdio;1 / 0,005 / 0,004;0,00
+CD 06251;KID DECKER ;Reveries EP;Reveries;Rdio;2 / 0,005 / 0,004;0,01
+CD 06251;KID DECKER ;Reveries EP;Reveries;Xbox Music;6 / 0,002 / 0,001;0,01
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Yfir Hola Og Yfir Haedir;Deezer;1 / 0,003 / 0,002;0,00
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Season Song;Xbox Music;5 / 0,002 / 0,001;0,01
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Season Song;simfy;1 / 0,019 / 0,015;0,02
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Heart Of The Mountain;Rdio;1 / 0,005 / 0,004;0,00
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Come My Way;Xbox Music;12 / 0,002 / 0,001;0,02
+CD 06252;VARIOUS ARTISTS;Melodica Compilation #1 ;Come My Way;Deezer;2 / 0,006 / 0,005;0,01
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;You Remain Unshakeably Calm;Spotify;2 / 0,001 / 0,000;0,00
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;The Looking Glass;Spotify;1 / 0,001 / 0,000;0,00
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;That s The Way The Cookie Crumbles;Deezer;1 / 0,011 / 0,009;0,01
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;Silent Sirens;Spotify;2 / 0,004 / 0,003;0,01
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;House Of Leaves;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06253;DEAR JOHN LETTER ;Part And Fragment;House Of Leaves;Spotify;1 / 0,001 / 0,000;0,00
+CD 06254;KID DECKER ;Your Kind;Too Late;Rdio;1 / 0,005 / 0,004;0,00
+CD 06254;KID DECKER ;Your Kind;Your Kind;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06254;KID DECKER ;Your Kind;Too Late;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06254;KID DECKER ;Your Kind;The Munchkins;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06254;KID DECKER ;Your Kind;Look About Ready;Rdio;2 / 0,005 / 0,004;0,01
+CD 06254;KID DECKER ;Your Kind;Here We Are;Rdio;12 / 0,005 / 0,004;0,05
+CD 06254;KID DECKER ;Your Kind;Falling;Xbox Music;3 / 0,002 / 0,001;0,00
+CD 06254;KID DECKER ;Your Kind;Falling;Rdio;1 / 0,005 / 0,004;0,00
+CD 06254;KID DECKER ;Your Kind;Disposable;Rdio;2 / 0,005 / 0,004;0,01
+CD 06254;KID DECKER ;Your Kind;Dead Man s Walk;Xbox Music;2 / 0,002 / 0,001;0,00
+CD 06254;KID DECKER ;Your Kind;Dead Man s Walk;Rdio;2 / 0,005 / 0,004;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Mirrorball;simfy;1 / 0,019 / 0,015;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;On The Sun;Rdio;1 / 0,005 / 0,004;0,00
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;On The Sun;simfy;1 / 0,019 / 0,015;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Paintbox;Napster;1 / 0,006 / 0,005;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Seaman-Like;Rdio;4 / 0,005 / 0,004;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Snail s Shell;Napster;1 / 0,006 / 0,005;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Your Favourite Spaceship;simfy;1 / 0,019 / 0,015;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Lions;Rdio;3 / 0,005 / 0,004;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Lions;Napster;1 / 0,006 / 0,005;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Lions;iTunes;1 / 0,170 / 0,136;0,14
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Grape-Shaped Dream;simfy;1 / 0,019 / 0,015;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Easy In The Morning Sun;Rdio;3 / 0,005 / 0,004;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Easy In The Morning Sun;Napster;1 / 0,006 / 0,005;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Chestnuts;simfy;1 / 0,019 / 0,015;0,02
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Chestnuts;Rdio;2 / 0,005 / 0,004;0,01
+CD 06255;BINOCULERS;Every Seaman s Got A Favourite Spaceship;Grape-Shaped Dream;Rdio;2 / 0,005 / 0,004;0,01
+CD 06257;STOCK, TORBEN;Rocket;Tonight;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Truth;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Wolkenstein;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Conamara Instr,;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Sad Movie Song;Spotify;3 / 0,003 / 0,002;0,01
+CD 06257;STOCK, TORBEN;Rocket;Rocket;Spotify;2 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Real Lights / Great Souls;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Kiss Me Good Night;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06257;STOCK, TORBEN;Rocket;Cold Breeze;Spotify;1 / 0,000 / 0,000;0,00
+CD 06257;STOCK, TORBEN;Rocket;Angels s Song;Spotify;1 / 0,008 / 0,006;0,01
+CD 06257;STOCK, TORBEN;Rocket;Kiss Me Good Night;Spotify;10 / 0,001 / 0,001;0,01
+CD 06258;OVERDRIVE AMP EXPLOSION ;Blanks;Siegfried;Spotify;1 / 0,009 / 0,007;0,01
+CD 06258;OVERDRIVE AMP EXPLOSION ;Blanks;Lowlight;Spotify;2 / 0,009 / 0,007;0,01
+CD 06258;OVERDRIVE AMP EXPLOSION ;Blanks;At The Corner;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Praying Mantis;Spotify;30 / 0,005 / 0,004;0,12
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Praying Mantis;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Praying Mantis;Napster;62 / 0,006 / 0,005;0,32
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Praying Mantis;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Long May You Run;YouTube;6 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Long May You Run;Spotify;37 / 0,004 / 0,004;0,13
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Pyramid;Napster;65 / 0,006 / 0,005;0,34
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Pyramid;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Pyramid;Spotify;157 / 0,003 / 0,003;0,41
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Skywaters;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Skywaters;Napster;67 / 0,006 / 0,005;0,35
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Skywaters;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Skywaters;Spotify;46 / 0,003 / 0,003;0,12
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Long May You Run;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Long May You Run;Napster;60 / 0,006 / 0,005;0,31
+CD 06261;OWLS OF THE SWAMP  ;Go With River;43;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;43;Napster;68 / 0,006 / 0,005;0,35
+CD 06261;OWLS OF THE SWAMP  ;Go With River;43;simfy;3 / 0,019 / 0,015;0,05
+CD 06261;OWLS OF THE SWAMP  ;Go With River;43;Spotify;80 / 0,004 / 0,003;0,26
+CD 06261;OWLS OF THE SWAMP  ;Go With River;By The Riverside;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;By The Riverside;Napster;56 / 0,006 / 0,005;0,29
+CD 06261;OWLS OF THE SWAMP  ;Go With River;By The Riverside;Spotify;42 / 0,004 / 0,003;0,15
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Go With River;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Go With River;Napster;60 / 0,006 / 0,005;0,31
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Go With River;Spotify;26 / 0,005 / 0,004;0,10
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Here Comes The Wind;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Here Comes The Wind;Napster;63 / 0,006 / 0,005;0,33
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Here Comes The Wind;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Long May You Run;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;Deezer;6 / 0,003 / 0,003;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;iTunes;1 / 0,600 / 0,480;0,48
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Stones and Bones;Spotify;280 / 0,003 / 0,003;0,72
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Tricks And Turns;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Tricks And Turns;Napster;55 / 0,006 / 0,005;0,28
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Tricks And Turns;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Tricks And Turns;Spotify;36 / 0,005 / 0,004;0,13
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Walking Song;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Walking Song;Napster;62 / 0,006 / 0,005;0,32
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Walking Song;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Walking Song;Spotify;36 / 0,004 / 0,003;0,12
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Pyramid;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Stones and Bones;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Stones and Bones;Napster;70 / 0,006 / 0,005;0,36
+CD 06261;OWLS OF THE SWAMP  ;Go With River;By The Riverside;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;Napster;66 / 0,006 / 0,005;0,34
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;simfy;1 / 0,019 / 0,015;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;Spotify;311 / 0,003 / 0,002;0,64
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;Xbox Music;14 / 0,002 / 0,001;0,02
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Here Comes The Wind;Spotify;49 / 0,004 / 0,003;0,16
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Stones and Bones;Deezer;6 / 0,014 / 0,012;0,07
+CD 06261;OWLS OF THE SWAMP  ;Go With River;Stones and Bones;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06261;OWLS OF THE SWAMP  ;Go With River;So Far Away;YouTube;150 / 0,000 / 0,000;0,01
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;When I Dream I see;Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Water Song;Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Trapped Fox  (Live at Melodica Berlin Nov,2010);Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;The Poet;Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Start Something;Spotify;18 / 0,004 / 0,003;0,06
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Dead Horse;Spotify;2 / 0,004 / 0,003;0,01
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Springrainair;Spotify;2 / 0,004 / 0,003;0,01
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Seldom Seen Sister;Spotify;3 / 0,003 / 0,002;0,01
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Maybe;Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Jennifer;Xbox Music;2 / 0,002 / 0,001;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Lost Something Good;Spotify;18 / 0,007 / 0,005;0,10
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Jennifer;Spotify;1 / 0,004 / 0,003;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Black-eyed Angel;Spotify;3 / 0,003 / 0,002;0,01
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Dead Horse;amazon cloud;1 / 0,001 / 0,001;0,00
+CD 06263;VARIOUS ARTISTS;Melodica Compilation #2;Last Dropout Of Beauty School;Spotify;1 / 0,004 / 0,003;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Kaffeehaussong;simfy;2 / 0,019 / 0,015;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Sicherhalt;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Kaffeehaussong;Napster;4 / 0,006 / 0,005;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Kaffeehaussong;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Im Ring;Spotify;14 / 0,003 / 0,003;0,04
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Im Ring;simfy;2 / 0,019 / 0,015;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Im Ring;Napster;5 / 0,007 / 0,005;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Kaffeehaussong;Spotify;13 / 0,003 / 0,002;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Im Ring;Rdio;1 / 0,005 / 0,004;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Sicherhalt;Napster;9 / 0,007 / 0,005;0,05
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Sicherhalt;Rdio;1 / 0,005 / 0,004;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Sicherhalt;simfy;2 / 0,019 / 0,015;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Sicherhalt;Spotify;19 / 0,004 / 0,003;0,06
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Utopia;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Utopia;Napster;6 / 0,006 / 0,005;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Utopia;Rdio;2 / 0,005 / 0,004;0,01
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Utopia;simfy;1 / 0,019 / 0,015;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Utopia;Spotify;16 / 0,004 / 0,003;0,05
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Wiegenlied;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Wiegenlied;Napster;4 / 0,006 / 0,005;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Wiegenlied;Spotify;10 / 0,003 / 0,002;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Wiegenlied;simfy;1 / 0,019 / 0,015;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen; ;Amazon;1 / 4,480 / 3,584;3,58
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ein neuer Tag;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Die Geister, die ich rief;Spotify;14 / 0,004 / 0,003;0,04
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Die Geister, die ich rief;simfy;1 / 0,019 / 0,015;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Die Geister, die ich rief;Napster;4 / 0,006 / 0,005;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Das Grün in deinen Augen;simfy;2 / 0,019 / 0,015;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Das Grün in deinen Augen;Napster;14 / 0,006 / 0,005;0,07
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ach Bitte;Spotify;15 / 0,003 / 0,002;0,04
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ach Bitte;simfy;1 / 0,019 / 0,015;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ach Bitte;Rdio;1 / 0,005 / 0,004;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ach Bitte;Napster;7 / 0,006 / 0,005;0,04
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ach Bitte;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Das Grün in deinen Augen;Spotify;13 / 0,003 / 0,003;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ein neuer Tag;Napster;3 / 0,006 / 0,005;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ein neuer Tag;simfy;2 / 0,019 / 0,015;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Halt mich;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Ein neuer Tag;Spotify;17 / 0,002 / 0,002;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Das Grün in deinen Augen;amazon cloud;9 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Im Ring;amazon cloud;5 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;YouTube;4 / 0,000 / 0,000;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;130 / 0,006 / 0,004;0,57
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;simfy;6 / 0,019 / 0,015;0,09
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;Rdio;1 / 0,005 / 0,004;0,00
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;Napster;9 / 0,007 / 0,005;0,05
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Halt mich;Napster;3 / 0,007 / 0,005;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Halt mich;simfy;1 / 0,019 / 0,015;0,02
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Halt mich;Spotify;11 / 0,003 / 0,003;0,03
+CD 06264;SCHRADER, MEIKE;Das Grün In Deinen Augen;Hamburg, mein Hafen;iTunes;3 / 0,603 / 0,483;1,45
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;The Boy Leaves Town;Spotify;3 / 0,003 / 0,002;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;On and On;Spotify;4 / 0,002 / 0,002;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Remember Copenhagen;Spotify;4 / 0,004 / 0,003;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Never Thee;Spotify;3 / 0,003 / 0,002;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Hang On;Spotify;3 / 0,003 / 0,002;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Goodnight Country Boy;Spotify;2 / 0,004 / 0,003;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Before the Light;Spotify;6 / 0,004 / 0,003;0,02
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;A Day By the Sea;Spotify;3 / 0,001 / 0,000;0,00
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;City Lights;Spotify;6 / 0,002 / 0,001;0,01
+CD 06265;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;Did I Forget;Spotify;3 / 0,003 / 0,002;0,01
+CD 06266;OUTROADS;I Am Happy;This Wine Is a Kiss;Spotify;2 / 0,005 / 0,004;0,01
+CD 06266;OUTROADS;I Am Happy;She Looked Like a Friend;Spotify;1 / 0,009 / 0,007;0,01
+CD 06266;OUTROADS;I Am Happy;Best Not Make a Scene;Spotify;1 / 0,009 / 0,007;0,01
+CD 06266;OUTROADS;I Am Happy;Closer;Spotify;3 / 0,005 / 0,004;0,01
+CD 06266;OUTROADS;I Am Happy;Dear Demon;Spotify;5 / 0,007 / 0,006;0,03
+CD 06266;OUTROADS;I Am Happy;Good Company;Spotify;2 / 0,009 / 0,007;0,01
+CD 06266;OUTROADS;I Am Happy;La Da Die;Spotify;3 / 0,009 / 0,007;0,02
+CD 06266;OUTROADS;I Am Happy;La Da Die;Slacker;2 / 0,000 / 0,000;0,00
+CD 06266;OUTROADS;I Am Happy;I ll Walk with You;Spotify;1 / 0,009 / 0,007;0,01
+CD 06266;OUTROADS;I Am Happy;Happiness;Spotify;1 / 0,009 / 0,007;0,01
+CD 06266;OUTROADS;I Am Happy;Gravey;Spotify;3 / 0,009 / 0,007;0,02
+CD 06266;OUTROADS;I Am Happy;Gravey;Slacker;2 / 0,000 / 0,000;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Isle of St, Helena;Napster;15 / 0,006 / 0,005;0,08
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Isle of St, Helena;Spotify;5 / 0,003 / 0,002;0,01
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Johnston;Napster;5 / 0,007 / 0,005;0,03
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Southwind;Spotify;1 / 0,001 / 0,000;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Southwind;Napster;11 / 0,006 / 0,005;0,06
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Keg of Brandy;amazon cloud;6 / 0,000 / 0,000;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Sanctuary;Spotify;1 / 0,005 / 0,004;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Sanctuary;Rdio;2 / 0,005 / 0,004;0,01
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Sanctuary;Napster;4 / 0,006 / 0,005;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;My Son Tim;Spotify;5 / 0,004 / 0,004;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Johnston;Spotify;2 / 0,003 / 0,002;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;My Son Tim;eMusic;1 / 0,140 / 0,112;0,11
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Keg of Brandy;Napster;67 / 0,007 / 0,005;0,36
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Keg of Brandy;Spotify;7 / 0,003 / 0,003;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Spotify;1 / 0,001 / 0,000;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Napster;4 / 0,006 / 0,005;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;April s Fool / I Ne er Shall Wean Her;Napster;17 / 0,007 / 0,005;0,09
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;April s Fool / I Ne er Shall Wean Her;Spotify;2 / 0,003 / 0,002;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;11 / 0,002 / 0,002;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;Napster;7 / 0,006 / 0,005;0,04
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;Spotify;4 / 0,003 / 0,002;0,01
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;My Son Tim;Napster;4 / 0,006 / 0,005;0,02
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Bonny Light Horseman;amazon cloud;1 / 0,002 / 0,001;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Napster;57 / 0,007 / 0,005;0,30
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine s Grove;Napster;11 / 0,006 / 0,005;0,06
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine s Grove;Spotify;4 / 0,001 / 0,000;0,00
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;iTunes;1 / 0,410 / 0,328;0,33
+CD 06267;HANLEY, LIZ;The Ecstasy Of St, Cécilia;Keg of Brandy;iTunes;2 / 0,415 / 0,332;0,66
+CD 06270;ALLEN, STEVE;Wreck the Place; ;Amazon;1 / 4,480 / 3,584;3,58
+CD 06270;ALLEN, STEVE;Wreck the Place;Don t You Dare;Napster;20 / 0,006 / 0,005;0,10
+CD 06270;ALLEN, STEVE;Wreck the Place;Dead Grey Sky;Spotify;10 / 0,003 / 0,003;0,03
+CD 06270;ALLEN, STEVE;Wreck the Place;Ghost in the Crowd;Spotify;3 / 0,003 / 0,003;0,01
+CD 06270;ALLEN, STEVE;Wreck the Place;I m Not a Racist, but,;Spotify;13 / 0,005 / 0,004;0,06
+CD 06270;ALLEN, STEVE;Wreck the Place;Like an Old Toy;Napster;16 / 0,007 / 0,005;0,08
+CD 06270;ALLEN, STEVE;Wreck the Place;Like an Old Toy;Spotify;5 / 0,005 / 0,004;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;Mentally Ill;Napster;15 / 0,007 / 0,005;0,08
+CD 06270;ALLEN, STEVE;Wreck the Place;Mentally Ill;Spotify;7 / 0,004 / 0,003;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;Orwell s Dream;Napster;18 / 0,006 / 0,005;0,09
+CD 06270;ALLEN, STEVE;Wreck the Place;Orwell s Dream;Spotify;5 / 0,005 / 0,004;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;When It All Began;Napster;17 / 0,007 / 0,005;0,09
+CD 06270;ALLEN, STEVE;Wreck the Place;When It All Began;Spotify;9 / 0,005 / 0,004;0,04
+CD 06270;ALLEN, STEVE;Wreck the Place;I m Not a Racist, but,;Napster;19 / 0,007 / 0,005;0,10
+CD 06270;ALLEN, STEVE;Wreck the Place;Ghost in the Crowd;Napster;18 / 0,007 / 0,005;0,09
+CD 06270;ALLEN, STEVE;Wreck the Place;Don t You Dare;Spotify;7 / 0,006 / 0,005;0,03
+CD 06270;ALLEN, STEVE;Wreck the Place;Braining Cats and Dogs;Napster;9 / 0,006 / 0,005;0,05
+CD 06270;ALLEN, STEVE;Wreck the Place;Braining Cats and Dogs;Spotify;5 / 0,005 / 0,004;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;Cannon and Bull;Napster;16 / 0,007 / 0,005;0,08
+CD 06270;ALLEN, STEVE;Wreck the Place;Cannon and Bull;Spotify;4 / 0,005 / 0,004;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;Dead Grey Sky;Napster;16 / 0,006 / 0,005;0,08
+CD 06270;ALLEN, STEVE;Wreck the Place;Dead Man;Napster;18 / 0,007 / 0,005;0,09
+CD 06270;ALLEN, STEVE;Wreck the Place;Dead Man;Spotify;5 / 0,005 / 0,004;0,02
+CD 06270;ALLEN, STEVE;Wreck the Place;Destruction Is a Virtue;Napster;14 / 0,007 / 0,005;0,07
+CD 06270;ALLEN, STEVE;Wreck the Place;Destruction Is a Virtue;Spotify;13 / 0,002 / 0,002;0,03
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;YouTube;124 / 0,000 / 0,000;0,00
+CD 06272;OWLS OF THE SWAMP;Atlas;Closer Now;Napster;76 / 0,006 / 0,005;0,39
+CD 06272;OWLS OF THE SWAMP;Atlas;Water Song;Napster;66 / 0,006 / 0,005;0,34
+CD 06272;OWLS OF THE SWAMP;Atlas;Water Song;Spotify;29 / 0,003 / 0,002;0,07
+CD 06272;OWLS OF THE SWAMP;Atlas;Shelter;Spotify;26 / 0,002 / 0,002;0,05
+CD 06272;OWLS OF THE SWAMP;Atlas;Shelter;Rdio;4 / 0,005 / 0,004;0,02
+CD 06272;OWLS OF THE SWAMP;Atlas;Shelter;Napster;68 / 0,006 / 0,005;0,35
+CD 06272;OWLS OF THE SWAMP;Atlas;Shelter;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Shapeshifter;Spotify;51 / 0,003 / 0,002;0,11
+CD 06272;OWLS OF THE SWAMP;Atlas;Shapeshifter;Rdio;2 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Shapeshifter;Napster;68 / 0,006 / 0,005;0,35
+CD 06272;OWLS OF THE SWAMP;Atlas;Shapeshifter;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Restless;Spotify;109 / 0,003 / 0,002;0,23
+CD 06272;OWLS OF THE SWAMP;Atlas;The Fall;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;The Fall;Napster;71 / 0,006 / 0,005;0,37
+CD 06272;OWLS OF THE SWAMP;Atlas;Water Song;Rdio;1 / 0,005 / 0,004;0,00
+CD 06272;OWLS OF THE SWAMP;Atlas;Water Song;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;YouTube;36 / 0,005 / 0,004;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;Rdio;4 / 0,005 / 0,004;0,02
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;Qobuz;1 / 0,021 / 0,017;0,02
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;Napster;82 / 0,006 / 0,005;0,43
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;The Fall;Spotify;238 / 0,002 / 0,002;0,47
+CD 06272;OWLS OF THE SWAMP;Atlas;The Fall;Rdio;2 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Restless;Rdio;2 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Restless;Napster;65 / 0,006 / 0,005;0,34
+CD 06272;OWLS OF THE SWAMP;Atlas;Restless;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Closer Now;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Closer Now;Rdio;2 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Closer Now;Spotify;25 / 0,002 / 0,002;0,05
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;Deezer;16 / 0,006 / 0,005;0,08
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;Napster;74 / 0,006 / 0,005;0,38
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;Rdio;3 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Garden;Spotify;46 / 0,002 / 0,002;0,08
+CD 06272;OWLS OF THE SWAMP;Atlas;Going Home;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Restless;Deezer;3 / 0,001 / 0,001;0,00
+CD 06272;OWLS OF THE SWAMP;Atlas;Grandfather Clock;Spotify;15 / 0,003 / 0,002;0,04
+CD 06272;OWLS OF THE SWAMP;Atlas;The Hypnotist;Spotify;132 / 0,003 / 0,002;0,30
+CD 06272;OWLS OF THE SWAMP;Atlas;Grandfather Clock;Napster;58 / 0,006 / 0,005;0,30
+CD 06272;OWLS OF THE SWAMP;Atlas;Grandfather Clock;eMusic;1 / 0,170 / 0,136;0,14
+CD 06272;OWLS OF THE SWAMP;Atlas;Going Home;Spotify;18 / 0,003 / 0,002;0,04
+CD 06272;OWLS OF THE SWAMP;Atlas;Going Home;Rdio;2 / 0,005 / 0,004;0,01
+CD 06272;OWLS OF THE SWAMP;Atlas;Going Home;Napster;71 / 0,006 / 0,005;0,37
+CD 09626;OVERDRIVE AMP EXPLOSION;Intervals;Late;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 09626;OVERDRIVE AMP EXPLOSION;Intervals;What The Funk;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 09626;OVERDRIVE AMP EXPLOSION;Intervals;Hope;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 09626;OVERDRIVE AMP EXPLOSION;Intervals;Invert;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 09626;OVERDRIVE AMP EXPLOSION;Intervals;Ko,Sack;Spotify;1 / 0,003 / 0,002;0,00
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;simfy;1 / 0,019 / 0,015;0,02
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;simfy;1 / 0,019 / 0,015;0,02
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single; ;Amazon;2 / 1,495 / 1,196;2,39
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Amazon;2 / 0,500 / 0,400;0,80
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Google Play;1 / 0,580 / 0,464;0,46
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Napster;28 / 0,007 / 0,005;0,15
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Weg vun t Dörp un nah Hamborg;simfy;1 / 0,019 / 0,015;0,02
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Weg vun t Dörp un nah Hamborg;Napster;7 / 0,007 / 0,005;0,04
+CD 09744;SCHRADER, MEIKE/COLMORGEN, WIEBKE;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Napster;19 / 0,007 / 0,005;0,10
+CD 09782;OUTROADS;Only The Lonely?;Sleeping Sun;Xbox Music;1 / 0,002 / 0,001;0,00
+CD 09782;OUTROADS;Only The Lonely?;Closer;Spotify;1 / 0,001 / 0,000;0,00
+CD 09782;OUTROADS;Only The Lonely?;Don t Wait for the Money;Spotify;1 / 0,001 / 0,000;0,00
+CD 09783;OUTROADS;Goodbye To All That;Brother;Spotify;3 / 0,009 / 0,007;0,02
+CD 09783;OUTROADS;Goodbye To All That;Goodnight;Spotify;2 / 0,005 / 0,004;0,01
+CD 09783;OUTROADS;Goodbye To All That;Heads Up;Spotify;1 / 0,005 / 0,004;0,00
+CD 09783;OUTROADS;Goodbye To All That;Hellbound on My Trail;Spotify;1 / 0,001 / 0,000;0,00
+CD 09783;OUTROADS;Goodbye To All That;Hold;Spotify;2 / 0,009 / 0,007;0,01
+CD 09783;OUTROADS;Goodbye To All That;My Angels;YouTube;29 / 0,000 / 0,000;0,00
+CD 09783;OUTROADS;Goodbye To All That;No Accident;Spotify;2 / 0,009 / 0,007;0,01
+CD 09783;OUTROADS;Goodbye To All That;Quiet One at the Back;Spotify;1 / 0,001 / 0,000;0,00
+CD 09783;OUTROADS;Goodbye To All That;Restless Spirit Blues;Spotify;1 / 0,009 / 0,007;0,01
+CD 09783;OUTROADS;Goodbye To All That;Rooms in Space;Spotify;1 / 0,009 / 0,007;0,01
+CD 09884;BISI, MARTIN ;Sirens Of The Apocalypse;Rock Mona Lisa;Spotify;1 / 0,004 / 0,003;0,00
+CD 09884;BISI, MARTIN ;Sirens Of The Apocalypse;Sirens of the Apocalypse;Spotify;1 / 0,003 / 0,002;0,00
+CD 09884;BISI, MARTIN ;Sirens Of The Apocalypse;Goth Chick  98;Deezer;2 / 0,003 / 0,003;0,01
+CD 09929;BONE LAB,THE ;Fresh Meat;Sexy Time;Spotify;17 / 0,004 / 0,003;0,06
+CD 09929;BONE LAB,THE ;Fresh Meat;Man Work;YouTube;2 / 0,000 / 0,000;0,00
+CD 09929;BONE LAB,THE ;Fresh Meat;We Are the Shit (Live);Spotify;10 / 0,006 / 0,005;0,05
+CD 09929;BONE LAB,THE ;Fresh Meat;Too Cold (Clap Attack);YouTube;6 / 0,000 / 0,000;0,00
+CD 09929;BONE LAB,THE ;Fresh Meat;Too Cold (Clap Attack);Spotify;20 / 0,005 / 0,004;0,08
+CD 09929;BONE LAB,THE ;Fresh Meat;Too Cold (Clap Attack);Qobuz;1 / 0,510 / 0,408;0,41
+CD 09929;BONE LAB,THE ;Fresh Meat;Sexy Time;Deezer;1 / 0,029 / 0,023;0,02
+CD 09929;BONE LAB,THE ;Fresh Meat;Manifesto;Spotify;13 / 0,006 / 0,005;0,06
+CD 09929;BONE LAB,THE ;Fresh Meat;Manifesto;Qobuz;1 / 0,510 / 0,408;0,41
+CD 09929;BONE LAB,THE ;Fresh Meat;Hole Again;Deezer;1 / 0,029 / 0,023;0,02
+CD 09929;BONE LAB,THE ;Fresh Meat;Man Work;Spotify;14 / 0,005 / 0,004;0,05
+CD 09929;BONE LAB,THE ;Fresh Meat;Man Work;Qobuz;1 / 0,510 / 0,408;0,41
+CD 09929;BONE LAB,THE ;Fresh Meat;Hole Again;Spotify;14 / 0,005 / 0,004;0,06
+CD 09929;BONE LAB,THE ;Fresh Meat;Hole Again;Napster;2 / 0,007 / 0,005;0,01
+CD 13901;ASTRID S FARM ;Cyclist;About a Band;Napster;1 / 0,007 / 0,005;0,01
+CD 13901;ASTRID S FARM ;Cyclist;Full Metall Jacket;Napster;1 / 0,007 / 0,005;0,01
+CD 13901;ASTRID S FARM ;Cyclist;Full Metall Jacket;Spotify;3 / 0,005 / 0,004;0,01
+CD 13901;ASTRID S FARM ;Cyclist;Poverty;Spotify;1 / 0,006 / 0,005;0,01
+CD 13901;ASTRID S FARM ;Cyclist;Universal Accident;Napster;1 / 0,007 / 0,005;0,01
+CD 13901;ASTRID S FARM ;Cyclist;Universal Accident;Spotify;1 / 0,005 / 0,004;0,00
+CD 13901;ASTRID S FARM ;Cyclist;Poverty;Napster;5 / 0,007 / 0,005;0,03
+CD 13903;XRFARFLIGHT ;The Early Bird;Smashing Bubbles;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Smashing Bubbles;Slacker;1 / 0,001 / 0,001;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Settling;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Slow Motion Hospitalism;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;freq, Ghost;Slacker;2 / 0,001 / 0,001;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;mad bedcine;Spotify;1 / 0,009 / 0,007;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;mountain;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;mountain;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;protoplanets;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;protoplanets;Slacker;1 / 0,001 / 0,001;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;protoplanets;Spotify;4 / 0,002 / 0,002;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Settling;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Settling;Rdio;1 / 0,005 / 0,004;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Dream Theatre;Spotify;1 / 0,009 / 0,007;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Dream Theatre;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Dream Theatre;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Dream Theatre;Rdio;3 / 0,005 / 0,004;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Messy Lane;Spotify;1 / 0,006 / 0,005;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Messy Lane;Slacker;3 / 0,001 / 0,001;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;freq, Ghost;Spotify;4 / 0,001 / 0,000;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Helicopter;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Helicopter;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;Helicopter;Rdio;1 / 0,005 / 0,004;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;l,f, anthill;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;l,f, anthill;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;mad bedcine;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;mad bedcine;Napster;1 / 0,006 / 0,005;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;mad bedcine;Slacker;1 / 0,001 / 0,001;0,00
+CD 13903;XRFARFLIGHT ;The Early Bird;freq, Ghost;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Messy Lane;Deezer;1 / 0,008 / 0,006;0,01
+CD 13903;XRFARFLIGHT ;The Early Bird;Messy Lane;Rdio;1 / 0,005 / 0,004;0,00
+CD 13906;EMMY MOLL;All The Monsters;Inside a Shell;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Figurines;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Drifted;Spotify;1 / 0,005 / 0,004;0,00
+CD 13906;EMMY MOLL;All The Monsters;Drifted;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Cloud No,9;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Bird;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Be Light;Spotify;5 / 0,006 / 0,005;0,02
+CD 13906;EMMY MOLL;All The Monsters;Seagull;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Be Light;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Time lapse Photography;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Tortoise;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Tortoise;Spotify;1 / 0,001 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;View;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Your Course;amazon cloud;15 / 0,000 / 0,000;0,00
+CD 13906;EMMY MOLL;All The Monsters;Seagull;Spotify;1 / 0,006 / 0,005;0,01
+CD 13906;EMMY MOLL;All The Monsters;Your Course;Spotify;1 / 0,006 / 0,005;0,01
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;In the Sticks / Between Leaves;YouTube;1 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Towers / Trees;amazon cloud;11 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Trap / Black Kite;amazon cloud;10 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Towers / Trees;Spotify;1 / 0,006 / 0,005;0,01
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;In the Sticks / Between Leaves;amazon cloud;10 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Clearing / Leaving;Napster;1 / 0,007 / 0,005;0,01
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Clearing / Leaving;amazon cloud;10 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Aventiure / Pearly Gates;amazon cloud;10 / 0,000 / 0,000;0,00
+CD 13908;DEAR JOHN LETTER ;Between Leaves/Forestal;Annual Ring / Enclosure;amazon cloud;10 / 0,000 / 0,000;0,00
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;10 / 0,004 / 0,003;0,03
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Elektroniskä Pülsä;Spotify;11 / 0,003 / 0,003;0,03
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Kannst Du mir verraten;Spotify;12 / 0,004 / 0,003;0,04
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Logans Run;Deezer;1 / 0,003 / 0,003;0,00
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Logans Run;Spotify;13 / 0,003 / 0,002;0,03
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Muh Kuh;Spotify;5 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Not Controlled;Spotify;4 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Politiki Dummes Ficki;Rdio;1 / 0,005 / 0,004;0,00
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Elektroniskä Pülsä;Napster;1 / 0,007 / 0,005;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Romy;Spotify;7 / 0,003 / 0,003;0,02
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Elektroniskä Pülsä;Deezer;1 / 0,003 / 0,003;0,00
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Popopaits;Spotify;7 / 0,002 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Wellnesspunkt de;Spotify;4 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Politiki Dummes Ficki;Spotify;3 / 0,003 / 0,003;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Barbara;Spotify;3 / 0,004 / 0,003;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Cats on Crack;Napster;1 / 0,007 / 0,005;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Cats on Crack;Rdio;1 / 0,005 / 0,004;0,00
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Cats on Crack;Spotify;15 / 0,003 / 0,002;0,04
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Court of Love;Spotify;5 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Raum und Zeit;Spotify;4 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Tuperte;Spotify;6 / 0,003 / 0,002;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Cats on Crack;ampya;1 / 0,016 / 0,013;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Wellnesspunkt de;ampya;1 / 0,016 / 0,013;0,01
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Wellnesspunkt de;iTunes;1 / 0,600 / 0,480;0,48
+CD 13910;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;Wellnesspunkt de;Napster;1 / 0,007 / 0,005;0,01
+CD 13912;VARIOUS ARTISTS;Introducing Labelship ;Protoplanets;Deezer;1 / 0,008 / 0,006;0,01
+CD 13912;VARIOUS ARTISTS;Introducing Labelship ;Full Metal Jacket;Slacker;1 / 0,008 / 0,006;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Amour fou;Napster;1 / 0,007 / 0,005;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Lonely Seabird;Spotify;6 / 0,004 / 0,003;0,02
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Lonely Seabird;Napster;1 / 0,007 / 0,005;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Lonely Seabird;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Kookaburra;Spotify;9 / 0,004 / 0,003;0,03
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Kookaburra;Napster;1 / 0,007 / 0,005;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Kookaburra;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Amour fou;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Matze;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Paying the Price;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Paying the Price;Napster;1 / 0,007 / 0,005;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Matze;Spotify;4 / 0,004 / 0,003;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Amour fou;Spotify;10 / 0,003 / 0,003;0,03
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Matze;Napster;3 / 0,007 / 0,005;0,02
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Sugar Castles;Spotify;14 / 0,004 / 0,004;0,05
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Sugar Castles;Napster;1 / 0,007 / 0,005;0,01
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Sugar Castles;iTunes;1 / 0,410 / 0,328;0,33
+LP 06268;FROGBELLY AND SYMPHONY;The Eye EP (+CD);Paying the Price;Spotify;5 / 0,004 / 0,004;0,02
+LP 06274;BISI, MARTIN ;Ex-Nihilo ;Sin-Love-Hate;Napster;1 / 0,007 / 0,005;0,01
+LP 06274;BISI, MARTIN ;Ex-Nihilo ;Invite to Heaven Hell;Spotify;1 / 0,001 / 0,001;0,00
+LP 06274;BISI, MARTIN ;Ex-Nihilo ;Nihil Holy;Spotify;2 / 0,008 / 0,007;0,01
+LP 06274;BISI, MARTIN ;Ex-Nihilo ;Sin-Love-Hate;Spotify;1 / 0,006 / 0,005;0,01
+LP 06274;BISI, MARTIN ;Ex-Nihilo ;Nihil Holy;Napster;1 / 0,007 / 0,005;0,01
+
+total sales;total amount;v.a.t.;total value
+5662;42,25;0,00;42,25 EURO
+
