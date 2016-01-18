@@ -41,8 +41,8 @@
 2015.12.31,LS00024,5,0,0,stock correction,,free samples retail
 2015.12.31,LS00025,-311,0,0,stock correction,,stock-in 
 2015.12.31,LS00032,-34,0,0,stock correction,,stock-in from warehouse returns
-2015.12.31,LS00035,-2,0,0,stock correction,,stock-in from leftover samples
-2015.12.31,LS00035,0,-21,0,stock correction,,stock-in from warehouse returns
+2015.12.31,LS00035,-21,0,0,stock correction,,stock-in from leftover samples
+2015.12.31,LS00035,0,-2,0,stock correction,,stock-in from warehouse returns
 2015.12.31,LS00036,1,0,0,stock correction,,free samples retail
 2015.12.31,LS00037,-280,0,0,stock correction,,stock-in 
 2015.12.31,LS00038,2,0,0,stock correction,,commission direct sales
