@@ -2,6 +2,7 @@
 
 from __future__ import absolute_import
 import sys
+import os
 from models import AccountReport, AccountMeta, Account, BrokenSilence, Direct
 from datetime import date
 
@@ -59,7 +60,11 @@ def main(args):
             direct=direct_statements)
         account_report = AccountReport(account)
         html = account_report.as_html()
-        with open('reports/{}-{}.html'.format(account_id, date.today()), 'w') as fh:
+        date_string = '{}'.format(date.today())
+        report_dir = 'reports/{}'.format(date_string)
+        if not os.path.exists(report_dir):
+            os.makedirs('reports/' + date_string)
+        with open('{dr}//{id}-{ds}.html'.format(dr=report_dir, id=account_id, ds=date_string), 'w') as fh:
             fh.write(html.encode('utf-8'))
 
 if __name__ == '__main__':

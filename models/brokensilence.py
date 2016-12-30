@@ -48,7 +48,6 @@ class BrokenSilence(object):
                              'cds': return_count if row['article no'].startswith('CD') else 0,
                              'lps': 0 if row['article no'].startswith('CD') else return_count, })
 
-        # TODO international
         if 'international' in self.__tables:
             report_date = _parse_date(self.__tables['international']['report_date'])
             for row in self.__tables['international']['rows']:

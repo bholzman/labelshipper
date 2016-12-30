@@ -34,7 +34,7 @@ EXPECTED_CD = {
     "LS00032": 0,
     "LS00033": 36,
     "LS00034": 0,
-    "LS00035": 21,
+    "LS00035": 27,
     "LS00036": 28,
     "LS00037": 280,
     "LS00038": 143,
@@ -79,7 +79,7 @@ EXPECTED_LP = {
     "LS00032": 69,
     "LS00033": 0,
     "LS00034": 0,
-    "LS00035": 29,
+    "LS00035": 0,
     "LS00036": 0,
     "LS00037": 0,
     "LS00038": 131,
@@ -129,7 +129,7 @@ class AccountReport(object):
         if stockCD != EXPECTED_CD[self.__account.account]:
             print "Stock mismatch: {} CD {} != {}".format(self.__account.account, stockCD, EXPECTED_CD[self.__account.account])
         if stockLP != EXPECTED_LP[self.__account.account]:
-            print "Stock mismatch: {} LP {} != {}".format(self.__account.account, stockLP, EXPECTED_LP[self.__account.account])
+            print "Stock mismatch: {} Vinyl {} != {}".format(self.__account.account, stockLP, EXPECTED_LP[self.__account.account])
         return """
 <tfoot>
     <tr>
@@ -252,10 +252,10 @@ class AccountReport(object):
                     <th>Description</th>
                     <th class="euro">Amount</th>
                     <th class="int">CD</th>
-                    <th class="int">LP</th>
+                    <th class="int">Vinyl</th>
                     <th class="int">Digital</th>
                     <th class="int">Stock CD</th>
-                    <th class="int">Stock LP</th>
+                    <th class="int">Stock Vinyl</th>
                 </tr>
             </thead>
             <tbody>

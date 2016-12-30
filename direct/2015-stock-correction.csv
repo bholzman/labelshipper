@@ -40,14 +40,25 @@
 2015.12.31,LS00024,3,0,0,stock correction,,damaged / lost
 2015.12.31,LS00024,5,0,0,stock correction,,free samples retail
 2015.12.31,LS00025,-311,0,0,stock correction,,stock-in 
-2015.12.31,LS00032,-34,0,0,stock correction,,stock-in from warehouse returns
-2015.12.31,LS00035,-21,0,0,stock correction,,stock-in from leftover samples
-2015.12.31,LS00035,0,-2,0,stock correction,,stock-in from warehouse returns
+2015.12.31,LS00032,0,-34,0,stock correction,,stock-in from warehouse returns
 2015.12.31,LS00036,1,0,0,stock correction,,free samples retail
 2015.12.31,LS00037,-280,0,0,stock correction,,stock-in 
 2015.12.31,LS00038,2,0,0,stock correction,,commission direct sales
 2015.12.31,LS00038,0,-86,0,stock correction,,stock-in from warehouse returns
 2015.12.31,LS00039,0,51,0,stock correction,,dispached to artist
-2015.12.31,LS00041,-157,-303,0,stock correction,,stock correction
+2015.12.31,LS00041,-153,-321,0,stock correction,,stock correction
 2015.12.31,LS00042,-13,0,0,stock correction,,stock-in 
 2015.12.31,LS00043,-102,0,0,stock correction,,stock-in
+2015.12.31,LS00033,-36,0,0,stock correction,,stock-in
+2015.12.31,LS00012,-1,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00038,-1,-2,0,stock correction,,stock correction after inventory
+2015.12.31,LS00009,2,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00023,-1,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00013,-1,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00032,0,-1,0,stock correction,,stock correction after inventory
+2015.12.31,LS00030,-1,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00001,0,-1,0,stock correction,,stock correction after inventory
+2015.12.31,LS00004,0,-2,0,stock correction,,stock correction after inventory
+2015.12.31,LS00029,-1,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00024,-2,0,0,stock correction,,stock correction after inventory
+2015.12.31,LS00026,-1,0,0,stock correction,,stock correction after inventory
