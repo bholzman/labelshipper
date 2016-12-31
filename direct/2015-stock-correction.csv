@@ -1,3 +1,4 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION
 2015.12.31,LS00001,25,45,0,stock correction,,damaged / lost
 2015.12.31,LS00002,-51,0,0,stock correction,,stock-in from warehouse returns
 2015.12.31,LS00002,0,22,0,stock correction,,damaged / lost

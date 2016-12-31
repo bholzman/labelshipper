@@ -1,0 +1,35 @@
+Here's what I did to get labelship reports run for 2016.
+
+1) add new accounts from spreadsheet thomas sent
+  - requires updating etc/accounts.csv directly, ***should make this easier***
+  - wanted to add support for a header to at least self-document the file
+  - so wanted to get coninuous integration running
+  - updates to python on my laptop broke some tools the tests relied on
+  - had to upgrade xcode to fix this
+  - had to fix various formatting issues in the source code to get ci running
+  - finally added new accounts by hand
+  - also audited status of existing accounts by hand
+
+2) add in 2016 direct sale, stock correction and ledger items spreadsheets
+  - reformat stock correction CSV (and negate counts -- stock out is positive number) to:
+    YYYY.MM.DD,ACCOUNT,CD CORRECTION,VINYL CORRECTION,0,"stock correction",,DESCRIPTION
+    (did this in sheets, downloaded as CSV)
+  - reformat direct sale spreadsheet (and negate counts) to:
+    YYYY.MM.DD,ACCOUNT,CD,VINYL,EUR (converted other currencies),sale,"Labelship direct sale",DESCRIPTION
+  - reformat artist transaction spreadsheet to:
+    YYYY.MM.DD,ACCOUNT,0,0,EUR (converted other currencies),TRANSACTION,Labelship,DESCRIPTION
+
+3) Update balances from 2015 final
+  - ***add feature to update this automatically***
+
+4) download brokensilence statements, verify format
+  - new "summary physical sales" section broke parser
+  - extended it to read in data, but not using it for anything (yet?)
+
+5) added brokensilence CD/LP codes for new products
+
+6) run reports:
+  - python artist-reports --bs brokensilence/2016*.csv --direct direct/2016*.csv
+    - had to pad all ACCOUNT numbers in direct/2016*.csv with extra 0 (e.g. LS00029, not LS0029)
+    - add logic to handle blank lp/cd counts
+    - commented out "expected stock count" logic, since it no longer applies

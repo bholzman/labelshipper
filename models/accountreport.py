@@ -91,6 +91,7 @@ EXPECTED_LP = {
     "LS00044": 0,
 }
 
+
 class AccountReport(object):
     def __init__(self, account):
         self.__account = account
@@ -126,10 +127,12 @@ class AccountReport(object):
             digital += int(datum['Digital'] or 0)
             stockCD += int(datum['CD'] or 0)
             stockLP += int(datum['LP'] or 0)
-        if stockCD != EXPECTED_CD[self.__account.account]:
-            print "Stock mismatch: {} CD {} != {}".format(self.__account.account, stockCD, EXPECTED_CD[self.__account.account])
-        if stockLP != EXPECTED_LP[self.__account.account]:
-            print "Stock mismatch: {} Vinyl {} != {}".format(self.__account.account, stockLP, EXPECTED_LP[self.__account.account])
+        # if stockCD != EXPECTED_CD[self.__account.account]:
+        #     print "Stock mismatch: {} CD {} != {}".format(
+        #         self.__account.account, stockCD, EXPECTED_CD[self.__account.account])
+        # if stockLP != EXPECTED_LP[self.__account.account]:
+        #     print "Stock mismatch: {} Vinyl {} != {}".format(
+        #         self.__account.account, stockLP, EXPECTED_LP[self.__account.account])
         return """
 <tfoot>
     <tr>
@@ -143,7 +146,7 @@ class AccountReport(object):
 </tfoot>""".format(balance, digital, stockCD, stockLP)
 
     def as_html(self):
-        return """
+        return ("""
 <html>
     <head>
         <meta charset="UTF-8">
@@ -263,12 +266,8 @@ class AccountReport(object):
                account_artist=self.__account.artist,
                account_name=self.__account.name,
                start_date=self.__account.start_date,
-               end_date=self.__account.end_date, ) +\
-    self._rows() +\
-    """
+               end_date=self.__account.end_date, ) + self._rows() + """
             </tbody>
-    """ +\
-    self._total() +\
-    """
+    """ + self._total() + """
     </body>
-</html>"""
+</html>""")

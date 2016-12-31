@@ -4,6 +4,7 @@ import re
 from models import AccountMeta
 from datetime import date
 
+
 def _parse_date(datestr):
     groups = re.match('(\d{1,2})[\-\./](\d{1,2})[\-\./](\d{4})', datestr)
     if groups:
@@ -11,6 +12,7 @@ def _parse_date(datestr):
     groups = re.match('(\d{4})[\-\./](\d{1,2})[\-\./](\d{1,2})', datestr)
     if groups:
         return date(int(groups.group(1)), int(groups.group(2)), int(groups.group(3)))
+
 
 class Direct(object):
     def __init__(self, fh):
@@ -43,11 +45,16 @@ class Direct(object):
     def parse(self):
         import csv
         reader = csv.reader(self.__fh)
+        header = reader.next()
+        assert header == [
+            'DATE', 'RELEASE_ID', 'CDS', 'LPS',
+            'AMOUNT', 'TRANSACTION', 'CHANNEL', 'DESCRIPTION'
+        ]
         for row in reader:
             date_, account, cds, lps, amount, transaction, channel, description = row
             date_ = _parse_date(date_)
-            cds = int(cds)
-            lps = int(lps)
+            cds = int(cds or 0)
+            lps = int(lps or 0)
             amount = float(amount)
             account_meta = AccountMeta.accounts()[account]
             comment = '{} / {}'.format(account_meta.artist, account_meta.name)

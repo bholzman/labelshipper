@@ -2,6 +2,7 @@
 from __future__ import absolute_import, unicode_literals
 import re
 
+
 class AccountMeta(object):
     def __init__(self, account, nickname, artist, name, status, digital, cd, lp, origin, bs_cd, bs_lp):
         self.__account = account
@@ -74,18 +75,30 @@ class AccountMeta(object):
         import csv
         with open(source, 'rb') as fh:
             reader = csv.reader(fh)
+            header = reader.next()
+            assert header == [
+                'RELEASE_ID', 'INITIALS', 'ARTIST', 'TITLE', 'STATUS', 'DIGITAL_TYPE',
+                'CD_TYPE', 'LP_TYPE', 'ORIGIN', 'BS_CD_ID', 'BS_LP_ID'
+            ]
             class_.ACCOUNTS = {row[0]: AccountMeta(*[unicode(x, 'utf-8') for x in row]) for row in reader}
 
     @classmethod
     def accounts(class_):
         return class_.ACCOUNTS
 
+
 class Account(object):
     def __init__(self, account, start_date, start_balance, start_cd, start_lp, **kwargs):
         assert account in AccountMeta.accounts()
         self.__account = account
         self.__meta = AccountMeta.accounts()[account]
-        self.__entries = [{'date': start_date, 'amount': start_balance, 'transaction': 'carry-over', 'cds': start_cd, 'lps': start_lp}]
+        self.__entries = [{
+            'date': start_date,
+            'amount': start_balance,
+            'transaction': 'carry-over',
+            'cds': start_cd,
+            'lps': start_lp
+        }]
         for bs in kwargs.get('brokensilence', []):
             self.__entries += bs.entries_for(self)
         for ds in kwargs.get('direct', []):
@@ -110,7 +123,6 @@ class Account(object):
     @property
     def end_date(self):
         return max([x['date'] for x in self.__entries])
-
 
     def has_article(self, article):
         normalized = re.sub('\*', ' ', article)

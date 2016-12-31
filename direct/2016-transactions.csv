@@ -1,0 +1,17 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION
+2016.2.9,LS00041,0,0,-434.41,payment,Labelship,payoff HHLLC
+2016.2.9,LS00032,0,0,-47.41,payment,Labelship,payoff HHLLC
+2016.6.2,LS00046,0,0,-762.1695,expense,Labelship,publicist fee Green Ligt Go USA
+2016.6.24,LS00045,0,0,-1736.32,expense,Labelship,CD manufacturing 1500pcs
+2016.7.19,LS00045,0,0,-220,expense,Labelship,MPN Network
+2016.6.28,LS00045,0,0,1736.32,expense,Labelship,CD manufacturing 1500pcs
+2016.7.18,LS00045,0,0,220,expense,Labelship,MPN Network
+2016.7.6,LS00009,0,0,-101.85,payment,Labelship,"pay off artist, INV 23/16 "
+2016.7.6,LS00009,0,0,-101.85,payment,Labelship,pay off labelship
+2016.8.10,LS00046,0,0,-89.397,expense,Labelship,publicist fee Green Ligt Go USA
+2016.8.10,LS00045,0,0,-349.179,expense,Labelship,publicist fee Polymath PR
+2016.9.20,LS00046,0,0,-288.7352955,expense,Labelship,CD manufacturing 200pcs
+2016.9.21,LS00046,0,0,288.8047215,payment,Labelship,paid by artist
+2016.10.18,LS00046,0,0,-5.3200475,expense,Labelship,shipment GLG USA
+2016.9.28,LS00046,0,0,-17.3514185,expense,Labelship,shipment Iceland
+2016.11.2,LS00041,0,0,-1019.414028,expense,Labelship,re-press CD albums

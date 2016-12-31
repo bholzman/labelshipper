@@ -1,0 +1,239 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION
+2016.1.22,LS00001,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00011,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00033,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00006,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00018,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00037,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00030,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00038,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00002,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00015,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00029,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.1.22,LS00005,1,0,2.64172,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00038,3,0,7.67292,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00006,2,0,5.11528,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00015,1,0,2.55764,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00005,1,0,2.55764,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00037,1,0,2.55764,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00005,0,1,6.3941,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00038,0,1,6.3941,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00030,2,0,5.11528,sale,Labelship direct sale,"various, UK"
+2016.3.21,LS00018,2,0,5.11528,sale,Labelship direct sale,"various, UK"
+2016.4.15,LS00041,0,1,0,sale,Labelship direct sale,show sale Cincinnati
+2016.4.16,LS00041,2,0,0,sale,Labelship direct sale,show sale Chicago
+2016.4.16,LS00043,1,0,0,sale,Labelship direct sale,show sale Chicago
+2016.4.21,LS00041,0,1,0,sale,Labelship direct sale,show sale Hunter Mtn
+2016.4.22,LS00043,2,0,0,sale,Labelship direct sale,show sale Pittsburgh
+2016.4.23,LS00041,4,2,0,sale,Labelship direct sale,show sale Louisville
+2016.4.23,LS00043,1,0,0,sale,Labelship direct sale,show sale Louisville
+2016.4.23,LS00032,1,0,0,sale,Labelship direct sale,show sale Louisville
+2016.4.23,LS00029,1,0,0,sale,Labelship direct sale,show sale Louisville
+2016.4.24,LS00041,2,2,0,sale,Labelship direct sale,show sale Chicago
+2016.4.24,LS00043,2,0,0,sale,Labelship direct sale,show sale Chicago
+2016.4.25,LS00041,1,0,0,sale,Labelship direct sale,show sale La Fayette
+2016.4.25,LS00032,0,1,0,sale,Labelship direct sale,show sale La Fayette
+2016.4.25,LS00029,1,0,0,sale,Labelship direct sale,show sale La Fayette
+2016.4.26,LS00041,4,1,0,sale,Labelship direct sale,show sale Evansville
+2016.4.27,LS00041,1,2,0,sale,Labelship direct sale,show sale Nashville
+2016.4.28,LS00041,3,1,0,sale,Labelship direct sale,show sale Knoxville
+2016.4.29,LS00041,1,0,0,sale,Labelship direct sale,show sale Abingdon
+2016.4.29,LS00043,1,0,0,sale,Labelship direct sale,show sale Abingdon
+2016.4.30,LS00041,2,2,0,sale,Labelship direct sale,show sale Shakedown Fest
+2016.4.30,LS00043,2,0,0,sale,Labelship direct sale,show sale Shakedown Fest
+2016.4.30,LS00029,1,0,0,sale,Labelship direct sale,show sale Durham
+2016.5.1,LS00041,0,2,0,sale,Labelship direct sale,show sale Baltimore
+2016.5.1,LS00029,1,0,0,sale,Labelship direct sale,show sale Baltimore
+2016.5.2,LS00041,1,1,0,sale,Labelship direct sale,show sale NYC
+2016.5.8,LS00041,0,1,0,sale,Labelship direct sale,show sale NYC
+2016.5.8,LS00041,0,1,0,sale,Labelship direct sale,show sale NYC
+2016.7.4,LS00044,1,0,11.9174,sale,Labelship direct sale,mailorder sale
+2016.8.1,LS00002,1,0,3.54249,sale,Labelship direct sale,sale The Rude Shipyard
+2016.8.1,LS00001,1,0,3.54249,sale,Labelship direct sale,sale The Rude Shipyard
+2016.7.30,LS00041,15,0,177.645,sale,Labelship direct sale,gig sales UK July 16
+2016.7.30,LS00041,0,3,53.2935,sale,Labelship direct sale,gig sales UK July 16
+2016.9.11,LS00041,12,4,212.4558,sale,Labelship direct sale,gig sales UK Aug 16
+2016.10.4,LS00037,2,0,20,sale,Labelship direct sale,gig sale Berlin
+2016.10.4,LS00039,0,2,30,sale,Labelship direct sale,gig sale Berlin
+2016.10.6,LS00037,5,0,50,sale,Labelship direct sale,gig sale Paris
+2016.10.6,LS00039,0,5,80,sale,Labelship direct sale,gig sale Paris
+2016.10.11,LS00039,0,1,15,sale,Labelship direct sale,gig sale Hull
+2016.10.12,LS00037,1,0,7.75131,sale,Labelship direct sale,gig sale Glasgow
+2016.10.13,LS00037,2,0,15.5043,sale,Labelship direct sale,gig sale Edinburgh
+2016.11.1,LS00014,0,2,13.28124,sale,Labelship direct sale,Record Collector Sheffield
+2016.11.1,LS00002,0,1,7.3821559,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.1,LS00045,1,0,3.6855441,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.1,LS00044,1,0,3.6855441,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.1,LS00037,1,0,3.6855441,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.1,LS00005,1,0,3.6855441,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.1,LS00041,0,1,11.0787677,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.9.30,LS00001,1,1,8,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00002,1,1,8,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00004,1,1,8,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00005,1,1,12,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00006,1,1,8,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00007,2,0,4,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00009,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00013,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00014,0,1,4,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00015,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00017,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00018,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00020,1,1,6,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00021,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00022,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00023,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00024,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00025,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00026,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00027,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00030,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00032,0,1,6,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00033,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00035,0,1,4,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00036,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00037,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00038,1,1,8,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00041,1,0,2,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.9.30,LS00045,1,0,5,sale,Labelship direct sale,Plattenkiste Cuxhaven
+2016.10.4,LS00001,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00002,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00004,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00005,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00011,1,0,2,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00013,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00015,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00018,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00023,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00024,1,0,5,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00026,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00035,1,0,2,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00037,1,0,3,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.10.4,LS00045,1,0,5,sale,Labelship direct sale,Gemischtwarenladen Berlin
+2016.11.6,LS00043,1,0,3.60752,sale,Labelship direct sale,gig sale State College PA
+2016.11.6,LS00041,2,1,31.5658,sale,Labelship direct sale,gig sale State College PA
+2016.11.6,LS00029,1,0,9.0188,sale,Labelship direct sale,gig sale State College PA
+2016.11.8,LS00041,2,0,18.1584,sale,Labelship direct sale,gig sale Columbus OH
+2016.11.9,LS00041,4,0,36.6328,sale,Labelship direct sale,gig sale Madison IN
+2016.11.10,LS00041,2,0,18.3708,sale,Labelship direct sale,gig sale Louisville KY
+2016.11.11,LS00041,1,2,46.054,sale,Labelship direct sale,gig sale Nashvill TN
+2016.11.12,LS00041,4,3,92.124,sale,Labelship direct sale,gig sale Johnson City TN
+2016.11.12,LS00032,0,1,13.8186,sale,Labelship direct sale,gig sale Johnson City TN
+2016.11.12,LS00029,1,0,9.2124,sale,Labelship direct sale,gig sale Johnson City TN
+2016.11.12,LS00043,3,0,8.29116,sale,Labelship direct sale,gig sale Johnson City TN
+2016.11.16,LS00041,1,1,28.0329,sale,Labelship direct sale,gig sale NYC
+2016.11.17,LS00041,4,0,37.6416,sale,Labelship direct sale,gig sale Boston MA
+2016.12.1,LS00041,0,1,11.8148,sale,Labelship direct sale,"Alt Seen Eye, Sheffield"
+2016.11.8,LS00001,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00002,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00004,2,0,7.26336,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00005,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00006,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00007,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00011,2,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00015,2,0,7.26336,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00018,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00027,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00030,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00033,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00035,1,0,1.81584,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00037,1,0,3.63168,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00037,2,0,7.26336,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00042,1,0,1.81584,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.8,LS00045,1,0,4.5396,sale,Labelship direct sale,"The House With No Name, Columbus OH"
+2016.11.25,LS00001,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00002,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00004,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00005,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00006,1,1,13.21544,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00007,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00011,1,0,1.88792,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00015,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00017,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00018,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00021,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00022,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00023,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00026,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00029,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00030,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00032,0,1,9.4396,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00033,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00036,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00039,0,1,9.4396,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.11.25,LS00041,1,0,3.77584,sale,Labelship direct sale,"In Your Ear Records, Boston MA"
+2016.12.15,LS00029,1,0,3.57351,sale,Labelship direct sale,Rude Shipyard
+2016.12.15,LS00005,1,0,3.57351,sale,Labelship direct sale,Rude Shipyard
+2016.12.15,LS00045,1,0,5.95585,sale,Labelship direct sale,Rude Shipyard
+2016.12.15,LS00036,1,0,5.95585,sale,Labelship direct sale,Rude Shipyard
+2016.12.15,LS00026,1,0,5.95585,sale,Labelship direct sale,Rude Shipyard
+2016.12.15,LS00023,1,0,3.57351,sale,Labelship direct sale,Rude Shipyard
+2016.12.20,LS00045,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00029,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00030,1,0,2,sale,Labelship direct sale,various Germany
+2016.12.20,LS00033,1,0,2,sale,Labelship direct sale,various Germany
+2016.12.20,LS00041,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00036,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00027,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00042,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00035,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00025,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00024,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00037,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00038,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00023,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00046,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00013,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00020,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00011,1,0,2,sale,Labelship direct sale,various Germany
+2016.12.20,LS00018,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00017,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00005,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00015,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00006,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00007,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00004,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00002,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00001,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00029,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00045,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00041,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00027,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00025,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00024,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00033,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00030,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00023,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00021,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00017,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00013,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00011,1,0,2,sale,Labelship direct sale,various Germany
+2016.12.20,LS00018,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00007,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00006,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00005,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00015,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00004,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00002,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00001,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00045,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00029,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00024,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00033,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00030,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00038,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00021,1,0,5,sale,Labelship direct sale,various Germany
+2016.12.20,LS00013,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00026,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00027,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00015,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00005,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00017,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00011,1,0,2,sale,Labelship direct sale,various Germany
+2016.12.20,LS00018,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00025,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00006,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00007,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00004,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00002,1,0,3,sale,Labelship direct sale,various Germany
+2016.12.20,LS00001,1,0,3,sale,Labelship direct sale,various Germany

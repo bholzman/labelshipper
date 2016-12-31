@@ -3,10 +3,12 @@ from __future__ import absolute_import, unicode_literals
 import re
 from datetime import date
 
+
 def _parse_date(datestr):
     groups = re.match('(\d{2})\.(\d{2})\.(\d{4})', datestr)
     if groups:
         return date(int(groups.group(3)), int(groups.group(2)), int(groups.group(1)))
+
 
 class BrokenSilence(object):
     def __init__(self, fh):
@@ -79,7 +81,9 @@ class BrokenSilence(object):
                         {'date': report_date,
                          'amount': float(row['total amount']),
                          'transaction': 'download/stream',
-                         'comment': u'/'.join(row['track']) if isinstance(row['track'], (tuple, list)) else row['track'],
+                         'comment': (u'/'.join(row['track'])
+                                     if isinstance(row['track'], (tuple, list))
+                                     else row['track']),
                          'channel': row['shop'],
                          'digital': int(row['domestic'][0])})
 
@@ -98,19 +102,36 @@ class BrokenSilence(object):
         return {c: _expand(cells[i]) for i, c in enumerate(self.__curtbl[columns])}
 
     def parse(self):
+        def _newtbl():
+            return {
+                'report_date': report_date,
+                'sales_start': sales_start,
+                'sales_end': sales_end,
+                'columns': [],
+                'rows': [],
+                'total_columns': [],
+                'totals': {}
+            }
+
         for raw in self.__fh:
             row = unicode(raw, 'iso-8859-1').strip()
-            match = re.match('^statement (\w+) reference no: (\d+), date: (\d\d\.\d\d\.\d{4}), salesperiode: (\d\d\.\d\d\.\d{4})?-(\d\d\.\d\d\.\d{4})?$', row)
+            match = re.match(
+                '^statement (\w+) reference no: (\d+), date: (\d\d\.\d\d\.\d{4}), '
+                'salesperiode: (\d\d\.\d\d\.\d{4})?-(\d\d\.\d\d\.\d{4})?$', row)
             if match:
                 statement_type, ref_no, report_date, sales_start, sales_end = match.groups()
-                self.__tables[statement_type] = {'report_date': report_date, 'sales_start': sales_start, 'sales_end': sales_end,
-                                                 'columns': [], 'rows': [], 'total_columns': [], 'totals': {}}
+                self.__tables[statement_type] = _newtbl()
                 self.__curtbl = self.__tables[statement_type]
                 if self.__reference_number:
                     if ref_no != self.__reference_number:
-                        raise Exception("Multiple Reference Numbers Found: {} != {}".format(ref_no, self.__reference_number))
+                        raise Exception(
+                            "Multiple Reference Numbers Found: {} != {}".format(ref_no, self.__reference_number))
                 else:
                     self.__reference_number = ref_no
+            elif re.match('^summary physical sales$', row):
+                statement_type = 'physical_summary'
+                self.__tables[statement_type] = _newtbl()
+                self.__curtbl = self.__tables[statement_type]
             elif self.__curtbl:
                 if row:
                     cells = row.split(';')
@@ -118,7 +139,8 @@ class BrokenSilence(object):
                         self.__curtbl['total_columns'] = cells
                     elif self.__curtbl['total_columns']:
                         if len(cells) != len(self.__curtbl['total_columns']):
-                            raise Exception("Inconsistent Row Found: {} != {}".format(cells, self.__curtbl['total_columns']))
+                            raise Exception(
+                                "Inconsistent Row Found: {} != {}".format(cells, self.__curtbl['total_columns']))
                         else:
                             self.__curtbl['totals'] = self._cells_by_column(cells, 'total_columns')
                     elif self.__curtbl['columns']:

@@ -1,3 +1,4 @@
+RELEASE_ID,INITIALS,ARTIST,TITLE,STATUS,DIGITAL_TYPE,CD_TYPE,LP_TYPE,ORIGIN,BS_CD_ID,BS_LP_ID
 LS00001,AF,"Astrid's Farm",Cyclist,active,digital (worldwide),CD (6_panel_DigiPak),Vinyl LP,GER / UK,CD 13901,LP 13902
 LS00002,XR,"Xrfarflight",The early bird...,active,digital (worldwide),CD (6_panel_DigiPak),Vinyl LP,GER,CD 13903,LP 13904
 LS00003,PC,"Philipp Caspar Frederick",Riding Hearses,inactive,,,,GER,,
@@ -38,5 +39,9 @@ LS00039,MB,"Martin Bisi",Ex-Nihilo,active,digital (EUR and UK),,Vinyl LP,USA,,LP
 LS00040,BL,"The Bone Lab",Fresh Meat,active,digital (worldwide),CD (4_panel_DigiPak),,USA,CD 09929,
 LS00041,FS,"Frogbelly and Symphony",Blue Bright Ow Sleep,active,digital (worldwide),CD (4_panel_DigiPak),Vinyl LP (Gatefold),UK / USA,CD 06275,LP 06276
 LS00042,LS,"Lonesome Station",Current Space,active,digital (worldwide),,,,,
-LS00043,FS_NV,"Frogbelly and Symphony / 9-Volt Haunted House",Can I Dress Like You?,active,digital (worldwide),,,,,
-LS00044,SC,"Steel City Rhythm","Free Love & Fighting",active,digital (worldwide),,,UK,,
+LS00043,FS_NV,"Frogbelly and Symphony / 9-Volt Haunted House",Can I Dress Like You?,active,digital (worldwide),CD,,USA,CD 09021,
+LS00044,SC,"Steel City Rhythm","Free Love & Fighting",active,digital (worldwide),CD,,UK,CD 09050,
+LS00045,PH,"Phia","The Ocean Of Everything",active,digital (worldwide except NZ and AUS),CD (4_panel_DigiPak),,AUS,CD 06277,
+LS00046,OO,"Owls Of The Swamp",Meteorite,active,digital (worldwide),Promotional,,AUS,,
+LS00047,OA,"Overdrive Amp Explosion",Bounds,future,digital (worldwide),,12" Vinyl,CH,,
+LS00048,CC,"Cinema Cinema",Man Bites Dog,future,digital (worldwide),CD (4_panel_DigiPak),12" Vinyl,USA,,

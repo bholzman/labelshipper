@@ -26,6 +26,8 @@ def _balances():
     import csv
     with open('etc/balance.csv', 'rb') as fh:
         reader = csv.reader(fh)
+        header = reader.next()
+        assert header == ['RELEASE_ID', 'AS_OF_DATE', 'BALANCE', 'CDS', 'LPS']
         return {row[0]:{'as_of': date(*map(int, row[1].split('-'))),
                         'balance': float(row[2]),
                         'stockCD': int(row[3]),
