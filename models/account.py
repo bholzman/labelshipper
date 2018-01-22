@@ -22,10 +22,10 @@ class AccountMeta(object):
         self.__cd_article = None
         self.__lp_article = None
         if bs_cd:
-            self.__articles.append(bs_cd)
+            self.__articles.extend(bs_cd.split(';'))
             self.__cd_article = bs_cd
         if bs_lp:
-            self.__articles.append(bs_lp)
+            self.__articles.extend(bs_lp.split(';'))
             self.__lp_article = bs_lp
 
     @property
@@ -101,6 +101,7 @@ class Account(object):
         }]
         for bs in kwargs.get('brokensilence', []):
             self.__entries += bs.entries_for(self)
+        print "For {}, found {} bs entries".format(account, len(self.__entries) - 1)
         for ds in kwargs.get('direct', []):
             self.__entries += ds.entries_for(self)
 

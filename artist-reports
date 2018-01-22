@@ -1,19 +1,20 @@
 #!/usr/bin/python
 
 from __future__ import absolute_import
+import csv
 import sys
 import os
 from models import AccountReport, AccountMeta, Account, BrokenSilence, Direct
 from datetime import date
 
-def _bs(csv):
-    with open(csv, 'r') as fh:
+def _bs(file):
+    with open(file, 'r') as fh:
         bs = BrokenSilence(fh)
         bs.parse()
     return bs
 
-def _ds(csv):
-    with open(csv, 'r') as fh:
+def _ds(file):
+    with open(file, 'r') as fh:
         d = Direct(fh)
         d.parse()
     return d
@@ -23,7 +24,6 @@ def _accounts():
     return AccountMeta.accounts().keys()
 
 def _balances():
-    import csv
     with open('etc/balance.csv', 'rb') as fh:
         reader = csv.reader(fh)
         header = reader.next()
@@ -33,6 +33,20 @@ def _balances():
                         'stockCD': int(row[3]),
                         'stockLP': int(row[4])} for row in reader}
 
+def _update_balances(balances):
+    with open('etc/balance.csv.update', 'w') as fh:
+        writer = csv.writer(fh)
+        writer.writerow(['RELEASE_ID', 'AS_OF_DATE', 'BALANCE', 'CDS', 'LPS'])
+        for release_id, datum in balances.iteritems():
+            writer.writerow([
+                release_id,
+                datum['as_of'],
+                datum['balance'],
+                datum['stockCD'],
+                datum['stockLP'],
+            ])
+    os.rename('etc/balance.csv.update', 'etc/balance.csv')
+
 def main(args):
     accounts = _accounts()
     balances = _balances()
@@ -40,15 +54,29 @@ def main(args):
     brokensilence_statements = []
     direct_statements = []
     active = None
+    action = 'generate-reports'
+    as_of = date.today().strftime('%Y-%m-%d')
     for a in args:
         if a == '--bs':
             active = 'bs'
         elif a == '--direct':
             active = 'direct'
+        elif a == '--as-of':
+            active = 'as-of'
+        elif a == '--update-balances':
+            action = 'update-balances'
+        elif a == '--generate-reports':
+            action = 'generate-reports'
         elif active == 'bs':
             brokensilence_statements.append(_bs(a))
         elif active == 'direct':
             direct_statements.append(_ds(a))
+        elif active == 'as-of':
+            as_of = a
+
+    verb = 'Updating balances' if action == 'update-balances' else 'Processing reports'
+    print "{} with {} brokensilence statements and {} direct statements".format(
+        verb, len(brokensilence_statements), len(direct_statements))
 
     for account_id in accounts:
         balance = balances[account_id]
@@ -60,14 +88,32 @@ def main(args):
             balance['stockLP'],
             brokensilence=brokensilence_statements,
             direct=direct_statements)
-        account_report = AccountReport(account)
-        html = account_report.as_html()
-        date_string = '{}'.format(date.today())
-        report_dir = 'reports/{}'.format(date_string)
-        if not os.path.exists(report_dir):
-            os.makedirs('reports/' + date_string)
-        with open('{dr}//{id}-{ds}.html'.format(dr=report_dir, id=account_id, ds=date_string), 'w') as fh:
-            fh.write(html.encode('utf-8'))
+        if action == 'update-balances':
+            balance = 0.0
+            stockCD = 0
+            stockLP = 0
+            for datum in account.report_data():
+                balance += float(datum['Amount'])
+                stockCD += int(datum['CD'] or 0)
+                stockLP += int(datum['LP'] or 0)
+
+            balances[account_id] = {
+                'as_of': as_of,
+                'balance': '{:2}'.format(balance),
+                'stockCD': stockCD,
+                'stockLP': stockLP,
+            }
+        else:
+            date_string = date.today().strftime('%Y-%m-%d')
+            account_report = AccountReport(account)
+            html = account_report.as_html()
+            report_dir = 'reports/{}'.format(date_string)
+            if not os.path.exists(report_dir):
+                os.makedirs('reports/' + date_string)
+            with open('{dr}//{id}-{ds}.html'.format(dr=report_dir, id=account_id, ds=date_string), 'w') as fh:
+                fh.write(html.encode('utf-8'))
+
+    _update_balances(balances)
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))

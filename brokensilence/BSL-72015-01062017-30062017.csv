@@ -1,0 +1,1681 @@
+statement national reference no: 924566, date: 30.06.2017, salesperiode: 01.06.2017-30.06.2017
+
+article no;artist / title;stock begin / end;arrivals dispatch;domestic qty/dealer/net(aver.);amount domestic;export qty;returns domestic qty/dealer/domestic net(aver.);amount returns domestic;f.o.c dom.;total amount
+7"*06256;Tonfang/ThePiss;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+7"*06271;LonesomeStation/s.t.;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06264;MeikeSchrader/DasGrün...;54 / 51;0 / 2;1 / 5,391 / 3,666;3,67;0;0 / 0,000 / 0,000;-0,00;0;3,67
+CD 06277;Phia/TheOceanOfEverything;136 / 143;0 / 0;0 / 0,000 / 0,000;0,00;0;7 / 8,112 / 5,516;-38,61;0;-38,61
+CD 06278;CinemaCinema/ManBitesDog;161 / 156;0 / 0;0 / 0,000 / 0,000;0,00;5;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06280;AshGray/ChickenWire;0 / 0;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06251;KidDecker/Reveries;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06252;V.A./MelodicaCompilation1;18 / 3;0 / 15;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06253;DearJohnLetter/PartAndFragment;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06254;KidDecker/YourKind;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06255;Binoculers/EverySeaman s...;21 / 5;0 / 15;1 / 8,401 / 5,713;5,71;0;0 / 0,000 / 0,000;-0,00;0;5,71
+CD*06257;T.Stock/Rocket;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06258;OverdriveAmpExplosion/Blanks;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06260;StarsForTheBanned/StarsForTheBanned;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06261;OwlsOfTheSwamp/GoWithRiver;13 / 2;0 / 11;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06263;V.A./MelodicaCompilation2;8 / 3;0 / 5;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06265;N.Wilckens/StoriesTheSea...;4 / 3;0 / 1;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06266;Outroads/IAmHappy;6 / 6;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06267;LizHanley/TheEcstasy...;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06270;St.Allen/WreckThe...;3 / 1;0 / 2;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06272;OwlsOfTheSwamp/Atlas;93 / 9;0 / 84;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06275;FrogbellyAndSymphony/BlueBright...;78 / 10;0 / 68;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13901;AstridsFarm/Cyclist;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13903;Xrfarflight/TheEarlyBird;5 / 5;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13906;EmmyMoll/AllTheMonsters;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13908;DearJohnLetter/Between Leaves-Forestal;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13910;FrauKraushaar/LeSalonIsVeryMorbidä;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13912;V.A./IntroducingLabelship;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 06279;CinemaCinema/ManBitesDog;36 / 33;0 / 0;2 / 13,025 / 8,857;17,71;1;0 / 0,000 / 0,000;-0,00;0;17,71
+LP 08002;AshGray/ChickenWire;0 / 0;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*05257;Binoculers/EverySeaman s...;6 / 3;0 / 3;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06259;OverdriveAmpExplosion/EasyTiger(Split-EP;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06268;Frogbelly.../TheEye;25 / 3;0 / 22;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06273;OwlsOfTheSwamp/Atlas(Lim.Ed.);20 / 2;0 / 18;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06274;M.Bisi/Ex-Nihilo;3 / 2;0 / 1;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06276;FrogbellyAndSymphony/BlueBright...;48 / 16;0 / 30;2 / 4,315 / 2,934;5,87;0;0 / 0,000 / 0,000;-0,00;0;5,87
+LP*13902;AstridsFarm/Cyclist;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13904;Xrfarflight/TheEarlyBird;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13907;EmmyMoll/AllTheMonsters;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13909;DearJohnLetter/Between Leaves-Forestal;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13911;FrauKraushaar/LeSalonIsVeryMorbidä;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+
+total sales domestic;total amount domestic;total returns domestic;ret amount domestic;total value;handling fee returns;f.o.c total;reserve for returns (nat+int);refund of reserve;stock-return shipping;v.a.t. / tax 19%;v.a.t. / tax 7%;total value to be paid
+6;32,96;7;-38,61;-5,65;-1,70;0;-19,88;8,72;-37,00;0,00;0,00;-55,52 EUR
+
+
+
+statement international reference no: 924566, date: 30.06.2017, salesperiode: 01.06.2017-30.06.2017
+
+
+article no.;artist / title;export sales/prices;amount export;returns export qty/dealer/net(aver.);amount returns exp.;f.o.c. exp.;total amount
+CD 06278;CinemaCinema/ManBitesDog;5 / 6,755 / 5,201;26,01;0 / 0,000 / 0,000;-0,00;0;26,01
+LP 06279;CinemaCinema/ManBitesDog;1 / 9,500 / 7,315;7,32;0 / 0,000 / 0,000;-0,00;0;7,32
+
+total sales export;total amount export;total returns export;total amount returns exp.;handling fee returns;f.o.c. total;total value;v.a.t. / tax 19%;v.a.t. / tax 7%;total value to be paid
+6;33,32;0;0,00;0,00;0;33,32;0,00;0,00;33,32 EUR
+
+
+
+summary physical sales
+
+article no.;barcode;label no.;artist;title;net sales domestic;net sales export;net sales total;net amount domestic;net amount export;net amount total;handling fee returns
+7"*06256;"4250137262567"; ;TONFANG;The Piss;0;0;0;0;0;0;0
+7"*06271;"4250137262710"; ;LONESOME STATION;Lonesome Station (+ CD);0;0;0;0;0;0;0
+CD 06264;"4250137262642";LS0024;SCHRADER, MEIKE;Das Grün In Deinen Augen;1;0;1;3,67;0;3,67;0
+CD 06277;"4250137262772"; ;PHIA;The Ocean Of Everything;-7;0;-7;-38,61;0;-38,61;1,7
+CD 06278;"4250137262789"; ;CINEMA CINEMA ;Man Bites Dog;0;5;5;0;26,01;26,01;0
+CD 06280;"4250137262802"; ;GRAY, ASH;Chicken Wire;0;0;0;0;0;0;0
+CD*06251;"4250137262512";LS0011;KID DECKER ;Reveries EP;0;0;0;0;0;0;0
+CD*06252;"4250137262529";LS0013;VARIOUS ARTISTS;Melodica Compilation #1 ;0;0;0;0;0;0;0
+CD*06253;"4250137262536";LS0015;DEAR JOHN LETTER ;Part And Fragment;0;0;0;0;0;0;0
+CD*06254;"4250137262543";LS0018;KID DECKER ;Your Kind;0;0;0;0;0;0;0
+CD*06255;"4250137262550";LS0009;BINOCULERS;Every Seaman s Got A Favourite Spaceship;1;0;1;5,71;0;5,71;0
+CD*06257;"4250137262574"; ;STOCK, TORBEN;Rocket;0;0;0;0;0;0;0
+CD*06258;"4250137262581";LS0021;OVERDRIVE AMP EXPLOSION ;Blanks;0;0;0;0;0;0;0
+CD*06260;"4250137262604";LS0022;STARS FOR THE BANNED ;Stars For The Banned;0;0;0;0;0;0;0
+CD*06261;"4250137262611";LS0023;OWLS OF THE SWAMP  ;Go With River;0;0;0;0;0;0;0
+CD*06263;"4250137262635"; ;VARIOUS ARTISTS;Melodica Compilation #2;0;0;0;0;0;0;0
+CD*06265;"4250137262659";LS0027;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;0;0;0;0;0;0;0
+CD*06266;"4250137262666";LS0030;OUTROADS;I Am Happy;0;0;0;0;0;0;0
+CD*06267;"4250137262673";LS0029;HANLEY, LIZ;The Ecstasy Of St, Cécilia;0;0;0;0;0;0;0
+CD*06270;"4250137262703";LS0036;ALLEN, STEVE;Wreck the Place;0;0;0;0;0;0;0
+CD*06272;"4250137262727";LS0038CD;OWLS OF THE SWAMP;Atlas;0;0;0;0;0;0;0
+CD*06275;"4250137262758";LS0041;FROGBELLY AND SYMPHONY;Blue Bright Ow Sleep;0;0;0;0;0;0;0
+CD*13901;"4024572340476";LS0001CD;ASTRID S FARM ;Cyclist;0;0;0;0;0;0;0
+CD*13903;"4024572340483";LS0002CD;XRFARFLIGHT ;The Early Bird;0;0;0;0;0;0;0
+CD*13906;"4024572352899";LS0004CD;EMMY MOLL;All The Monsters;0;0;0;0;0;0;0
+CD*13908;"4024572354909";LS0005CD;DEAR JOHN LETTER ;Between Leaves/Forestal;0;0;0;0;0;0;0
+CD*13910;"4024572354985";LS0006CD;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;0;0;0;0;0;0;0
+CD*13912;"4024572361839";LS0007CD;VARIOUS ARTISTS;Introducing Labelship ;0;0;0;0;0;0;0
+LP 06279;"4250137262796"; ;CINEMA CINEMA ;Man Bites Dog;2;1;3;17,71;7,32;25,03;0
+LP 08002;"4250137280028"; ;GRAY, ASH;Chicken Wire;0;0;0;0;0;0;0
+LP*05257;"4250137252575";LSLP0009;BINOCULERS;Every Seaman s Got A Favourite Spaceship;0;0;0;0;0;0;0
+LP*06259;"4250137262598";LS0020;OVERDRIVE AMP EXPLOSION/EASY TIGER ;Overdrive Amp Explosion/Easy Tiger (Split-LP);0;0;0;0;0;0;0
+LP*06268;"4250137262680";LS0032;FROGBELLY AND SYMPHONY;The Eye EP (+CD);0;0;0;0;0;0;0
+LP*06273;"4250137262734";LS0038LP;OWLS OF THE SWAMP;Atlas (Lim,Ed,);0;0;0;0;0;0;0
+LP*06274;"4250137262741";LS0039;BISI, MARTIN ;Ex-Nihilo ;0;0;0;0;0;0;0
+LP*06276;"4250137262765"; ;FROGBELLY AND SYMPHONY;Blue Bright Ow Sleep (Lim,Ed);2;0;2;5,87;0;5,87;0
+LP*13902;"4024572341176";LS0001LP;ASTRID S FARM ;Cyclist;0;0;0;0;0;0;0
+LP*13904;"4024572341183";LS0002LP;XRFARFLIGHT ;The Early Bird;0;0;0;0;0;0;0
+LP*13907;"4024572354916";LS0004LP;EMMY MOLL;All The Monsters;0;0;0;0;0;0;0
+LP*13909;"4024572354893";LS0005LP;DEAR JOHN LETTER ;Between Leaves/Forestal;0;0;0;0;0;0;0
+LP*13911;"4024572354978";LS0006LP;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;0;0;0;0;0;0;0
+
+
+statement digital reference no: 924566, date: 30.06.2017, salesperiode: -
+
+
+article no.;barcode;artist;title;track;shop;country;qty;dealer (average);net (average);total amount
+7" 06256;4250137262567;Tonfang;The Piss;Jess;TDC Play;DK;1;0,008;0,006;0,006
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Spotify;DE;2;0,004;0,003;0,006
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Just Look;Deezer;CH;1;0,010;0,008;0,008
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Dmand;Spotify;CH;4;0,004;0,004;0,014
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);What We¦ve Said;Spotify;FR;1;0,002;0,001;0,001
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Spotify;IT;2;0,002;0,002;0,004
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Just Look;Spotify;FR;2;0,002;0,001;0,003
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);22h;Spotify;CH;7;0,005;0,004;0,027
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Dmand;Spotify;IT;1;0,002;0,002;0,002
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Man Without a Back;Spotify;BE;5;0,005;0,004;0,018
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);The Flowers Are Gone;Spotify;CH;4;0,005;0,004;0,017
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Deezer;CH;2;0,010;0,008;0,016
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Happy in the Dark;Spotify;CH;2;0,004;0,003;0,006
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Man Without a Back;Spotify;FR;3;0,002;0,001;0,004
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);The Flowers Are Gone;Spotify;US;1;0,006;0,005;0,005
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Spotify;CH;37;0,004;0,003;0,129
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Happy in the Dark;Spotify;IT;2;0,002;0,002;0,004
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Dmand;Deezer;CH;2;0,010;0,008;0,016
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);What We¦ve Said;Spotify;CH;4;0,005;0,004;0,017
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Spotify;FR;3;0,002;0,001;0,004
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Just Look;Spotify;CH;4;0,005;0,004;0,017
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);22h;Deezer;CH;1;0,010;0,008;0,008
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Dmand;Spotify;FR;2;0,002;0,001;0,003
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Man Without a Back;Deezer;CH;2;0,010;0,008;0,016
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);The Flowers Are Gone;Deezer;CH;2;0,010;0,008;0,016
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);22h;Spotify;FR;2;0,002;0,001;0,003
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Happy in the Dark;Deezer;CH;1;0,010;0,008;0,008
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Man Without a Back;Spotify;CH;29;0,005;0,004;0,110
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);The Flowers Are Gone;Spotify;FR;2;0,002;0,001;0,003
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Long Day;Spotify;BE;5;0,005;0,004;0,018
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);Happy in the Dark;Spotify;FR;1;0,002;0,001;0,001
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);A Man Without a Back;Spotify;IT;1;0,002;0,002;0,002
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (Ö CD);What We¦ve Said;Deezer;CH;1;0,010;0,008;0,008
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;CZ;1;0,001;0,001;0,001
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;FR;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;FR;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;US;5;0,002;0,002;0,009
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;FR;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;US;4;0,003;0,003;0,011
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;ES;2;0,002;0,002;0,004
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;YouTube;DE;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Apple Music;AU;1;0,009;0,007;0,007
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;AR;1;0,002;0,002;0,002
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;AU;1;0,005;0,004;0,004
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Google Subscription;AU;4;0,006;0,005;0,020
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;FR;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Google Subscription;AU;5;0,006;0,005;0,026
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;AU;2;0,005;0,004;0,009
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;BE;1;0,003;0,003;0,003
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;DE;3;0,005;0,004;0,012
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;DE;2;0,005;0,004;0,008
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;GR;1;0,002;0,001;0,001
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;DE;1;0,005;0,004;0,004
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;ES;1;0,002;0,002;0,002
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;CH;1;0,004;0,003;0,003
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;FI;2;0,006;0,005;0,010
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;FI;1;0,006;0,005;0,005
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;PL;1;0,001;0,001;0,001
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;FI;1;0,006;0,005;0,005
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;FR;1;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;DE;2;0,005;0,004;0,008
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;US;3;0,003;0,003;0,008
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;US;6;0,003;0,003;0,016
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Google Subscription;AU;4;0,006;0,005;0,020
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Google Subscription;AU;4;0,006;0,005;0,020
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;US;5;0,004;0,003;0,015
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;FI;1;0,006;0,005;0,005
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;YouTube;US;4;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Google Subscription;AU;4;0,006;0,005;0,020
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;AU;1;0,005;0,004;0,004
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;BR;1;0,002;0,001;0,001
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;AU;1;0,005;0,004;0,004
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;GB;2;0,004;0,003;0,006
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;AU;2;0,005;0,004;0,009
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;DE;2;0,005;0,004;0,008
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;CA;2;0,004;0,003;0,006
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;Spotify;ES;1;0,002;0,002;0,002
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;Spotify;DK;3;0,000;0,000;0,001
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;Spotify;NO;1;0,006;0,005;0,005
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;Spotify;DK;2;0,000;0,000;0,000
+CD 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;Spotify;FI;1;0,006;0,005;0,005
+CD 06251;4250137262512;Kid Decker;Reveries EP;Memories And Plans;Apple Music;DE;1;0,009;0,007;0,007
+CD 06251;4250137262512;Kid Decker;Reveries EP;Dead Man¦s Walk (Homekid Version);Apple Music;DE;1;0,009;0,007;0,007
+CD 06251;4250137262512;Kid Decker;Reveries EP;Reveries;Apple Music;DE;3;0,009;0,007;0,021
+CD 06252;4250137262529;Ian Hooper;Melodica Compilation #1 ;Come My Way;Deezer;FR;6;0,004;0,003;0,018
+CD 06252;4250137262529;Various Artists;Melodica Compilation #1 ;The Question;Apple Music;AU;3;0,002;0,001;0,004
+CD 06252;4250137262529;Myrra Ros;Melodica Compilation #1 ;Morse Codes;Apple Music;CH;1;0,014;0,011;0,011
+CD 06252;4250137262529;Various Artists;Melodica Compilation #1 ;The Question;Apple Music;US;3;0,007;0,006;0,018
+CD 06252;4250137262529;Myrra Ros;Melodica Compilation #1 ;Morse Codes;Deezer;FR;3;0,008;0,006;0,019
+CD 06252;4250137262529;Astrids Farm;Melodica Compilation #1 ;Full Metal Jacket;Google Subscription;CO;1;0,004;0,003;0,003
+CD 06252;4250137262529;Shisha PM;Melodica Compilation #1 ;Ups And Downs;TDC Play;DK;1;0,008;0,006;0,006
+CD 06252;4250137262529;Ian Hooper;Melodica Compilation #1 ;Come My Way;Deezer;DE;1;0,004;0,003;0,003
+CD 06252;4250137262529;Svavar Knutur;Melodica Compilation #1 ;Yfir Hola Og Yfir Haedir;Google Subscription;CZ;3;0,005;0,004;0,012
+CD 06252;4250137262529;Ian Hooper;Melodica Compilation #1 ;Come My Way;Google Subscription;CH;1;0,009;0,007;0,007
+CD 06252;4250137262529;Various Artists;Melodica Compilation #1 ;The Question;Apple Music;IT;1;0,013;0,010;0,010
+CD 06252;4250137262529;Myrra Ros;Melodica Compilation #1 ;Morse Codes;Apple Music;US;1;0,007;0,005;0,005
+CD 06252;4250137262529;Various Artists;Melodica Compilation #1 ;The Question;Google Subscription;CZ;5;0,005;0,004;0,019
+CD 06252;4250137262529;Owls Of The Swamp;Melodica Compilation #1 ;Heart Of The Mountain;Deezer;DE;1;0,001;0,001;0,001
+CD 06252;4250137262529;Athebustop;Melodica Compilation #1 ;How Does It Feel;Deezer;DE;1;0,001;0,001;0,001
+CD 06252;4250137262529;Svavar Knutur;Melodica Compilation #1 ;Yfir Hola Og Yfir Haedir;Apple Music;US;1;0,007;0,005;0,005
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Remain Unshakeably Calm;Deezer;DE;3;0,005;0,004;0,013
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;House Of Leaves;Spotify;NO;1;0,001;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Looking Glass;Apple Music;DE;1;0,009;0,007;0,007
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Of Grandeur;Deezer;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Looking Glass;Spotify;DE;2;0,005;0,004;0,008
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Silent Sirens;Deezer;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Crux;Spotify;DE;2;0,003;0,003;0,005
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Silver Ring Of The Bell;Spotify;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That¦s The Way The Cookie Crumbles;Deezer;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Can¦t Hear Yourself Think;Spotify;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;House Of Leaves;Spotify;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That¦s The Way The Cookie Crumbles;Spotify;US;2;0,001;0,001;0,002
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Remain Unshakeably Calm;Spotify;DE;4;0,004;0,003;0,014
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Kandi;Spotify;DE;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Looking Glass;Deezer;DE;2;0,005;0,004;0,009
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Of Grandeur;Spotify;DE;2;0,005;0,004;0,008
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Silver Ring Of The Bell;Deezer;US;1;0,004;0,003;0,003
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Silent Sirens;Spotify;DE;2;0,005;0,004;0,008
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;House Of Leaves;KKBOX;TW;1;0,002;0,002;0,002
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Can¦t Hear Yourself Think;KKBOX;TW;1;0,002;0,002;0,002
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That¦s The Way The Cookie Crumbles;Spotify;DE;1;0,005;0,004;0,004
+CD 06254;4250137262543;Kid Decker;Your Kind;Look About Ready;Apple Music;DE;4;0,009;0,007;0,028
+CD 06254;4250137262543;Kid Decker;Your Kind;Where It Lies;Apple Music;DE;1;0,009;0,007;0,007
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Grape-Shaped Dream;Deezer;DE;2;0,006;0,005;0,010
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Mirrorball;Apple Music;DE;1;0,006;0,005;0,005
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Stones;Deezer;DE;1;0,005;0,004;0,004
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;Apple Music;DE;1;0,002;0,001;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Paintbox;Deezer;DE;1;0,005;0,004;0,004
+CD 06257;4250137262574;Torben Stock;Rocket;Real Lights / Great Souls;Spotify;DE;3;0,003;0,003;0,008
+CD 06257;4250137262574;Torben Stock;Rocket;AngelsÆs Song;Spotify;US;3;0,006;0,005;0,014
+CD 06257;4250137262574;Torben Stock;Rocket;Tonight;Apple Music;DE;1;0,003;0,002;0,002
+CD 06257;4250137262574;Torben Stock;Rocket;Rocket;Google Subscription;US;1;0,005;0,004;0,004
+CD 06257;4250137262574;Torben Stock;Rocket;Conamara Instr,;Apple Music;IE;1;0,009;0,007;0,007
+CD 06257;4250137262574;Torben Stock;Rocket;Wolkenstein;Spotify;DE;2;0,002;0,002;0,004
+CD 06257;4250137262574;Torben Stock;Rocket;Rocket;Spotify;ES;2;0,002;0,002;0,004
+CD 06257;4250137262574;Torben Stock;Rocket;Kiss Me Good Night;Spotify;DE;8;0,003;0,002;0,019
+CD 06257;4250137262574;Torben Stock;Rocket;Sad Movie Song;Apple Music;CH;1;0,014;0,011;0,011
+CD 06257;4250137262574;Torben Stock;Rocket;Kiss Me Good Night;Spotify;US;2;0,003;0,003;0,005
+CD 06257;4250137262574;Torben Stock;Rocket;Sad Movie Song;Spotify;US;1;0,006;0,005;0,005
+CD 06257;4250137262574;Torben Stock;Rocket;Rocket;Apple Music;DE;1;0,002;0,001;0,001
+CD 06257;4250137262574;Torben Stock;Rocket;Cold Breeze;Spotify;DE;4;0,004;0,003;0,012
+CD 06257;4250137262574;Torben Stock;Rocket;Tonight;Spotify;DE;3;0,003;0,003;0,008
+CD 06257;4250137262574;Torben Stock;Rocket;Rocket;Spotify;DE;5;0,005;0,004;0,019
+CD 06257;4250137262574;Torben Stock;Rocket;Kiss Me Good Night;Spotify;AU;1;0,003;0,003;0,003
+CD 06257;4250137262574;Torben Stock;Rocket;Wolkenstein;Spotify;IS;2;0,006;0,005;0,009
+CD 06257;4250137262574;Torben Stock;Rocket;Rocket;Spotify;NL;1;0,001;0,001;0,001
+CD 06257;4250137262574;Torben Stock;Rocket;Kiss Me Good Night;Spotify;IS;1;0,006;0,005;0,005
+CD 06257;4250137262574;Torben Stock;Rocket;Sad Movie Song;KKBOX;TW;1;0,002;0,002;0,002
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Riot;Spotify;CH;1;0,000;0,000;0,000
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Unlink;Spotify;CH;1;0,000;0,000;0,000
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;At The Corner;Apple Music;RU;1;0,003;0,002;0,002
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Interlude;Apple Music;RU;1;0,003;0,002;0,002
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;U;Apple Music;RU;1;0,003;0,002;0,002
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;At The Corner;Google Play Scan;CH;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;FR;4;0,003;0,002;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;FR;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Apple Music;AU;1;0,015;0,012;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;US;3;0,006;0,005;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;DE;1;0,001;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Apple Music;US;1;0,009;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;ES;17;0,002;0,002;0,034
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Spotify;ES;4;0,002;0,002;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;DE;7;0,004;0,003;0,023
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Deezer;LV;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;CH;3;0,006;0,005;0,015
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;NZ;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;ES;6;0,002;0,002;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;AU;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;GB;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Google Subscription;AU;10;0,006;0,005;0,051
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CL;3;0,000;0,000;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;PE;2;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Apple Music;US;1;0,009;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;PH;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;HK;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;ES;7;0,002;0,002;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;NL;6;0,004;0,003;0,018
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;DE;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Apple Music;US;1;0,009;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;GB;1;0,007;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;AR;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;FR;2;0,004;0,003;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Spotify;NL;5;0,003;0,003;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;FI;6;0,005;0,004;0,026
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;iTunes;DE;1;0,600;0,480;0,480
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;CZ;2;0,001;0,001;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;PT;14;0,002;0,002;0,023
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;AU;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;GB;2;0,004;0,003;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;DE;2;0,005;0,004;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;ES;4;0,002;0,002;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CR;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;US;3;0,003;0,003;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;AT;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;IE;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;GB;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Google Subscription;AU;13;0,006;0,005;0,066
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;MX;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;AU;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;NL;6;0,004;0,003;0,018
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;AU;6;0,003;0,002;0,015
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;IE;3;0,003;0,003;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Spotify;US;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;GB;6;0,004;0,003;0,018
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;DK;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;TR;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;CH;1;0,007;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;FR;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Apple Music;RU;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;NL;5;0,003;0,003;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;DE;12;0,003;0,002;0,029
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;SG;2;0,002;0,002;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;AU;2;0,003;0,003;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Deezer;BR;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;BE;7;0,004;0,003;0,023
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;MX;3;0,001;0,001;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;MX;2;0,002;0,002;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;CA;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;DE;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;SG;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;BR;16;0,002;0,001;0,022
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;MX;6;0,001;0,001;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Apple Music;BE;1;0,012;0,009;0,009
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;MX;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;FI;2;0,004;0,003;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Apple Music;AU;1;0,015;0,012;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;ES;3;0,002;0,002;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;US;3;0,006;0,005;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;US;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;EE;3;0,004;0,003;0,009
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Google Subscription;AU;12;0,006;0,005;0,061
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;CZ;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Deezer;FR;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;CA;7;0,004;0,003;0,021
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;NO;5;0,005;0,004;0,021
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;DE;1;0,002;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Google Subscription;AU;10;0,006;0,005;0,051
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;FR;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Apple Music;AU;1;0,015;0,012;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CH;5;0,004;0,003;0,015
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;NO;8;0,006;0,005;0,037
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Apple Music;ES;1;0,013;0,010;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;NZ;2;0,005;0,004;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;GB;17;0,006;0,004;0,076
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;BR;2;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;GB;3;0,001;0,001;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Google Subscription;AU;10;0,006;0,005;0,051
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Apple Music;AU;1;0,015;0,012;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;ES;3;0,002;0,002;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;FI;4;0,002;0,001;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Spotify;FR;2;0,003;0,002;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;ES;26;0,002;0,002;0,052
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;CR;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;PL;4;0,001;0,001;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;iTunes;DE;1;0,600;0,480;0,480
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;FR;2;0,003;0,002;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;CZ;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;NL;7;0,004;0,003;0,020
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;DE;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CO;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;PL;2;0,000;0,000;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Deezer;FR;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;AR;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;ID;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;FR;1;0,003;0,002;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Apple Music;ES;1;0,013;0,010;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;ES;6;0,002;0,002;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Google Subscription;AU;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;IS;3;0,004;0,004;0,011
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;AT;5;0,002;0,001;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;GB;22;0,004;0,003;0,069
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;FR;2;0,003;0,002;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;DE;11;0,003;0,002;0,022
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;SE;2;0,003;0,002;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;BR;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;NL;6;0,004;0,003;0,018
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;ES;3;0,002;0,002;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;US;2;0,006;0,005;0,009
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;FR;4;0,003;0,002;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CZ;5;0,001;0,001;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;SE;6;0,005;0,004;0,024
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;AT;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;YouTube;AT;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;AU;6;0,003;0,003;0,016
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;IS;2;0,004;0,003;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;IS;2;0,004;0,003;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;AU;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;NL;6;0,004;0,003;0,019
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;BR;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;BE;10;0,004;0,003;0,031
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;IT;3;0,002;0,002;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Apple Music;AU;1;0,015;0,012;0,012
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;IT;2;0,002;0,002;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;ES;26;0,002;0,002;0,052
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;US;34;0,003;0,002;0,085
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;Spotify;DE;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;SE;1;0,006;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go With River;Spotify;NL;6;0,004;0,003;0,018
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Apple Music;US;2;0,009;0,007;0,014
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;Spotify;PT;1;0,002;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;DK;3;0,004;0,003;0,009
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;US;90;0,004;0,003;0,266
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;CH;2;0,006;0,005;0,009
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Deezer;CH;1;0,010;0,008;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;BR;5;0,001;0,000;0,002
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;Spotify;NL;11;0,004;0,003;0,036
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks And Turns;Spotify;NL;7;0,004;0,003;0,020
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;Spotify;CZ;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By The Riverside;Spotify;US;1;0,006;0,005;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes The Wind;Spotify;ES;10;0,002;0,002;0,020
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;Spotify;US;6;0,005;0,004;0,023
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;CA;19;0,003;0,002;0,039
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;Spotify;NL;12;0,003;0,003;0,032
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Apple Music;DE;1;0,009;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;Spotify;NL;5;0,003;0,003;0,014
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;DE;104;0,005;0,004;0,447
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Rhapsody / Napster;DE;13;0,008;0,006;0,081
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;FR;3;0,003;0,002;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;SE;17;0,005;0,004;0,075
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;DE;49;0,004;0,003;0,145
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Apple Music;CH;1;0,002;0,002;0,002
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Apple Music;US;1;0,007;0,005;0,005
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;DE;24;0,003;0,003;0,065
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;NL;5;0,005;0,004;0,019
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;GB;9;0,001;0,001;0,005
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;ES;9;0,003;0,003;0,023
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;IT;2;0,002;0,002;0,004
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Apple Music;DE;4;0,004;0,003;0,014
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;CH;13;0,008;0,006;0,082
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;PL;1;0,006;0,005;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;RO;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;CH;68;0,004;0,003;0,197
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;MX;6;0,001;0,001;0,005
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Deezer;DE;9;0,001;0,001;0,011
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;CH;1;0,007;0,006;0,006
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;SE;1;0,006;0,004;0,004
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;GB;11;0,001;0,001;0,006
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;CH;2;0,003;0,002;0,005
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;US;1;0,002;0,002;0,002
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;AT;2;0,005;0,004;0,009
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Apple Music;US;3;0,007;0,006;0,018
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Apple Music;US;5;0,002;0,002;0,008
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;ES;4;0,001;0,000;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;AR;3;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;GR;5;0,002;0,001;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;US;53;0,003;0,003;0,146
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;ES;8;0,003;0,003;0,021
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Apple Music;US;4;0,007;0,006;0,023
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Deezer;DE;10;0,002;0,002;0,017
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;DE;37;0,003;0,003;0,096
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Apple Music;CH;3;0,010;0,008;0,024
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;GB;6;0,001;0,001;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;PY;1;0,001;0,001;0,001
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;NL;1;0,003;0,002;0,002
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Deezer;DE;5;0,001;0,001;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;DE;47;0,006;0,005;0,236
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;US;14;0,007;0,006;0,078
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;ZA;2;0,001;0,000;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;CZ;4;0,002;0,002;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;NO;42;0,005;0,004;0,162
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Rhapsody / Napster;DE;3;0,008;0,006;0,019
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;ES;2;0,005;0,004;0,008
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;TR;1;0,001;0,001;0,001
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;DK;1;0,005;0,004;0,004
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Apple Music;CH;1;0,002;0,002;0,002
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;DE;77;0,003;0,003;0,198
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Google Subscription;AU;1;0,006;0,005;0,005
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;DE;30;0,003;0,003;0,082
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;US;1;0,006;0,005;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;GB;3;0,007;0,006;0,017
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;AU;1;0,005;0,004;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;ID;1;0,002;0,002;0,002
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Apple Music;AT;1;0,002;0,001;0,001
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Apple Music;AU;1;0,024;0,019;0,019
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;GB;10;0,001;0,001;0,005
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Google Subscription;US;1;0,005;0,004;0,004
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Google Subscription;DE;3;0,005;0,004;0,013
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;ES;9;0,003;0,002;0,022
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Apple Music;US;1;0,007;0,005;0,005
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;NL;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;SG;1;0,004;0,003;0,003
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Apple Music;AT;4;0,002;0,001;0,005
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;US;1;0,002;0,002;0,002
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;CH;3;0,000;0,000;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;FR;2;0,004;0,003;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;AT;10;0,004;0,003;0,033
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Google Subscription;US;1;0,005;0,004;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;DK;12;0,003;0,003;0,033
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;PE;2;0,002;0,002;0,004
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;CA;7;0,004;0,003;0,022
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;IT;1;0,002;0,002;0,002
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Apple Music;CH;1;0,002;0,002;0,002
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;US;3;0,005;0,004;0,011
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;GB;10;0,002;0,002;0,015
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Apple Music;US;1;0,007;0,005;0,005
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;GB;12;0,001;0,001;0,011
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;CL;1;0,001;0,001;0,001
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;AU;1;0,004;0,003;0,003
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;DE;31;0,003;0,003;0,078
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;GB;9;0,001;0,001;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;AU;2;0,004;0,003;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;IT;3;0,006;0,005;0,014
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;BO;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;IT;26;0,002;0,002;0,052
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Apple Music;DE;6;0,004;0,003;0,021
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Deezer;DE;3;0,001;0,001;0,002
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;NL;2;0,005;0,004;0,007
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;CH;1;0,000;0,000;0,000
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;IT;1;0,002;0,002;0,002
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Google Subscription;AU;1;0,006;0,005;0,005
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;PY;1;0,001;0,001;0,001
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Apple Music;AT;2;0,002;0,001;0,002
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Apple Music;US;1;0,009;0,007;0,007
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Apple Music;ZA;1;0,004;0,003;0,003
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;ES;5;0,004;0,003;0,015
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;ID;1;0,005;0,004;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;CH;7;0,010;0,008;0,057
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;iTunes;US;1;0,470;0,376;0,376
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;FI;4;0,004;0,003;0,012
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;PT;2;0,002;0,001;0,003
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;CL;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Apple Music;DK;1;0,012;0,010;0,010
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Deezer;DE;5;0,001;0,001;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;NL;2;0,004;0,003;0,006
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;MX;2;0,002;0,002;0,003
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;ES;2;0,005;0,004;0,008
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;DE;36;0,003;0,003;0,096
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;GB;8;0,001;0,001;0,004
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;CA;11;0,005;0,004;0,043
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;NZ;1;0,007;0,006;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;PL;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;CA;19;0,003;0,002;0,046
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;LU;3;0,000;0,000;0,000
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Apple Music;ZA;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;PL;21;0,000;0,000;0,002
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;ES;6;0,004;0,003;0,017
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;BE;1;0,006;0,005;0,005
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Apple Music;DE;1;0,003;0,002;0,002
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Apple Music;DE;4;0,004;0,003;0,014
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Google Subscription;PL;1;0,003;0,002;0,002
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;IT;2;0,002;0,002;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;DK;8;0,009;0,007;0,057
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Rhapsody / Napster;FR;2;0,008;0,006;0,012
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;GB;36;0,003;0,003;0,096
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;SK;6;0,003;0,002;0,015
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;DK;5;0,004;0,003;0,015
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Apple Music;DE;9;0,005;0,004;0,034
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Deezer;BE;1;0,001;0,001;0,001
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;AT;2;0,003;0,002;0,004
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;US;3;0,003;0,002;0,007
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;ES;2;0,005;0,004;0,008
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;NO;3;0,004;0,003;0,009
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;IT;1;0,002;0,002;0,002
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;GB;11;0,001;0,001;0,006
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;NL;13;0,003;0,003;0,034
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Apple Music;US;1;0,007;0,005;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;CL;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;RU;6;0,003;0,002;0,013
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;SE;8;0,015;0,012;0,097
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;CR;2;0,003;0,003;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;NL;153;0,005;0,004;0,573
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Google Subscription;PL;3;0,003;0,002;0,006
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;DE;25;0,003;0,002;0,061
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;SG;1;0,004;0,003;0,003
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;IT;4;0,002;0,002;0,008
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;DE;251;0,003;0,002;0,519
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Apple Music;AT;1;0,002;0,001;0,001
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;CH;10;0,007;0,005;0,053
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Deezer;DE;5;0,002;0,001;0,007
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Deezer;DE;5;0,001;0,001;0,003
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Rhapsody / Napster;US;1;0,008;0,006;0,006
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;BO;1;0,001;0,001;0,001
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;PH;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;FR;11;0,005;0,004;0,041
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;AT;90;0,002;0,002;0,154
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;HU;6;0,001;0,001;0,006
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Apple Music;AT;2;0,002;0,001;0,002
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;FI;2;0,002;0,002;0,003
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Deezer;DE;5;0,001;0,001;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Deezer;NL;1;0,008;0,006;0,006
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;DK;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Apple Music;DE;7;0,004;0,003;0,022
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;IT;4;0,002;0,002;0,008
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;SE;1;0,006;0,004;0,004
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;US;2;0,004;0,003;0,007
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;NO;2;0,005;0,004;0,008
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;US;1;0,006;0,005;0,005
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;ES;1;0,002;0,002;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;ZA;3;0,004;0,004;0,011
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Google Subscription;CH;19;0,009;0,007;0,131
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;DE;587;0,002;0,002;1,044
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;NZ;3;0,004;0,003;0,010
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;AT;2;0,005;0,004;0,009
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;GB;9;0,001;0,001;0,005
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;US;3;0,004;0,004;0,011
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;SE;38;0,004;0,003;0,124
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;ES;9;0,003;0,003;0,024
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Apple Music;DE;1;0,003;0,002;0,002
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;ES;8;0,003;0,002;0,020
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;AT;2;0,005;0,004;0,009
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;AT;5;0,002;0,002;0,009
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;CH;1;0,007;0,006;0,006
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;ES;3;0,004;0,003;0,010
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;AT;12;0,008;0,006;0,077
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;IE;1;0,008;0,007;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;BE;5;0,006;0,005;0,023
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;IE;18;0,003;0,002;0,042
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Apple Music;CH;3;0,014;0,011;0,033
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Apple Music;DE;1;0,003;0,002;0,002
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;IT;5;0,002;0,002;0,010
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Google Subscription;PL;1;0,003;0,002;0,002
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;GB;9;0,001;0,001;0,005
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Deezer;DE;9;0,001;0,001;0,011
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;US;4;0,004;0,004;0,014
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Apple Music;DE;4;0,004;0,003;0,014
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Apple Music;DE;3;0,004;0,003;0,009
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;DE;36;0,003;0,003;0,092
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;GB;8;0,012;0,010;0,078
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;BR;3;0,002;0,002;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Guvera;ID;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;ES;19;0,003;0,002;0,043
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;PL;1;0,002;0,002;0,002
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;CH;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;NL;1;0,003;0,002;0,002
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Apple Music;DE;16;0,006;0,005;0,073
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Apple Music;DE;4;0,004;0,003;0,014
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;IT;5;0,002;0,002;0,010
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song (feat, ITC);Deezer;DE;3;0,001;0,001;0,002
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Spotify;IT;6;0,002;0,002;0,012
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Spotify;DE;26;0,002;0,002;0,049
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Spotify;CH;1;0,000;0,000;0,000
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Spotify;ES;7;0,003;0,003;0,018
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Spotify;IT;3;0,002;0,002;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;BR;1;0,009;0,007;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Apple Music;IN;1;0,003;0,002;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Deezer;NL;3;0,003;0,002;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;BR;5;0,001;0,001;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;Spotify;LI;1;0,009;0,007;0,007
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Apple Music;US;1;0,007;0,005;0,005
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox (Live at Melodica Berlin 2010);Spotify;AR;1;0,001;0,001;0,001
+CD 06263;4250137262635;Halla Nor=fjör=;Melodica Compilation #2;Maybe;Spotify;NO;1;0,004;0,003;0,003
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;Spotify;DE;30;0,003;0,003;0,080
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;Spotify;AT;1;0,005;0,004;0,004
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;Spotify;NL;2;0,004;0,003;0,006
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;Google Subscription;IT;1;0,009;0,007;0,007
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;Apple Music;AT;1;0,002;0,001;0,001
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;Apple Music;CH;2;0,002;0,002;0,004
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;Deezer;DE;10;0,003;0,002;0,021
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;Deezer;DE;6;0,002;0,001;0,009
+CD 06263;4250137262635;L·isa;Melodica Compilation #2;Springrainair;Spotify;GB;9;0,001;0,001;0,005
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Apple Music;DE;9;0,008;0,006;0,058
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;Spotify;NO;1;0,001;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Spotify;AT;2;0,005;0,004;0,009
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Spotify;NO;3;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grnn in deinen Augen;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;iTunes;DE;1;0,600;0,480;0,480
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;Spotify;DE;2;0,002;0,002;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Spotify;DE;4;0,005;0,004;0,016
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;Apple Music;DE;1;0,013;0,010;0,010
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grnn in deinen Augen;Deezer;DE;1;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;AT;2;0,005;0,004;0,009
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Amazon Prime Music;DE;2;0,003;0,002;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;Amazon Prime Music;DE;2;0,003;0,002;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;Spotify;DE;2;0,005;0,004;0,008
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;Spotify;DE;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;Spotify;NO;1;0,001;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grnn in deinen Augen;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;DE;23;0,004;0,003;0,072
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;Spotify;AT;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Spotify;AT;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Amazon Prime Music;DE;6;0,003;0,002;0,013
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;Apple Music;DE;2;0,002;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Apple Music;DE;3;0,009;0,007;0,022
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;NL;1;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Spotify;DE;5;0,003;0,003;0,014
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Spotify;FR;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Google Subscription;DE;4;0,005;0,004;0,017
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Spotify;CH;1;0,007;0,006;0,006
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;Amazon Prime Music;DE;2;0,003;0,002;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grnn in deinen Augen;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Rhapsody / Napster;DE;3;0,008;0,006;0,019
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;Spotify;AT;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;Spotify;AT;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;Spotify;AT;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grnn in deinen Augen;Spotify;DE;6;0,003;0,002;0,014
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;BR;1;0,003;0,003;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;Apple Music;DE;3;0,008;0,006;0,019
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Apple Music;DE;2;0,007;0,006;0,012
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;Spotify;NO;1;0,001;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;Spotify;NO;2;0,001;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;Amazon Prime Music;DE;2;0,003;0,002;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;Spotify;FR;1;0,005;0,004;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;Spotify;AT;2;0,005;0,004;0,009
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;Spotify;DE;3;0,002;0,002;0,006
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;Spotify;DE;4;0,004;0,003;0,012
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;On and On;Spotify;DE;3;0,005;0,004;0,012
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Before the Light;Spotify;DE;5;0,004;0,003;0,017
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;The Boy Leaves Town;Spotify;DE;8;0,005;0,004;0,031
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;City Lights;Spotify;DK;1;0,000;0,000;0,000
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Goodnight Country Boy;Spotify;DE;3;0,005;0,004;0,012
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Never Thee;Spotify;DE;6;0,005;0,004;0,023
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;A Day By the Sea;Spotify;DE;33;0,002;0,001;0,041
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Remember Copenhagen;Spotify;DE;4;0,005;0,004;0,016
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;City Lights;Spotify;DE;7;0,005;0,004;0,025
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Did I Forget;Spotify;DE;27;0,001;0,001;0,032
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Hang On;Spotify;DE;3;0,005;0,004;0,012
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;La Da Die;Apple Music;GB;1;0,012;0,010;0,010
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;Apple Music;GB;1;0,012;0,010;0,010
+CD 06266;4250137262666;Outroads;I Am Happy;She Looked Like a Friend;Apple Music;GB;1;0,012;0,010;0,010
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;Spotify;GB;1;0,001;0,001;0,001
+CD 06266;4250137262666;Outroads;I Am Happy;Closer;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;This Wine Is a Kiss;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Happiness;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;Apple Music;GB;1;0,012;0,010;0,010
+CD 06266;4250137262666;Outroads;I Am Happy;IÆll Walk with You;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;Spotify;FR;1;0,000;0,000;0,000
+CD 06266;4250137262666;Outroads;I Am Happy;La Da Die;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Best Not Make a Scene;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;She Looked Like a Friend;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Happiness;Apple Music;GB;1;0,012;0,010;0,010
+CD 06266;4250137262666;Outroads;I Am Happy;Dear Demon;Spotify;ES;2;0,002;0,002;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Happiness;Spotify;US;1;0,001;0,001;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April¦s Fool / I Ne¦er Shall Wean Her;Rhapsody / Napster;US;38;0,008;0,006;0,237
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Spotify;AU;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;GB;1;0,001;0,001;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Spotify;US;1;0,001;0,001;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Spotify;IE;1;0,008;0,006;0,006
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April¦s Fool / I Ne¦er Shall Wean Her;Spotify;US;12;0,004;0,003;0,037
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Spotify;US;3;0,003;0,003;0,008
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;Spotify;US;4;0,003;0,003;0,011
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;NO;1;0,006;0,005;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;Rhapsody / Napster;US;3;0,008;0,006;0,019
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;YouTube;US;8;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Apple Music;CA;3;0,005;0,004;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Southwind;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;Spotify;US;11;0,003;0,003;0,031
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Apple Music;CA;2;0,005;0,004;0,008
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Spotify;CL;1;0,003;0,002;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Rhapsody / Napster;US;4;0,008;0,006;0,025
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April¦s Fool / I Ne¦er Shall Wean Her;Apple Music;GB;1;0,012;0,010;0,010
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;YouTube;US;4;0,002;0,002;0,007
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;CA;1;0,004;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Spotify;GB;1;0,003;0,002;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Spotify;DE;1;0,001;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April¦s Fool / I Ne¦er Shall Wean Her;Spotify;NZ;2;0,005;0,004;0,008
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Spotify;IE;3;0,006;0,005;0,014
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;Spotify;DE;3;0,005;0,004;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;eMusic;US;1;0,560;0,448;0,448
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;IT;1;0,002;0,002;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;Apple Music;CA;2;0,005;0,004;0,008
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Spotify;US;9;0,004;0,003;0,031
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;YouTube;US;3;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;YouTube;GB;3;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;Spotify;US;6;0,004;0,003;0,020
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Spotify;US;8;0,005;0,004;0,032
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;Spotify;BR;1;0,001;0,001;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;Apple Music;CA;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;Spotify;US;3;0,004;0,003;0,010
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Apple Music;US;1;0,009;0,007;0,007
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Southwind;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April¦s Fool / I Ne¦er Shall Wean Her;Apple Music;CA;3;0,005;0,004;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine¦s Grove;Apple Music;US;1;0,009;0,007;0,007
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;YouTube;US;2;0,009;0,007;0,014
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;Spotify;US;1;0,003;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;Rhapsody / Napster;US;2;0,008;0,006;0,012
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;Spotify;ES;1;0,002;0,002;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;Spotify;CA;5;0,002;0,002;0,008
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Mentally Ill;Spotify;DE;1;0,005;0,004;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Man;Spotify;GB;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Mentally Ill;Spotify;US;1;0,003;0,003;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;DonÆt You Dare;Spotify;GB;5;0,001;0,001;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;OrwellÆs Dream;Spotify;DE;1;0,001;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;IÆm Not a Racist, butà;Spotify;GB;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Braining Cats and Dogs;Spotify;GB;5;0,001;0,001;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;When It All Began;Spotify;US;1;0,003;0,003;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Like an Old Toy;Spotify;FR;1;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Grey Sky;Spotify;GB;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Mentally Ill;Spotify;GB;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Destruction Is a Virtue;Deezer;FR;1;0,004;0,003;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;OrwellÆs Dream;Google Subscription;RU;1;0,003;0,002;0,002
+CD 06270;4250137262703;Steve Allen;Wreck the Place;IÆm Not a Racist, butà;Spotify;DE;1;0,001;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;When It All Began;Spotify;GB;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;IÆm Not a Racist, butà;Spotify;US;1;0,003;0,003;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Cannon and Bull;KKBOX;TH;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Google Subscription;US;11;0,005;0,004;0,043
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;NL;10;0,004;0,003;0,029
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Apple Music;AU;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;PE;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;NL;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;CA;4;0,003;0,003;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Apple Music;US;1;0,009;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;SE;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;FR;2;0,003;0,002;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;KR;2;0,015;0,012;0,023
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;CA;20;0,003;0,003;0,053
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;FR;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;IT;1;0,002;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;US;69;0,004;0,003;0,223
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;DE;3;0,005;0,004;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;NL;2;0,003;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Google Subscription;US;7;0,005;0,004;0,028
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Google Subscription;US;8;0,005;0,004;0,032
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;NL;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;DE;2;0,004;0,003;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Google Subscription;US;10;0,005;0,004;0,039
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;NL;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Apple Music;US;1;0,009;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Google Subscription;AU;7;0,006;0,005;0,036
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;CL;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;AU;4;0,005;0,004;0,017
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;NZ;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;US;2;0,006;0,005;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;CZ;2;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;US;5;0,004;0,003;0,015
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;MX;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;US;3;0,009;0,007;0,021
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;DE;2;0,005;0,004;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;HU;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;NL;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;YouTube;AE;6;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;GB;3;0,005;0,004;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;AU;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;AR;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;SE;3;0,006;0,004;0,013
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;FR;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;AU;3;0,005;0,004;0,013
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;TR;2;0,002;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Google Subscription;US;17;0,005;0,004;0,067
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;CZ;6;0,001;0,001;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;PL;2;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Google Subscription;US;7;0,005;0,004;0,028
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;CZ;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Apple Music;DE;1;0,009;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;FI;4;0,004;0,003;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Google Subscription;US;10;0,005;0,004;0,039
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;NL;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;DK;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Deezer;BE;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;IE;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;TW;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;DE;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;AU;2;0,005;0,004;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;CA;3;0,004;0,003;0,010
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Amazon Prime Music;DE;2;0,003;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Google Subscription;US;9;0,005;0,004;0,035
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;AU;27;0,005;0,004;0,111
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Deezer;BE;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;DK;5;0,005;0,004;0,019
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;DE;2;0,005;0,004;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;SE;14;0,004;0,003;0,045
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;AU;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;DK;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Apple Music;US;1;0,007;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Deezer;FR;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;GB;7;0,004;0,003;0,021
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;AU;5;0,005;0,004;0,022
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Apple Music;US;5;0,004;0,003;0,016
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;PH;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;LI;1;0,009;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Deezer;FR;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;SE;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Google Subscription;AU;7;0,006;0,005;0,036
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Google Subscription;US;7;0,005;0,004;0,028
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;NO;4;0,006;0,005;0,020
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;GB;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;BR;4;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;NO;4;0,006;0,005;0,020
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;FI;2;0,006;0,005;0,010
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Google Subscription;US;11;0,005;0,004;0,043
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;CA;6;0,006;0,005;0,029
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;AU;3;0,005;0,004;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;BR;6;0,001;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;FI;7;0,001;0,001;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;ES;6;0,002;0,002;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;TW;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;CH;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;GB;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Google Subscription;AU;6;0,006;0,005;0,031
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Google Subscription;AU;6;0,006;0,005;0,031
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;CH;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Google Subscription;AU;4;0,006;0,005;0,020
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;US;3;0,004;0,004;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;US;2;0,004;0,003;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;NO;4;0,004;0,004;0,014
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;AU;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;SE;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;SE;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;CH;3;0,004;0,003;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Deezer;BE;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;TW;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;GB;6;0,003;0,002;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;AU;3;0,005;0,004;0,013
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;TH;3;0,002;0,001;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;CH;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;CH;6;0,006;0,005;0,027
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;GB;27;0,005;0,004;0,106
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;FR;2;0,003;0,002;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;US;2;0,006;0,005;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Rhapsody / Napster;FR;9;0,008;0,006;0,056
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;NO;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;ES;44;0,002;0,002;0,088
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Apple Music;AU;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;PE;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Deezer;BE;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Google Subscription;RU;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;CR;3;0,002;0,001;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;BR;4;0,001;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;PH;2;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Google Subscription;AU;5;0,006;0,005;0,026
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;CR;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;DE;2;0,005;0,004;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Google Subscription;AU;7;0,006;0,005;0,036
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;MY;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;DE;2;0,005;0,004;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;ZA;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;FR;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;ID;2;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;SE;2;0,003;0,002;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;MX;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;US;6;0,003;0,002;0,013
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;GB;6;0,002;0,002;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;BR;4;0,001;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Apple Music;US;1;0,009;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;TDC Play;DK;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Google Subscription;AU;7;0,006;0,005;0,036
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Apple Music;US;2;0,009;0,007;0,014
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;DE;22;0,003;0,002;0,048
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;CH;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;PT;12;0,002;0,001;0,016
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;DE;2;0,004;0,003;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Apple Music;US;3;0,009;0,007;0,021
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;FR;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Apple Music;KR;1;0,015;0,012;0,012
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;NO;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;IE;1;0,003;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Deezer;CH;1;0,010;0,008;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;NL;5;0,004;0,003;0,015
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;MX;7;0,002;0,001;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;US;2;0,002;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Google Subscription;AU;7;0,006;0,005;0,036
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;NL;2;0,003;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Spotify;FR;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;BE;2;0,005;0,004;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;NL;3;0,003;0,002;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;DE;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Google Subscription;AU;5;0,006;0,005;0,026
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Apple Music;BE;1;0,012;0,009;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;AT;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;BG;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;ES;11;0,002;0,002;0,022
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;Spotify;DK;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Spotify;TR;51;0,002;0,001;0,072
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;Spotify;FR;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;Spotify;MX;3;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;Spotify;CA;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Google Play Scan;CA;5;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;Spotify;TR;1;0,002;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;Spotify;MX;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;Deezer;GB;1;0,010;0,008;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;Spotify;TW;1;0,003;0,002;0,002
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;Spotify;US;5;0,004;0,003;0,017
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Apple Music;RU;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;Google Subscription;UA;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep; ;YouTube;NL;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Cola in Mongolia;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;Spotify;ES;1;0,002;0,002;0,002
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;Spotify;GB;4;0,007;0,006;0,023
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Organism;Spotify;US;2;0,001;0,001;0,002
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Cola in Mongolia;YouTube;GB;25;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Spotify;GB;6;0,006;0,005;0,029
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;Spotify;US;2;0,003;0,003;0,005
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Leyla¦s Find;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Patch of Blue;Spotify;US;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Hazyland;Spotify;US;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Spotify;SG;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;Spotify;GB;21;0,007;0,005;0,114
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Leyla¦s Find;Spotify;US;3;0,003;0,002;0,006
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;Apple Music;PL;2;0,006;0,005;0,010
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;Google Subscription;UA;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;YouTube;GB;3;0,002;0,001;0,004
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;Spotify;US;11;0,003;0,003;0,029
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;YouTube;GB;24;0,000;0,000;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Google Subscription;US;3;0,005;0,004;0,012
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;Spotify;ES;1;0,002;0,002;0,002
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Organism;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Cola in Mongolia;Spotify;US;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Spotify;BR;2;0,003;0,003;0,005
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;Spotify;GB;1;0,008;0,006;0,006
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;Google Subscription;UA;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;Spotify;US;1;0,003;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Patch of Blue;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Hazyland;iTunes;DE;1;0,600;0,480;0,480
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Spotify;PE;2;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;Google Subscription;UA;1;0,001;0,001;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;Spotify;DE;1;0,005;0,004;0,004
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Leyla¦s Find;Spotify;GB;1;0,008;0,006;0,006
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Patch of Blue;YouTube;GB;33;0,000;0,000;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;Google Subscription;GB;1;0,007;0,006;0,006
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;Spotify;US;10;0,003;0,002;0,023
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;Spotify;GB;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;CA;2;0,001;0,000;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;CA;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;BE;6;0,004;0,003;0,021
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;IT;14;0,002;0,002;0,028
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;US;17;0,003;0,002;0,042
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;BR;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;AT;2;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Xbox Music;GB;2;0,022;0,017;0,035
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Rhapsody / Napster;DE;3;0,008;0,006;0,019
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;BR;2;0,002;0,001;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;CA;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;US;7;0,002;0,002;0,013
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;US;2;0,002;0,002;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;YouTube;US;20;0,000;0,000;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;EE;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;PH;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;GB;9;0,007;0,005;0,049
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;US;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;GB;10;0,007;0,005;0,055
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;US;2;0,001;0,001;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;GB;11;0,007;0,005;0,060
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Xbox Music;GB;1;0,022;0,017;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;DE;62;0,002;0,002;0,116
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;DE;79;0,002;0,002;0,139
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;CA;6;0,002;0,002;0,010
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;LU;3;0,006;0,005;0,015
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;CH;2;0,007;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;CA;13;0,003;0,002;0,030
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;BR;2;0,002;0,001;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;CH;2;0,007;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;BO;9;0,001;0,001;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;CH;1;0,007;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;DE;160;0,002;0,002;0,309
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Apple Music;DE;1;0,006;0,005;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Apple Music;DE;2;0,006;0,005;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;FI;3;0,004;0,003;0,010
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;PT;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;NL;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Apple Music;GB;2;0,012;0,010;0,019
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;NL;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;NO;1;0,006;0,005;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Apple Music;DE;9;0,007;0,006;0,050
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;FR;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;CO;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;MX;11;0,000;0,000;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;BR;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;ES;3;0,002;0,002;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;DE;87;0,002;0,002;0,147
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;CH;2;0,007;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;ES;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;CA;2;0,001;0,000;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;DE;48;0,002;0,002;0,093
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Deezer;DE;6;0,006;0,005;0,028
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Deezer;MY;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;GB;79;0,005;0,004;0,330
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;SG;2;0,002;0,002;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Deezer;DE;4;0,005;0,004;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Deezer;DE;2;0,005;0,004;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Apple Music;US;2;0,005;0,004;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Apple Music;GB;2;0,012;0,010;0,019
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;US;5;0,005;0,004;0,019
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Rhapsody / Napster;DE;7;0,008;0,006;0,044
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;IT;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;IT;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;LT;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;DE;4899;0,003;0,002;11,314
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;NL;62;0,003;0,002;0,151
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;DE;54;0,002;0,002;0,103
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;GB;9;0,007;0,005;0,049
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;GB;11;0,007;0,005;0,060
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;DE;106;0,002;0,002;0,193
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;GB;9;0,006;0,005;0,044
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;DE;64;0,002;0,002;0,113
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;FR;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;BR;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;AT;394;0,003;0,002;0,937
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;IE;5;0,002;0,002;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;TR;2;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;AT;2;0,003;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Rhapsody / Napster;DE;5;0,008;0,006;0,031
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;iTunes;RU;1;0,120;0,096;0,096
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;US;3;0,002;0,002;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;KKBOX;JP;15;0,021;0,017;0,255
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;BR;3;0,002;0,001;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;US;3;0,003;0,002;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;EC;5;0,002;0,001;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;PE;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;FR;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;NL;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;NO;1;0,006;0,005;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;US;2;0,001;0,001;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;CH;1;0,007;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;CH;1;0,007;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;BR;11;0,002;0,002;0,020
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;JP;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;CA;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;BR;2;0,002;0,001;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;AT;2;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;CA;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;CA;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;CH;5;0,006;0,005;0,024
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Xbox Music;GB;1;0,022;0,017;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Apple Music;CA;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;ES;11;0,002;0,002;0,022
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;PL;36;0,001;0,001;0,034
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;IS;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Apple Music;DE;3;0,008;0,006;0,019
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Xbox Music;GB;1;0,022;0,017;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;US;14;0,004;0,003;0,042
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;IT;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Amazon;JP;1;0,780;0,624;0,624
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;LT;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Apple Music;CA;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;ES;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;ES;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;CH;300;0,006;0,004;1,334
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;LV;4;0,002;0,001;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;DE;50;0,002;0,002;0,100
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;CH;2;0,007;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;CA;5;0,001;0,000;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;DE;64;0,002;0,002;0,117
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;BR;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;CZ;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;ES;4;0,002;0,002;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Apple Music;DE;3;0,006;0,005;0,015
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Deezer;DE;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Deezer;DE;6;0,005;0,004;0,023
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;FR;41;0,003;0,003;0,103
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;SE;13;0,004;0,003;0,041
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;US;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Apple Music;US;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Apple Music;DE;4;0,005;0,004;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Apple Music;DE;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;PL;16;0,001;0,001;0,011
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Apple Music;DE;3;0,006;0,005;0,015
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Deezer;DE;5;0,006;0,005;0,024
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;GB;13;0,006;0,005;0,066
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;GB;7;0,007;0,005;0,038
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;CZ;8;0,002;0,002;0,014
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;MY;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;CH;1;0,007;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;FR;1;0,005;0,004;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;CZ;2;0,001;0,001;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;FR;2;0,005;0,004;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;CH;1;0,007;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;ES;3;0,002;0,002;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;GB;13;0,007;0,005;0,071
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;AT;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Rhapsody / Napster;DE;1;0,008;0,006;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;HU;5;0,002;0,002;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;SK;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Deezer;IT;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Google Subscription;US;9;0,005;0,004;0,035
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Deezer;DE;2;0,005;0,004;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;TR;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Deezer;DE;2;0,005;0,004;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;AT;2;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;Spotify;NL;4;0,002;0,002;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;Spotify;NO;1;0,006;0,005;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;Spotify;SG;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;DK;7;0,006;0,005;0,034
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;Spotify;NO;8;0,005;0,004;0,035
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;Spotify;ES;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;Spotify;IT;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;Spotify;MX;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, so Close;Spotify;ES;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;Spotify;NL;1;0,003;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;Spotify;ES;4;0,002;0,002;0,008
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;Spotify;GB;9;0,007;0,005;0,049
+CD 09021;4250137290218;Frogbelly And Symphony & 9-Volt Haunted House;Can I Dress Like You?;Shingle (9-Volt Remix);YouTube;GB;33;0,000;0,000;0,000
+CD 09021;4250137290218;Frogbelly And Symphony & 9-Volt Haunted House;Can I Dress Like You?;Shingle (9-Volt Remix);YouTube;DE;21;0,000;0,000;0,000
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;Spotify;IT;1;0,002;0,002;0,002
+CD 09022;4250137290225;Lonesome Station;Current Space;Hide;Spotify;CH;3;0,005;0,004;0,012
+CD 09022;4250137290225;Lonesome Station;Current Space;Own Trail;Deezer;CH;1;0,010;0,008;0,008
+CD 09022;4250137290225;Lonesome Station;Current Space;Hide;Spotify;IT;1;0,002;0,002;0,002
+CD 09022;4250137290225;Lonesome Station;Current Space;Current Space;iTunes;CH;1;0,680;0,544;0,544
+CD 09022;4250137290225;Lonesome Station;Current Space;Own Trail;Spotify;CH;2;0,006;0,005;0,009
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;iTunes;CH;1;0,680;0,544;0,544
+CD 09022;4250137290225;Lonesome Station;Current Space;Current Space;Spotify;GB;1;0,007;0,005;0,005
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;Spotify;GB;1;0,007;0,005;0,005
+CD 09022;4250137290225;Lonesome Station;Current Space;Hide;iTunes;CH;1;0,680;0,544;0,544
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;Spotify;NO;1;0,006;0,005;0,005
+CD 09022;4250137290225;Lonesome Station;Current Space;Hide;Spotify;GB;1;0,007;0,005;0,005
+CD 09022;4250137290225;Lonesome Station;Current Space;Current Space;Deezer;CH;1;0,010;0,008;0,008
+CD 09022;4250137290225;Lonesome Station;Current Space;Own Trail;iTunes;CH;1;0,680;0,544;0,544
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;Deezer;CH;1;0,010;0,008;0,008
+CD 09022;4250137290225;Lonesome Station;Current Space;Current Space;Spotify;CH;3;0,005;0,004;0,012
+CD 09022;4250137290225;Lonesome Station;Current Space;Lost Train;Spotify;CH;8;0,006;0,005;0,041
+CD 09022;4250137290225;Lonesome Station;Current Space;Hide;Deezer;CH;1;0,010;0,008;0,008
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Spotify;GB;41;0,004;0,003;0,121
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;Spotify;CL;1;0,003;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;Spotify;DE;1;0,005;0,004;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Spotify;DE;1;0,005;0,004;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;KKBOX;TW;5;0,002;0,002;0,010
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;Spotify;BR;1;0,003;0,003;0,003
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Apple Music;GB;2;0,007;0,006;0,012
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;Apple Music;GB;4;0,006;0,005;0,019
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;Spotify;GB;53;0,004;0,004;0,187
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Apple Music;CA;1;0,005;0,004;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Spotify;GB;114;0,004;0,003;0,364
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;Spotify;MX;1;0,002;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;KKBOX;TW;1;0,002;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;KKBOX;TW;5;0,002;0,002;0,010
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;YouTube;GB;105;0,000;0,000;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;Apple Music;GB;2;0,008;0,006;0,013
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Spotify;DE;1;0,005;0,004;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;Apple Music;GB;4;0,008;0,006;0,026
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;Apple Music;GB;3;0,003;0,003;0,008
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Spotify;FR;1;0,003;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;KKBOX;TW;1;0,002;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;Spotify;CL;2;0,002;0,002;0,003
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Spotify;IE;1;0,006;0,005;0,005
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;KKBOX;TW;2;0,002;0,002;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;iTunes;GB;1;0,560;0,448;0,448
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;KKBOX;TW;10;0,002;0,002;0,020
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Spotify;IE;1;0,006;0,005;0,005
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;Spotify;GB;23;0,005;0,004;0,093
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;Spotify;ES;1;0,002;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;Spotify;GB;61;0,005;0,004;0,220
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Spotify;FR;1;0,005;0,004;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;Spotify;GB;33;0,005;0,004;0,134
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;Spotify;MX;1;0,001;0,001;0,001
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;Apple Music;GB;4;0,007;0,005;0,021
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Spotify;US;5;0,001;0,001;0,004
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;Apple Music;GB;3;0,006;0,004;0,013
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Spotify;CL;1;0,003;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;Apple Music;GB;4;0,008;0,007;0,027
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;Spotify;GB;22;0,005;0,004;0,087
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;YouTube;US;6;0,005;0,004;0,024
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;KKBOX;TW;3;0,003;0,002;0,006
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;KKBOX;TW;1;0,002;0,002;0,002
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;Spotify;GB;32;0,005;0,004;0,131
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;KKBOX;HK;1;0,004;0,003;0,003
+CD 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;Google Subscription;GB;2;0,007;0,006;0,011
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;BR;1;0,002;0,001;0,001
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Apple Music;AT;4;0,003;0,003;0,011
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;YouTube;KR;6;0,000;0,000;0,001
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;CZ;1;0,003;0,002;0,002
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Deezer;DE;1;0,005;0,004;0,004
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;FR;1;0,005;0,004;0,004
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Deezer;MY;2;0,003;0,002;0,005
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;MX;1;0,000;0,000;0,000
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;iTunes;DE;1;0,600;0,480;0,480
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;YouTube;JP;7180;0,000;0,000;1,507
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;CA;1;0,001;0,000;0,000
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Apple Music;DE;5;0,008;0,006;0,031
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;YouTube;US;40;0,001;0,001;0,039
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;DE;19;0,003;0,002;0,039
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Deezer;FR;3;0,001;0,001;0,002
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Spotify;IT;2;0,002;0,002;0,004
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;Google Subscription;DE;1;0,005;0,004;0,004
+CD 09234;4250137292342;Phia;Open/Closed;Open/Closed;YouTube;DE;96;0,000;0,000;0,000
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;CZ;2;0,001;0,001;0,002
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;NZ;3;0,005;0,004;0,012
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;ES;1;0,002;0,002;0,002
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;AR;2;0,000;0,000;0,000
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;SE;4;0,006;0,004;0,018
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;GB;3;0,006;0,005;0,014
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;AU;2;0,004;0,003;0,007
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;IS;4;0,004;0,003;0,013
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;CH;1;0,004;0,003;0,003
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;NL;1;0,003;0,002;0,002
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;DE;6;0,004;0,003;0,020
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;PH;1;0,002;0,002;0,002
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;FR;1;0,000;0,000;0,000
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;AT;3;0,005;0,004;0,013
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;US;8;0,005;0,004;0,032
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;IE;1;0,000;0,000;0,000
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;BE;2;0,003;0,003;0,005
+CD 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;Spotify;MX;2;0,000;0,000;0,000
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;CH;1;0,004;0,003;0,003
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;GB;1;0,003;0,002;0,002
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;SE;1;0,006;0,004;0,004
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;AU;1;0,005;0,004;0,004
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;CA;1;0,005;0,004;0,004
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;CZ;1;0,001;0,001;0,001
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;NL;1;0,005;0,004;0,004
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;US;3;0,003;0,002;0,007
+CD 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;Spotify;BR;1;0,000;0,000;0,000
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Intervals;Spotify;AR;1;0,002;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Invert;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Ko,Sack;Apple Music;SE;1;0,010;0,008;0,008
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Home;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Peace To Earth;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Intervals;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Intervals;YouTube;US;1;0,006;0,005;0,005
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Ko,Sack;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Late;Apple Music;RU;1;0,003;0,002;0,002
+CD 09626;4250137296265;Overdrive Amp Explosion;Intervals;Hope;Apple Music;RU;1;0,003;0,002;0,002
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Deezer;DE;2;0,005;0,004;0,009
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Google Play Scan;DE;4;0,000;0,000;0,000
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Spotify;NO;1;0,001;0,000;0,000
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Spotify;AT;1;0,005;0,004;0,004
+CD 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Weg vun¦t D÷rp un nah Hamborg;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Spotify;NO;1;0,001;0,000;0,000
+CD 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Weg vun¦t D÷rp un nah Hamborg;Spotify;NO;2;0,001;0,000;0,001
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Apple Music;DE;1;0,013;0,010;0,010
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Apple Music;DE;16;0,006;0,005;0,080
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Spotify;DE;1;0,005;0,004;0,004
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Google Subscription;DE;2;0,005;0,004;0,009
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Spotify;SE;1;0,000;0,000;0,000
+CD 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;Spotify;DE;4;0,005;0,004;0,014
+CD 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Weg vun¦t D÷rp un nah Hamborg;Deezer;DE;2;0,005;0,004;0,009
+CD 09744;4250137297446;Meike Schrader & Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;Amazon Prime Music;DE;1;0,003;0,002;0,002
+CD 09782;4250137297828;Outroads;Only The Lonely?;Brother (Live);Spotify;ES;1;0,002;0,002;0,002
+CD 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;Apple Music;GB;1;0,012;0,010;0,010
+CD 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;Spotify;ES;1;0,002;0,002;0,002
+CD 09782;4250137297828;Outroads;Only The Lonely?;Interval;Spotify;ES;1;0,002;0,002;0,002
+CD 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;Google Subscription;US;1;0,005;0,004;0,004
+CD 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;Spotify;GB;2;0,005;0,004;0,008
+CD 09783;4250137297835;Outroads;Goodbye To All That;No Accident;Apple Music;GB;1;0,012;0,010;0,010
+CD 09783;4250137297835;Outroads;Goodbye To All That;Brother;Spotify;GB;1;0,001;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;Instrumental;Spotify;GB;1;0,001;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;Spotify;AU;1;0,005;0,004;0,004
+CD 09783;4250137297835;Outroads;Goodbye To All That;Quiet One at the Back;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Can You Make Me Feel Good?;Spotify;GB;3;0,001;0,001;0,003
+CD 09783;4250137297835;Outroads;Goodbye To All That;Kate¦s Song;Spotify;ES;7;0,002;0,002;0,014
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;Spotify;FR;1;0,002;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;Restless Spirit Blues;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Goodnight;Spotify;ES;7;0,002;0,002;0,014
+CD 09783;4250137297835;Outroads;Goodbye To All That;My Angels;Spotify;CA;1;0,002;0,002;0,002
+CD 09783;4250137297835;Outroads;Goodbye To All That;Amigo Mio (Bacon);Apple Music;US;2;0,008;0,006;0,012
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;Spotify;IT;3;0,002;0,002;0,006
+CD 09783;4250137297835;Outroads;Goodbye To All That;Rooms in Space;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;My Angels;Spotify;GB;3;0,001;0,001;0,003
+CD 09783;4250137297835;Outroads;Goodbye To All That;Brother;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Instrumental;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Waiting Room;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;TDC Play;DK;1;0,008;0,006;0,006
+CD 09783;4250137297835;Outroads;Goodbye To All That;No Accident;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Can You Make Me Feel Good?;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Just in Case;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Quiet One at the Back;Spotify;GB;2;0,001;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;Can You Make Me Feel Good?;Spotify;US;1;0,001;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;My Angels;Apple Music;GB;4;0,010;0,008;0,032
+CD 09783;4250137297835;Outroads;Goodbye To All That;Amigo Mio (Bacon);Apple Music;GB;1;0,009;0,008;0,008
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;Spotify;GB;4;0,004;0,003;0,011
+CD 09783;4250137297835;Outroads;Goodbye To All That;Restless Spirit Blues;Spotify;GB;1;0,001;0,001;0,001
+CD 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;Apple Music;GB;1;0,012;0,010;0,010
+CD 09783;4250137297835;Outroads;Goodbye To All That;My Angels;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Amigo Mio (Bacon);Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Hold;Spotify;ES;8;0,002;0,002;0,016
+CD 09783;4250137297835;Outroads;Goodbye To All That;Rooms in Space;Spotify;GB;1;0,007;0,005;0,005
+CD 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Goth Chick ¦98;YouTube;DE;3;0,000;0,000;0,001
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;We Are the Shit (Live);Apple Music;GB;1;0,012;0,010;0,010
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Man Work;Apple Music;GB;1;0,012;0,010;0,010
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Manifesto;Apple Music;GB;1;0,012;0,010;0,010
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Too Cold (Clap Attack);Apple Music;GB;4;0,012;0,010;0,039
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Hole Again;Apple Music;GB;2;0,017;0,014;0,027
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Man Work;Spotify;NL;1;0,005;0,004;0,004
+CD 09929;4250137299297;The Bone Lab;Fresh Meat;Sexy Time;Apple Music;GB;1;0,012;0,010;0,010
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;Deezer;DE;2;0,006;0,005;0,010
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;Spotify;DE;1;0,001;0,000;0,000
+CD 13901;4024572340476;Astrids Farm;Cyclist;Lies (feat, geboren thielsch);Spotify;DE;1;0,005;0,004;0,004
+CD 13901;4024572340476;Astrids Farm;Cyclist;Razorblades;Spotify;DE;1;0,005;0,004;0,004
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;Amazon Prime Music;DE;5;0,003;0,002;0,011
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;Rhapsody / Napster;DE;2;0,008;0,006;0,012
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;Spotify;NO;1;0,004;0,003;0,003
+CD 13901;4024572340476;Astrids Farm;Cyclist; ;iTunes;DE;1;5,040;4,032;4,032
+CD 13903;4024572340483;xrfarflight;The Early Bird;Smashing Bubbles;YouTube;US;1;0,002;0,001;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;Apple Music;AU;1;0,002;0,001;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;Spotify;MY;1;0,001;0,001;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;protoplanets;Spotify;DE;4;0,005;0,004;0,016
+CD 13903;4024572340483;xrfarflight;The Early Bird;Smashing Bubbles;Spotify;IE;1;0,003;0,003;0,003
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;Apple Music;DE;2;0,009;0,007;0,014
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;Spotify;US;1;0,006;0,005;0,005
+CD 13903;4024572340483;xrfarflight;The Early Bird;Slow Motion Hospitalism;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Tortoise;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Figurines;TDC Play;DK;1;0,008;0,006;0,006
+CD 13906;4024572352899;emmy moll;All The Monsters;Be Light;Spotify;DE;6;0,002;0,002;0,010
+CD 13906;4024572352899;emmy moll;All The Monsters;View;Spotify;ES;1;0,002;0,002;0,002
+CD 13906;4024572352899;emmy moll;All The Monsters;Inside a Shell;Spotify;IE;1;0,000;0,000;0,000
+CD 13906;4024572352899;emmy moll;All The Monsters;Bird;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Time lapse Photography;Deezer;PT;1;0,001;0,001;0,001
+CD 13906;4024572352899;emmy moll;All The Monsters;Cloud No,9;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Time lapse Photography;Spotify;SE;1;0,004;0,003;0,003
+CD 13906;4024572352899;emmy moll;All The Monsters;Figurines;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Be Light;Apple Music;DE;2;0,009;0,007;0,014
+CD 13906;4024572352899;emmy moll;All The Monsters;View;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Inside a Shell;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Be Light;Spotify;ES;1;0,007;0,006;0,006
+CD 13906;4024572352899;emmy moll;All The Monsters;Your Course;Spotify;DE;2;0,003;0,002;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Seagull;Spotify;DE;1;0,005;0,004;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Cloud No,9;Apple Music;DE;1;0,003;0,002;0,002
+CD 13906;4024572352899;emmy moll;All The Monsters;Time lapse Photography;Spotify;DE;2;0,003;0,002;0,004
+CD 13906;4024572352899;emmy moll;All The Monsters;Drifted;Spotify;DE;5;0,003;0,003;0,014
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;Apple Music;US;2;0,009;0,007;0,014
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Aventiure / Pearly Gates;Spotify;DE;4;0,002;0,002;0,008
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;Google Subscription;DE;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;Spotify;DE;4;0,002;0,002;0,008
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Clearing / Leaving;Google Subscription;DE;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;Google Subscription;NO;5;0,008;0,007;0,033
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Annual Ring / Enclosure;Apple Music;RU;3;0,000;0,000;0,001
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Towers / Trees;Apple Music;RU;2;0,000;0,000;0,001
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Clearing / Leaving;Spotify;DE;5;0,002;0,002;0,010
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;Spotify;NO;1;0,006;0,005;0,005
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Annual Ring / Enclosure;Spotify;DE;4;0,002;0,002;0,008
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Towers / Trees;KKBOX;TW;1;0,002;0,002;0,002
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;Apple Music;RU;3;0,000;0,000;0,001
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Aventiure / Pearly Gates;Google Subscription;DE;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Towers / Trees;Spotify;NO;3;0,006;0,005;0,015
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;Google Subscription;DE;2;0,005;0,004;0,009
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Aventiure / Pearly Gates;Spotify;NO;1;0,006;0,005;0,005
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;Google Subscription;GB;1;0,007;0,006;0,006
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;Spotify;US;1;0,001;0,001;0,001
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Clearing / Leaving;KKBOX;TW;2;0,002;0,002;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;Spotify;DE;10;0,002;0,002;0,020
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Annual Ring / Enclosure;Google Subscription;DE;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Towers / Trees;Google Subscription;DE;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Clearing / Leaving;Spotify;NO;1;0,006;0,005;0,005
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Aventiure / Pearly Gates;Apple Music;RU;1;0,000;0,000;0,000
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Towers / Trees;Spotify;DE;7;0,003;0,002;0,014
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;Deezer;DE;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Muh Kuh;Spotify;DE;4;0,004;0,003;0,012
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Raum und Zeit;Spotify;DE;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;ElektroniskS PnlsS;Spotify;US;1;0,006;0,005;0,005
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;US;2;0,006;0,005;0,009
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;Spotify;US;1;0,006;0,005;0,005
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;Spotify;NL;9;0,006;0,005;0,041
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Not Controlled;Spotify;DE;3;0,004;0,003;0,010
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Romy;Spotify;DE;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du mir verraten;Spotify;DE;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Politiki Dummes Ficki;Spotify;DE;29;0,004;0,003;0,082
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Wellnesspunkt de;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Court of Love;Spotify;DE;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Deezer;FR;1;0,003;0,002;0,002
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Romy;Spotify;US;1;0,006;0,005;0,005
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du mir verraten;Spotify;SE;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Popopaits;Spotify;DE;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Court of Love;Spotify;SE;2;0,006;0,004;0,009
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;DK;1;0,002;0,002;0,002
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;Deezer;FR;1;0,003;0,002;0,002
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Barbara;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Logans Run;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Popopaits;Spotify;NL;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;ElektroniskS PnlsS;Spotify;NL;4;0,005;0,004;0,017
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;NL;3;0,005;0,004;0,012
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;Spotify;NL;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;Spotify;DE;19;0,003;0,003;0,049
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Muh Kuh;Spotify;NL;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Raum und Zeit;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;ElektroniskS PnlsS;TDC Play;DK;1;0,008;0,006;0,006
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Politiki Dummes Ficki;Deezer;DE;3;0,004;0,003;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Wellnesspunkt de;Spotify;DE;3;0,004;0,003;0,009
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;Spotify;US;1;0,006;0,005;0,005
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Not Controlled;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Romy;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du mir verraten;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Politiki Dummes Ficki;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Wellnesspunkt de;Spotify;US;1;0,006;0,005;0,005
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Court of Love;Spotify;NL;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;DE;3;0,003;0,003;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;Deezer;DE;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Barbara;Spotify;DE;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Logans Run;Spotify;DE;4;0,003;0,002;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Popopaits;Spotify;GB;2;0,001;0,001;0,001
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;ElektroniskS PnlsS;Spotify;DE;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;Spotify;FR;2;0,004;0,003;0,006
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;Spotify;DE;1;0,005;0,004;0,004
+CD 13912;4024572361839;emmy moll;Introducing Labelship ;Time-Lapse Photography;Google Subscription;AT;1;0,008;0,006;0,006
+CD 13912;4024572361839;Various Artists;Introducing Labelship ;Hand of Death;YouTube;DE;14;0,000;0,000;0,003
+CD 13912;4024572361839;Dear John Letter;Introducing Labelship ;Clearing/Leaving;Apple Music;RU;5;0,000;0,000;0,002
+CD 13912;4024572361839;emmy moll;Introducing Labelship ;Figurines;Apple Music;CH;1;0,014;0,011;0,011
+CD 13912;4024572361839;Various Artists;Introducing Labelship ;A E I O You;Apple Music;DE;2;0,005;0,004;0,008
+CD 13912;4024572361839;Dear John Letter;Introducing Labelship ;Trap/Black Kite;Apple Music;RU;2;0,000;0,000;0,001
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Spring Grows;Spotify;DE;1;0,005;0,004;0,004
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Save Me;Spotify;US;1;0,003;0,003;0,003
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Recognise;Apple Music;CH;3;0,003;0,002;0,007
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Action Action;Guvera;ID;22;0,015;0,012;0,272
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Searching For ½ * +,8,1;Apple Music;CH;2;0,002;0,002;0,004
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Electric Weirdos;Apple Music;CH;2;0,002;0,002;0,004
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Spring Grows;Spotify;CH;2;0,007;0,006;0,012
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Save Me;Apple Music;CH;2;0,002;0,002;0,004
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Trumpets In The Trees;Apple Music;CH;1;0,002;0,002;0,002
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Action Action;Apple Music;CH;1;0,002;0,002;0,002
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Recognise;Spotify;CH;1;0,007;0,006;0,006
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Action Action;Spotify;ID;1;0,000;0,000;0,000
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Spring Grows;Apple Music;CH;2;0,002;0,002;0,004
+LP 06259;4250137262598;Easy Tiger;Overdrive Amp Explosion/Easy Tiger (Split-LP);Electric Weirdos;Spotify;ID;1;0,000;0,000;0,000
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Sugar Castles;Apple Music;US;1;0,009;0,007;0,007
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Matze;Apple Music;RO;1;0,001;0,001;0,001
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Amour fou;Rhapsody / Napster;US;1;0,008;0,006;0,006
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Sugar Castles;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Matze;Spotify;US;1;0,001;0,001;0,001
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Kookaburra;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Paying the Price;Rhapsody / Napster;US;1;0,008;0,006;0,006
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Lonely Seabird;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Paying the Price;Spotify;US;2;0,003;0,003;0,005
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Lonely Seabird;TDC Play;DK;1;0,008;0,006;0,006
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Amour fou;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Sugar Castles;Deezer;DE;1;0,007;0,005;0,005
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Matze;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Kookaburra;Google Subscription;CA;1;0,004;0,003;0,003
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Sugar Castles;Spotify;US;1;0,001;0,001;0,001
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Paying the Price;iTunes;US;1;0,470;0,376;0,376
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Lonely Seabird;Amazon;DE;1;0,540;0,432;0,432
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Paying the Price;Spotify;MX;1;0,000;0,000;0,000
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (ÖCD);Lonely Seabird;Spotify;US;2;0,001;0,001;0,002
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Sin-Love-Hate;Spotify;GB;1;0,001;0,001;0,001
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;The Mermaid Queen;Spotify;GB;1;0,007;0,005;0,005
+
+total sales;total amount;v.a.t.;total value
+21440;57,14;0,00;57,14 EURO
+

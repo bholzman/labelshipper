@@ -1,6 +1,7 @@
 from __future__ import absolute_import, unicode_literals
 
 import re
+from models import AccountMeta
 from datetime import date
 
 
@@ -26,29 +27,65 @@ class BrokenSilence(object):
         return self.__tables
 
     def entries_for(self, account):
+        account_meta = AccountMeta.accounts()[account.account]
         entries = []
+        def comment(article_no):
+            comment = '{} / {}'.format(account_meta.artist, account_meta.name)
+            if article_no.startswith('CD') and account_meta.cd_article:
+                comment += ' / {}'.format(account_meta.cd_article)
+            if not article_no.startswith('CD') and account_meta.lp_article:
+                comment += ' / {}'.format(account_meta.lp_article)
+            return comment
+
         if 'national' in self.__tables:
             report_date = _parse_date(self.__tables['national']['report_date'])
             for row in self.__tables['national']['rows']:
+                is_cd = row['article no'].startswith('CD')
                 if account.has_article(row['article no']):
                     sales_count = int(row['domestic qty/dealer/net(aver.)'][0])
                     if sales_count:
+                        amount = float(row['amount domestic'])
                         entries.append(
                             {'date': report_date,
-                             'amount': float(row['amount domestic']),
-                             'transaction': 'sale',
+                             'amount': amount,
+                             'transaction': 'sale' if amount >= 0 else 'return',
                              'channel': 'Brokensilence',
-                             'cds': -sales_count if row['article no'].startswith('CD') else 0,
-                             'lps': 0 if row['article no'].startswith('CD') else -sales_count, })
-                    return_count = int(row['returns domestic qty/dealer/net(aver.)'][0])
+                             'comment': comment(row['article no']),
+                             'cds': -sales_count if is_cd else 0,
+                             'lps': 0 if is_cd else -sales_count, })
+
+                    return_key = 'returns domestic qty/dealer/net(aver.)'
+                    if return_key not in row:
+                        return_key = 'returns domestic qty/dealer/domestic net(aver.)'
+                    return_count = int(row[return_key][0])
                     if return_count:
                         entries.append(
                             {'date': report_date,
                              'amount': float(row['amount returns domestic']),
                              'transaction': 'return',
                              'channel': 'Brokensilence',
-                             'cds': return_count if row['article no'].startswith('CD') else 0,
-                             'lps': 0 if row['article no'].startswith('CD') else return_count, })
+                             'comment': comment(row['article no']),
+                             'cds': return_count if is_cd else 0,
+                             'lps': 0 if is_cd else return_count, })
+                    stock_arrivals, stock_dispatches = map(int, row['arrivals dispatch'])
+                    if stock_arrivals > 0:
+                        entries.append(
+                            {'date': report_date,
+                             'amount': 0.0,
+                             'transaction': 'stock in',
+                             'channel': 'Brokensilence',
+                             'comment': comment(row['article no']), 
+                             'cds': stock_arrivals if is_cd else 0,
+                             'lps': 0 if is_cd else stock_arrivals, })
+                    if stock_dispatches > 0:
+                        entries.append(
+                            {'date': report_date,
+                             'amount': 0.0,
+                             'transaction': 'stock out',
+                             'channel': 'Brokensilence',
+                             'comment': comment(row['article no']), 
+                             'cds': -stock_dispatches if is_cd else 0,
+                             'lps': 0 if is_cd else -stock_dispatches, })
 
         if 'international' in self.__tables:
             report_date = _parse_date(self.__tables['international']['report_date'])
@@ -56,11 +93,13 @@ class BrokenSilence(object):
                 if account.has_article(row['article no.']):
                     sales_count = int(row['export sales/prices'][0])
                     if sales_count:
+                        amount = float(row['amount export'])
                         entries.append(
                             {'date':  report_date,
-                             'amount': float(row['amount export']),
-                             'transaction': 'sale',
+                             'amount': amount,
+                             'transaction': 'sale' if amount >= 0 else 'return',
                              'channel': 'Brokensilence',
+                             'comment': comment(row['article no.']),
                              'cds': -sales_count if row['article no.'].startswith('CD') else 0,
                              'lps': 0 if row['article no.'].startswith('CD') else -sales_count, })
                     return_count = int(row['returns export qty/dealer/net(aver.)'][0])
@@ -70,6 +109,7 @@ class BrokenSilence(object):
                              'amount': float(row['amount returns exp.']),
                              'transaction': 'return',
                              'channel': 'Brokensilence',
+                             'comment': comment(row['article no.']),
                              'cds': return_count if row['article no.'].startswith('CD') else 0,
                              'lps': 0 if row['article no.'].startswith('CD') else return_count, })
 
@@ -84,8 +124,22 @@ class BrokenSilence(object):
                          'comment': (u'/'.join(row['track'])
                                      if isinstance(row['track'], (tuple, list))
                                      else row['track']),
-                         'channel': row['shop'],
+                         'channel': '/'.join(row['shop']) if isinstance(row['shop'], (tuple, list)) else row['shop'],
                          'digital': int(row['domestic'][0])})
+
+        if 'digital' in self.__tables:
+            report_date = _parse_date(self.__tables['digital']['report_date'])
+            for row in self.__tables['digital']['rows']:
+                if account.has_article(row['article no.']):
+                    entries.append(
+                        {'date': report_date,
+                         'amount': float(row['total amount']),
+                         'transaction': 'download/stream',
+                         'comment': (u'/'.join(row['track'])
+                                     if isinstance(row['track'], (tuple, list))
+                                     else row['track']),
+                         'channel': '/'.join(row['shop']) if isinstance(row['shop'], (tuple, list)) else row['shop'],
+                         'digital': int(row['qty'][0])})
 
         return entries
 

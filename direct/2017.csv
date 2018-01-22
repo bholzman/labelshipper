@@ -1,0 +1,236 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
+2017.02.15,LS00043,1,,5.67,sale,gig sale,Edinburgh,"Frogbelly And Symphony / 9-Volt HH, Can I Dress.."
+2017.02.16,LS00041,3,2,74.83,sale,gig sales,Glasgow,"Frogbelly And Symphony, Blue Bright.."
+2017.02.17,LS00041,1,,9.07,sale,gig sale,Liverpool,"Frogbelly And Symphony, Blue Bright.."
+2017.02.18,LS00041,,1,16.87,sale,gig sale,Brighton,"Frogbelly And Symphony, Blue Bright.."
+2017.02.18,LS00032,,1,11.17,sale,gig sale ,Brighton,"Frogbelly And Symphony, The EYE"
+2017.02.19,LS00041,1,4,70,sale,gig sales,Duesseldorf,"Frogbelly And Symphony, Blue Bright.."
+2017.02.19,LS00032,,1,10,sale,gig sale,Duesseldorf,"Frogbelly And Symphony, The EYE"
+2017.02.19,LS00029,1,,10,sale,gig sale,Duesseldorf,"Liz Hanley, The Ecstasy..."
+2017.02.20,LS00041,1,,10,sale,gig sale,Landau,"Frogbelly And Symphony, Blue Bright.."
+2017.02.21,LS00041,,1,10,sale,gig sale,Cologne,"Frogbelly And Symphony, Blue Bright.."
+2017.02.22,LS00041,2,,20,sale,gig sales,Heidelberg,"Frogbelly And Symphony, Blue Bright.."
+2017.02.22,LS00029,3,,30,sale,gig sales,Heidelberg,"Liz Hanley, The Ecstasy..."
+2017.02.22,LS00043,3,,5,sale,gig sales,Heidelberg,"Frogbelly And Symphony / 9-Volt HH, Can I Dress.."
+2017.02.23,LS00041,2,,20,sale,gig sales,Hamburg,"Frogbelly And Symphony, Blue Bright.."
+2017.02.23,LS00029,1,,10,sale,gig sale,Hamburg,"Liz Hanley, The Ecstasy..."
+2017.02.24,LS00029,4,,40.00,sale,gig sales,Groningen,"Liz Hanley, The Ecstasy..."
+2017.02.24,LS00041,6,2,90,sale,gig sales,Groningen,"Frogbelly And Symphony, Blue Bright.."
+2017.02.24,LS00032,,2,25,sale,gig sales,Groningen,"Frogbelly And Symphony, The EYE"
+2017.02.24,LS00043,3,,5,sale,gig sales,Groningen,"Frogbelly And Symphony / 9-Volt HH, Can I Dress.."
+2017.02.25,LS00041,5,1,65,sale,gig sales,Cuxhaven,"Frogbelly And Symphony, Blue Bright.."
+2017.02.25,LS00032,,1,15,sale,gig sale,Cuxhaven,"Frogbelly And Symphony, The EYE"
+2017.02.25,LS00032,3,,30,sale,gig sales,Cuxhaven,"Liz Hanley, The Ecstasy..."
+2017.02.26,LS00029,3,,30,sale,gig sales,Muenster,"Liz Hanley, The Ecstasy..."
+2017.02.26,LS00041,7,3,130,sale,gig sales,Muenster,"Frogbelly And Symphony, Blue Bright.."
+2017.02.27,LS00041,2,,20,sale,gig sales,Offenbach,"Frogbelly And Symphony, Blue Bright.."
+2017.02.28,LS00041,4,1,60,sale,gig sales,Braunschweig,"Frogbelly And Symphony, Blue Bright.."
+2017.02.28,LS00032,,1,15,sale,gig sale,Braunschweig,"Frogbelly And Symphony, The EYE"
+2017.02.28,LS00029,2,,20,sale,gig sales,Braunschweig,"Liz Hanley, The Ecstasy..."
+2017.03.02,LS00041,3,,33.96,sale,gig sales,Nottingham,"Frogbelly And Symphony, Blue Bright.."
+2017.03.02,LS00029,1,,11.17,sale,gig sale,Nottingham,"Liz Hanley, The Ecstasy..."
+2017.03.04,LS00041,1,1,33.96,sale,gig sales,Sheffield,"Frogbelly And Symphony, Blue Bright.."
+2017.03.13,LS00043,,,2.85,sale,Bandcamp,Download,"Frogbelly And Symphony / 9-Volt HH, Can I Dress.."
+2017.01.03,LS00023,1,,3.87,sale,label box,"Alt Seen Eye, Sheffield","Owls Of The Swamp, Go With River"
+2017.01.03,LS00038,1,,3.87,sale,label box,"Alt Seen Eye, Sheffield","Owls Of The Swamp, Atlas"
+2017.01.03,LS00044,2,,7.74,sale,label box,"Alt Seen Eye, Sheffield","Steel City Rhythm, Free Love & Fighting"
+2017.01.03,LS00002,,1,7.47,sale,direct sale,"Alt Seen Eye, Sheffield","Xrfarflight, The Early Worm.."
+2017.03.27,LS00017,,,3.63,sale,Bandcamp,Download,"Torben Stock, Rocket"
+2017.04.12,LS00048,,,5.18,sale,Bandcamp,Download,"Cinema Cinema, Man bites Dog"
+2017.04.20,LS00023,1,,3,sale,Laundryrooms,direct sale,"Owls Of The Swamp, Go With River"
+2017.04.20,LS00004,1,,3,sale,label box,"Spinning Discs, Sheffield","Emmy Moll, All the Monsters..."
+2017.04.27,LS00045,1,,3,sale,label box,"Airy Fairy, Sheffield","Phia, The Ocean Of Everything"
+2017.04.27,LS00002,1,,2,sale,label box,"A New Shop, Sheffield","Xrfarflight, The Early Worm.."
+2017.04.27,LS00044,1,,5,sale,label box,"A New Shop, Sheffield","Steel City Rhythm, Free Love & Fighting"
+2017.04.27,LS00002,,1,5.93,sale,direct sale,"Record Collector, Sheffield","Xrfarflight, The Early Worm.."
+2017.04.27,LS00017,1,,2,sale,label box,"Makers, Sheffield","Torben Stock, Rocket"
+2017.04.27,LS00021,1,,2,sale,label box,"Makers, Sheffield","Overdrive Amp Explosion, Blanks"
+2017.04.27,LS00022,1,,2,sale,label box,"Makers, Sheffield",Stars For The Banned
+2017.04.27,LS00026,2,,4,sale,label box,"Makers, Sheffield",Melodica Compilation #2
+2017.04.27,LS00038,1,,2,sale,label box,"Makers, Sheffield","Owls Of The Swamp, Atlas"
+2017.04.27,LS00004,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","Emmy Moll, All the Monsters..."
+2017.04.27,LS00018,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","Kid Decker, Your Kind"
+2017.04.27,LS00023,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","Owls Of The Swamp, Go With River"
+2017.04.27,LS00026,1,,2,sale,label box,"Theatre Delicatessen, Sheffield",Melodica Compilation #2
+2017.04.27,LS00033,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","Outroads, Only The Lonely"
+2017.04.27,LS00036,1,,4,sale,label box,"Theatre Delicatessen, Sheffield","Steve Allen, Wreck The Place"
+2017.04.27,LS00038,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","Owls Of The Swamp, Atlas"
+2017.04.27,LS00040,1,,2,sale,label box,"Theatre Delicatessen, Sheffield","The Bone Lab, Fresh Meat"
+2017.04.27,LS00045,1,,4,sale,label box,"Theatre Delicatessen, Sheffield","Phia, The Ocean Of Everything"
+2017.04.28,LS00048,1,,13.77,sale,Bandcamp,CD sale to Alexander Morelles,"Cinema Cinema, Man bites Dog"
+2017.04.28,LS00001,1,,2.38,sale,direct sale,"Record Collector, Sheffield","Astrid's Farm, Cyclist"
+2017.04.28,LS00004,1,,2.38,sale,direct sale,"Record Collector, Sheffield","Emmy Moll, All the Monsters..."
+2017.04.28,LS00004,1,,2.38,sale,direct sale,"Record Collector, Sheffield","Emmy Moll, All the Monsters..."
+2017.04.28,LS00017,2,,4.76,sale,direct sale,"Record Collector, Sheffield","Torben Stock, Rocket"
+2017.04.28,LS00029,2,,7.13,sale,direct sale,"Record Collector, Sheffield","Liz Hanley, The Ecstasy..."
+2017.04.28,LS00030,1,,2.38,sale,direct sale,"Record Collector, Sheffield","Outroads, I am Happy"
+2017.04.28,LS00048,,25,275.34,sale,direct sale,Dullest Records,"Cinema Cinema, Man bites Dog"
+2017.05.03,LS00048,,,5.09,sale,Bandcamp,Download Sale Craig Lintow,"Cinema Cinema, Man bites Dog"
+2017.05.08,LS00049,,,5.8,sale,Bandcamp,Download Sale Even Steffenrem,"Joey Molinaro, Awash"
+2017.05.09,LS00034,,,0.69,sale,Bandcamp,download Hellhound On My Trail,"Outroads, Goodbye To All That"
+2017.05.09,LS00049,,,0.69,sale,Bandcamp,download Patriarch,"Joey Molinaro, Awash"
+2017.05.09,LS00049,,,0.69,sale,Bandcamp,download The White Brides Wooden Hand,"Joey Molinaro, Awash"
+2017.05.11,LS00048,,1,21.71,sale,Bandcamp,"vinyl sale Adam Schaper, Brooklyn NY","Cinema Cinema, Man bites Dog"
+2017.05.14,LS00006,1,1,10,sale,direct sale,,"Frau Karaushaar, Le Salon Is Very Morbidae"
+2017.05.14,LS00041,,2,20,sale,direct sale,,"Frogbelly And Symphony, Blue Bright.."
+2017.05.14,LS00048,,1,10,sale,direct sale,,"Cinema Cinema, Man bites Dog"
+2017.05.14,LS00001,,1,10,sale,direct sale,,"Astrid's Farm, Cyclist"
+2017.05.19,LS00048,,,2.73,sale,Bandcamp,Download Sale Andrew Meola,"Cinema Cinema, Man bites Dog"
+2017.05.27,LS00048,,1,26.82,sale,Bandcamp,vinyl sale Gregory Neeld,"Cinema Cinema, Man bites Dog"
+2017.05.27,LS00048,,,5.49,sale,Bandcamp,Download sale,"Cinema Cinema, Man bites Dog"
+2017.05.27,LS00048,,,2.25,sale,Bandcamp,Download sale,"Cinema Cinema, Man bites Dog"
+2017.06.14,LS00048,,40,400,sale,band sales,as per invoice P3,"Cinema Cinema, Man bites Dog"
+2017.06.14,LS00048,,,4.82,sale,Bandcamp,Download sale,"Cinema Cinema, Man bites Dog"
+2017.06.22,LS00025,1,,10,sale,mail order,,"Ich Jetzt Taeglich, Allee Sorgenlos"
+2017.06.22,LS00041,1,1,10,sale,direct sale,,"Frogbelly And Symphony, Blue Bright.."
+2017.06.22,LS00029,2,,20,sale,direct sale,,"Liz Hanley, The Ecstasy..."
+2017.06.30,LS00013,1,,3,sale,label box,"Makers, Sheffield",Melodica Compilation #1
+2017.06.30,LS00026,1,,3,sale,label box,"Makers, Sheffield",Melodica Compilation #2
+2017.06.30,LS00001,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Astrid's Farm, Cyclist"
+2017.06.30,LS00006,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Frau Karaushaar, Le Salon Is Very Morbidae"
+2017.06.30,LS00048,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Cinema Cinema, Man bites Dog"
+2017.06.30,LS00027,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Nikolai Wilckens, Stories..."
+2017.06.30,LS00036,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Steve Allen, Wreck The Place"
+2017.06.30,LS00040,1,,3,sale,label box,"St. Luke's Charity, Sheffield","The Bone Lab, Fresh Meat"
+2017.06.30,LS00041,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Frogbelly And Symphony, Blue Bright.."
+2017.06.30,LS00045,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Phia, The Ocean Of Everything"
+2017.06.30,LS00044,1,,3,sale,label box,"St. Luke's Charity, Sheffield","Steel City Rhythm, Free Love & Fighting"
+2017.06.30,LS00023,1,,2,sale,label box,"Captain's Cup, Sheffield","Owls Of The Swamp, Go With River"
+2017.06.30,LS00048,1,,2,sale,label box,"Captain's Cup, Sheffield","Cinema Cinema, Man bites Dog"
+2017.06.30,LS00029,1,,2,sale,label box,"Captain's Cup, Sheffield","Liz Hanley, The Ecstasy..."
+2017.06.30,LS00038,,1,5.93,sale,direct sale,"Record Collector, Sheffield","Owls Of The Swamp, Atlas"
+2017.06.30,LS00004,,1,5.93,sale,direct sale,"A New Shop, Sheffield","Emmy Moll, All the Monsters..."
+2017.06.30,LS00001,1,,3,sale,direct sale,"A New Shop, Sheffield","Astrid's Farm, Cyclist"
+2017.06.30,LS00026,1,,3,sale,label box,"A New Shop, Sheffield",Melodica Compilation #2
+2017.06.30,LS00044,1,,5,sale,label box,"A New Shop, Sheffield","Steel City Rhythm, Free Love & Fighting"
+2017.07.07,LS00049,,,3.38,sale,Bandcamp,download,"Joey Molinaro, Awash"
+2017.07.07,LS00048,,1,15,sale,direct sale,"Spinning Discs, Sheffield","Cinema Cinema, Man bites Dog"
+2017.07.11,LS00044,,,4.67,sale,Bandcamp,Download,"Steel City Rhythm, Free Love & Fighting"
+2017.07.24,LS00049,,,3.31,sale,Bandcamp,Download,"Joey Molinaro, Awash"
+2017.07.24,LS00041,4,,40,sale,gig sales,Tramlines,"Frogbelly And Symphony, Blue Bright.."
+2017.07.24,LS00029,1,,10,sale,gig sale,Tramlines,"Liz Hanley, The Ecstasy..."
+2017.07.24,LS00048,,,6.8,sale,Bandcamp,Download,"Cinema Cinema, Man bites Dog"
+2017.08.08,LS00029,,,3.53,sale,Bandcamp,Download,"Liz Hanley, The Ecstasy..."
+2017.08.08,LS00048,1,,11.07,sale,Bandcamp,CD mailorder David Bales,"Cinema Cinema, Man bites Dog"
+2017.08.12,LS00004,,1,5.48,sale,direct sale,"Rough Trade, Nottingham","Emmy Moll, All the Monsters..."
+2017.08.12,LS00006,,1,5.48,sale,direct sale,"Rough Trade, Nottingham","Frau Karaushaar, Le Salon Is Very Morbidae"
+2017.08.12,LS00013,1,,7,sale,gig sale,Melodica Nottingham,Melodica Compilation #1
+2017.08.12,LS00029,1,,0,sale,gig sale,Melodica Nottingham,"Liz Hanley, The Ecstasy..."
+2017.09.05,LS00001,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Astrid's Farm / Cyclist
+2017.09.05,LS00002,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Xrfarflight / The Early Bird...
+2017.09.05,LS00004,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Emmy Moll / All The Monsters...
+2017.09.05,LS00005,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Dear John Letter / Between Leaves...
+2017.09.05,LS00006,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Frau Kraushaar / Le Salon...
+2017.09.05,LS00007,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Introducing Labelship
+2017.09.05,LS00011,1,,1,sale,label box,"La Gramola Records, Zaragoza ES",Kid Decker / Reveries
+2017.09.05,LS00015,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Dear John Letter / Part & Fragment
+2017.09.05,LS00017,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Torben Stock / Rocket
+2017.09.05,LS00018,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Kid Decker / Your Kind
+2017.09.05,LS00023,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Owls Of The Swamp / Go With River
+2017.09.05,LS00048,1,,5,sale,label box,"La Gramola Records, Zaragoza ES",Cinema Cinema / Man Bites Dog
+2017.09.05,LS00027,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Nikolai Wilckens /  Stories...
+2017.09.05,LS00030,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Outroads / I Am Happy
+2017.09.05,LS00033,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Outroads / Only the Lonely?
+2017.09.05,LS00037,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Martin Bisi / Sirens Of The Apocalypse
+2017.09.05,LS00038,1,,3,sale,label box,"La Gramola Records, Zaragoza ES",Owls Of The Swamp / Atlas
+2017.09.05,LS00041,1,,2,sale,label box,"La Gramola Records, Zaragoza ES",Frogbelly and Symphony / Blue Bright...
+2017.09.05,LS00044,1,,5,sale,label box,"La Gramola Records, Zaragoza ES",Steel City Rhythm / Free Love & Fighting
+2017.09.05,LS00045,1,,5,sale,label box,"La Gramola Records, Zaragoza ES",Phia / The Ocean Of Everything
+2017.09.05,LS00002,,1,7,sale,direct sale,"Groovie Records, Lisbon, PT",Xrfarflight / The Early Bird...
+2017.09.05,LS00038,,1,7,sale,direct sale,"Groovie Records, Lisbon, PT","Owls Of The Swamp, Atlas"
+2017.09.05,LS00039,,1,7,sale,direct sale,"Groovie Records, Lisbon, PT","Martin Bisi, Ex Nihilo"
+2017.09.05,LS00047,,1,7,sale,direct sale,"Groovie Records, Lisbon, PT","Overdrive Amp Explosion, Bounds"
+2017.09.05,LS00002,,1,7,sale,direct sale,"Flur Records, Lisbon, PT",Xrfarflight / The Early Bird...
+2017.09.05,LS00004,,1,7,sale,direct sale,"Flur Records, Lisbon, PT",Emmy Moll / All The Monsters...
+2017.09.05,LS00039,,1,7,sale,direct sale,"Flur Records, Lisbon, PT","Martin Bisi, Ex Nihilo"
+2017.09.05,LS00048,,1,10,sale,direct sale,"Flur Records, Lisbon, PT",Cinema Cinema / Man Bites Dog
+2017.09.05,LS00014,,1,5,sale,direct sale,"Snare & Carpet, Lisbon, PT","Tonfang, The Piss"
+2017.09.05,LS00001,1,2,16,sale,direct sale,"Croc Vinyl, Toulouse, FR",Astrid's Farm / Cyclist
+2017.09.05,LS00002,1,2,16,sale,direct sale,"Croc Vinyl, Toulouse, FR",Xrfarflight / The Early Bird...
+2017.09.05,LS00004,1,1,10,sale,direct sale,"Croc Vinyl, Toulouse, FR",Emmy Moll / All The Monsters...
+2017.09.05,LS00005,1,2,22,sale,direct sale,"Croc Vinyl, Toulouse, FR",Dear John Letter / Between Leaves...
+2017.09.05,LS00006,1,2,16,sale,direct sale,"Croc Vinyl, Toulouse, FR","Frau Karaushaar, Le Salon Is Very Morbidae"
+2017.09.05,LS00007,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Introducing Labelship
+2017.09.05,LS00011,1,,1,sale,direct sale,"Croc Vinyl, Toulouse, FR",Kid Decker / Reveries
+2017.09.05,LS00015,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Dear John Letter / Part & Fragment
+2017.09.05,LS00017,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Torben Stock / Rocket
+2017.09.05,LS00018,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Kid Decker / Your Kind
+2017.09.05,LS00020,1,,1,sale,direct sale,"Croc Vinyl, Toulouse, FR",Overdrive Amp Explosion / Easy Tiger
+2017.09.05,LS00021,1,,3,sale,direct sale,"Croc Vinyl, Toulouse, FR","Overdrive Amp Explosion, Blanks"
+2017.09.05,LS00023,1,,3,sale,direct sale,"Croc Vinyl, Toulouse, FR",Owls Of The Swamp / Go With River
+2017.09.05,LS00047,,2,14,sale,direct sale,"Croc Vinyl, Toulouse, FR","Overdrive Amp Explosion, Bounds"
+2017.09.05,LS00048,1,,5,sale,direct sale,"Croc Vinyl, Toulouse, FR",Cinema Cinema / Man Bites Dog
+2017.09.05,LS00027,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Nikolai Wilckens /  Stories...
+2017.09.05,LS00030,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Outroads / I Am Happy
+2017.09.05,LS00033,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Outroads / Only the Lonely?
+2017.09.05,LS00035,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Lonesome Station
+2017.09.05,LS00036,1,,5,sale,direct sale,"Croc Vinyl, Toulouse, FR","Steve Allen, Wreck The Place"
+2017.09.05,LS00037,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR",Martin Bisi / Sirens Of The Apocalypse
+2017.09.05,LS00038,,2,14,sale,direct sale,"Croc Vinyl, Toulouse, FR","Owls Of The Swamp, Atlas"
+2017.09.05,LS00040,1,,2,sale,direct sale,"Croc Vinyl, Toulouse, FR","The Bone Lab, Fresh Meat"
+2017.09.05,LS00041,,2,20,sale,direct sale,"Croc Vinyl, Toulouse, FR",Frogbelly and Symphony / Blue Bright...
+2017.09.05,LS00044,1,,5,sale,direct sale,"Croc Vinyl, Toulouse, FR",Steel City Rhythm / Free Love & Fighting
+2017.09.05,LS00045,1,,5,sale,direct sale,"Croc Vinyl, Toulouse, FR",Phia / The Ocean Of Everything
+2017.09.05,LS00038,1,,7.74,sale,Bandcamp,CD sale Nepomuk Neunhoeffer,Owls Of The Swamp / Atlas
+2017.09.13,LS00049,,,2.6,sale,Bandcamp,Download,"Joey Molinaro, Awash"
+2017.09.13,LS00048,,,3.63,sale,Bandcamp,download,Cinema Cinema / Man Bites Dog
+2017.09.30,LS00026,,,3.27,sale,Bandcamp,download,Melodica Compilation #2
+2017.10.17,LS00048,,,0.62,sale,Bandcamp,Run Until You're out,Cinema Cinema / Man Bites Dog
+2017.10.18,LS00001,,1,8.96,sale,direct sale,"Wild Life, Sheffield UK",Astrid's Farm / Cyclist
+2017.10.18,LS00002,,1,8.96,sale,direct sale,"Wild Life, Sheffield UK",Xrfarflight / The Early Bird...
+2017.10.18,LS00038,,1,8.96,sale,direct sale,"Wild Life, Sheffield UK",Owls Of The Swamp / Atlas
+2017.10.18,LS00041,,1,12.72,sale,direct sale,"Steady Sounds, Richmont VA",Frogbelly and Symphony / Blue Bright...
+2017.10.18,LS00038,,1,8.48,sale,direct sale,"Steady Sounds, Richmont VA",Owls Of The Swamp / Atlas
+2017.10.18,LS00006,,1,8.48,sale,direct sale,"Steady Sounds, Richmont VA",Frau Kraushaar / Le Salon...
+2017.10.18,LS00032,,1,6.79,sale,direct sale,"Vinyl Conflict, Richmont VA","Frogbelly And Symphony, The EYE"
+2017.10.18,LS00035,,1,4.24,sale,direct sale,"Vinyl Conflict, Richmont VA",Lonesome Station
+2017.10.18,LS00039,,1,8.48,sale,direct sale,"Vinyl Conflict, Richmont VA","Martin Bisi, Ex Nihilo"
+2017.10.18,LS00038,,1,8.48,sale,direct sale,"Vinyl Conflict, Richmont VA",Owls Of The Swamp / Atlas
+2017.10.18,LS00005,,1,12.72,sale,direct sale,"Vinyl Conflict, Richmont VA",Dear John Letter / Between Leaves...
+2017.10.23,LS00035,,1,4.25,sale,direct sale,"Academy Records, NYC",Lonesome Station
+2017.10.23,LS00014,,1,4.25,sale,direct sale,"Academy Records, NYC","Tonfang, The Piss"
+2017.10.23,LS00039,,1,4.25,sale,direct sale,"Academy Records, NYC","Martin Bisi, Ex Nihilo"
+2017.10.23,LS00001,,1,4.25,sale,direct sale,"Academy Records, NYC",Astrid's Farm / Cyclist
+2017.10.23,LS00004,,1,4.25,sale,direct sale,"Academy Records, NYC",Emmy Moll / All The Monsters...
+2017.10.23,LS00038,,1,4.25,sale,direct sale,"Academy Records, NYC",Owls Of The Swamp / Atlas
+2017.10.23,LS00032,,1,4.25,sale,direct sale,"Academy Records, NYC","Frogbelly And Symphony, The EYE"
+2017.10.23,LS00006,,1,4.25,sale,direct sale,"Academy Records, NYC",Frau Kraushaar / Le Salon...
+2017.10.23,LS00041,,1,4.25,sale,direct sale,"Academy Records, NYC","Frogbelly And Symphony, Blue Bright.."
+2017.10.23,LS00005,1,,2,sale,label box,"Academy Records, NYC",Dear John Letter / Between Leaves...
+2017.10.23,LS00002,1,,2,sale,label box,"Academy Records, NYC",Xrfarflight / The Early Bird...
+2017.10.23,LS00004,1,,2,sale,label box,"Academy Records, NYC",Emmy Moll / All The Monsters...
+2017.10.23,LS00015,1,,2,sale,label box,"Academy Records, NYC",Dear John Letter / Part & Fragment
+2017.10.23,LS00006,1,,2,sale,label box,"Academy Records, NYC",Frau Kraushaar / Le Salon...
+2017.10.23,LS00007,1,,2,sale,label box,"Academy Records, NYC",Introducing Labelship
+2017.10.23,LS00009,1,,4,sale,label box,"Academy Records, NYC",Binoculers / Every Seaman...
+2017.10.23,LS00018,1,,2,sale,label box,"Academy Records, NYC",Kid Decker / Your Kind
+2017.10.23,LS00011,1,,2,sale,label box,"Academy Records, NYC",Kid Decker / Reveries
+2017.10.23,LS00017,1,,2,sale,label box,"Academy Records, NYC",Torben Stock / Rocket
+2017.10.23,LS00021,1,,4,sale,label box,"Academy Records, NYC","Overdrive Amp Explosion, Blanks"
+2017.10.23,LS00023,1,,4,sale,label box,"Academy Records, NYC",Owls Of The Swamp / Go With River
+2017.10.23,LS00046,1,,2,sale,label box,"Academy Records, NYC",Owls Of The Swamp / Meteorite
+2017.10.23,LS00038,1,,4,sale,label box,"Academy Records, NYC",Owls Of The Swamp / Atlas
+2017.10.23,LS00022,1,,2,sale,label box,"Academy Records, NYC",Stars For The Banned
+2017.10.23,LS00001,1,,2,sale,label box,"Academy Records, NYC",Astrid's Farm / Cyclist
+2017.10.23,LS00041,1,,2,sale,label box,"Academy Records, NYC",Frogbelly and Symphony / Blue Bright...
+2017.10.23,LS00037,1,,2,sale,label box,"Academy Records, NYC",Martin Bisi / Sirens Of The Apocalypse
+2017.10.23,LS00030,1,,2,sale,label box,"Academy Records, NYC",Outroads / I Am Happy
+2017.10.23,LS00036,1,,4,sale,label box,"Academy Records, NYC","Steve Allen, Wreck The Place"
+2017.10.23,LS00029,1,,2,sale,label box,"Academy Records, NYC","Liz Hanley, The Ecstasy..."
+2017.10.23,LS00048,1,,4,sale,label box,"Academy Records, NYC",Cinema Cinema / Man Bites Dog
+2017.10.29,LS00048,119,,595,sale,band sales,as per invoice P2,Cinema Cinema / Man Bites Dog
+2017.11.04,LS00021,,,3.39,sale,Bandcamp,album-bundle download sale,"Overdrive Amp Explosion, Blanks"
+2017.11.04,LS00047,,,3.39,sale,Bandcamp,album-bundle download sale,"Overdrive Amp Explosion, Bounds"
+2017.11.04,LS00028,,,3.39,sale,Bandcamp,album-bundle download sale,Overdrive Amp Explosion / Intervals
+2017.11.11,LS00004,1,,4.48,sale,label box,"Riley's & Co, Sheffield",Emmy Moll / All The Monsters...
+2017.11.11,LS00045,1,,4.48,sale,label box,"Riley's & Co, Sheffield",Phia / The Ocean Of Everything
+2017.11.11,LS00041,1,,4.48,sale,label box,"Riley's & Co, Sheffield",Frogbelly and Symphony / Blue Bright...
+2017.11.08,LS00048,1,,11.15,sale,Bandcamp,CD mailorder Eline Frigstad,Cinema Cinema / Man Bites Dog
+2017.11.29,LS00048,,45,450,sale,band sales,as per invoice P5,Cinema Cinema / Man Bites Dog
+2017.12.02,LS00049,,,2.49,sale,Bandcamp,Download ,"Joey Molinaro, Awash"
+2017.12.02,LS00013,1,,2,sale,label box,"Makers, Sheffield",Melodica Compilation #1
+2017.12.02,LS00044,1,,5,sale,label box,"Makers, Sheffield",Steel City Rhythm / Free Love & Fighting
+2017.12.02,LS00044,1,,5,sale,label box,"Airy Fairy, Sheffield",Steel City Rhythm / Free Love & Fighting
+2017.12.02,LS00002,1,,2,sale,label box,"Airy Fairy, Sheffield",Xrfarflight / The Early Bird...
+2017.12.02,LS00041,1,,2,sale,label box,"Airy Fairy, Sheffield",Frogbelly and Symphony / Blue Bright...
+2017.12.11,LS00048,,1,21.21,sale,Bandcamp,Vinyl Mailorder Brad G Nielsen,Cinema Cinema / Man Bites Dog

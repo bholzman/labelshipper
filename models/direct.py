@@ -48,20 +48,22 @@ class Direct(object):
         header = reader.next()
         assert header == [
             'DATE', 'RELEASE_ID', 'CDS', 'LPS',
-            'AMOUNT', 'TRANSACTION', 'CHANNEL', 'DESCRIPTION'
+            'AMOUNT', 'TRANSACTION', 'CHANNEL', 'DESCRIPTION', 'Product'
         ]
         for row in reader:
-            date_, account, cds, lps, amount, transaction, channel, description = row
+            date_, account, cds, lps, amount, transaction, channel, description, comment = row
             date_ = _parse_date(date_)
             cds = int(cds or 0)
             lps = int(lps or 0)
             amount = float(amount)
             account_meta = AccountMeta.accounts()[account]
-            comment = '{} / {}'.format(account_meta.artist, account_meta.name)
-            if cds > 0:
-                comment += '/ {}'.format(account_meta.cd_article)
-            if lps > 0:
-                comment += '/ {}'.format(account_meta.lp_article)
+
+            if not comment:
+                comment = u'{} / {}'.format(account_meta.artist, account_meta.name)
+                if cds > 0 and account_meta.cd_article:
+                    comment += ' / {}'.format(account_meta.cd_article)
+                if lps > 0 and account_meta.lp_article:
+                    comment += ' / {}'.format(account_meta.lp_article)
 
             self.__tables['direct']['rows'].append(
                 {'date': date_,

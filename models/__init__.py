@@ -1,7 +1,7 @@
 from __future__ import absolute_import, unicode_literals
 
-from .brokensilence import BrokenSilence
 from .account import Account, AccountMeta
+from .brokensilence import BrokenSilence
 from .accountreport import AccountReport
 from .direct import Direct
 

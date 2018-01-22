@@ -1,0 +1,18 @@
+Here's what I did to get labelship reports run for 2016.
+
+1) add new accounts from spreadsheet thomas sent
+  - requires updating etc/accounts.csv directly, ***should make this easier***
+
+2) implemented balance-updating logic and used it to update balances to 2016 EOY totals:
+  - python artist-report --bs brokensilence/2016*.csv --direct direct/2016*.csv --update-balances --as-of 2016-12-31
+
+3) add support for stock transfers
+
+4) add in 2017 direct sale, stock correction and ledger items spreadsheets
+
+5) add in 2017 brokensilence CSV files
+
+6) added brokensilence CD/LP codes for new products
+
+7) run reports:
+  - python artist-reports --bs brokensilence/BSL-*-*2017-*2017.csv --direct direct/2017*.csv
