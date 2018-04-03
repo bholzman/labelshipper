@@ -65,3 +65,24 @@ DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
 2017.11.23,LS00051,,-319,0,stock-in,MPO,Vinyl issue Chicken Wire,"Ash Gray, Chicken Wire"
 2017.11.23,LS00051,,50,0,dispatch to artist,UPS,Vinyl stock TX,"Ash Gray, Chicken Wire"
 2017.12.13,LS00051,,120,0,dispatch to artist,Ash,Vinyl stock to artist,"Ash Gray, Chicken Wire"
+2017.08.09,LS00039,63,,0,stock correction,,,"Martin Bisi, Ex Nihilo"
+2017.10.14,LS00039,,27,0,dispatch to artist,,Vinyl stock to artist,"Martin Bisi, Ex Nihilo"
+2017.06.08,LS00013,-15,,0,inventory correction,Brokensilence,stock returns Brokensilence,Melodica Compilation #1
+2017.06.08,LS00009,-15,,0,inventory correction,Brokensilence,stock returns Brokensilence,Binoculers / Every Seaman...
+2017.06.08,LS00023,-10,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of the Swamp, Go With river"
+2017.06.08,LS00026,-5,,0,inventory correction,Brokensilence,stock returns Brokensilence,Melodica Compilation #2
+2017.06.08,LS00036,-2,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Steve Allen, Wreck the Place"
+2017.06.08,LS00038,-82,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of The Swamp, Atlas"
+2017.06.08,LS00041,-68,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Frogbelly And Symphony, Blue Bright..."
+2017.06.08,LS00009,,-3,0,inventory correction,Brokensilence,stock returns Brokensilence,Binoculers / Every Seaman...
+2017.06.08,LS00032,,-11,0,inventory correction,Brokensilence,stock returns Brokensilence,"Frogbelly And Symphony, The EYE"
+2017.06.08,LS00038,,-17,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of The Swamp, Atlas"
+2017.06.08,LS00041,,-27,0,inventory correction,Brokensilence,stock returns Brokensilence,"Frogbelly And Symphony, Blue Bright..."
+2017.06.08,LS00023,-1,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of the Swamp, Go With river"
+2017.06.08,LS00024,-2,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Meike Schrader, Das Gruen in Deinen Augen"
+2017.06.08,LS00027,-1,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Nikolai Wilckens, Stories The Sea Told Me At Night"
+2017.06.08,LS00038,-2,,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of The Swamp, Atlas"
+2017.06.08,LS00032,,-11,0,inventory correction,Brokensilence,stock returns Brokensilence,"Frogbelly And Symphony, The EYE"
+2017.06.08,LS00038,,-1,0,inventory correction,Brokensilence,stock returns Brokensilence,"Owls Of The Swamp, Atlas"
+2017.06.08,LS00039,,-1,0,inventory correction,Brokensilence,stock returns Brokensilence,"Martin Bisi, Ex Nihilo"
+2017.06.08,LS00041,,-3,0,inventory correction,Brokensilence,stock returns Brokensilence,"Frogbelly And Symphony, Blue Bright..."

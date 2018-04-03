@@ -26,6 +26,23 @@ class BrokenSilence(object):
     def tables(self):
         return self.__tables
 
+    def all_articles(self):
+        all_articles = set([])
+        if 'national' in self.__tables:
+            for row in self.__tables['national']['rows']:
+                all_articles.add(row['article no'])
+        if 'international' in self.__tables:
+            for row in self.__tables['international']['rows']:
+                all_articles.add(row['article no.'])
+        if 'downloads' in self.__tables:
+            for row in self.__tables['downloads']['rows']:
+                all_articles.add(row['article no.'])
+        if 'digital' in self.__tables:
+            for row in self.__tables['digital']['rows']:
+                all_articles.add(row['article no.'])
+
+        return all_articles
+    
     def entries_for(self, account):
         account_meta = AccountMeta.accounts()[account.account]
         entries = []

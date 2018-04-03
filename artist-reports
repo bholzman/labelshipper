@@ -67,6 +67,8 @@ def main(args):
             action = 'update-balances'
         elif a == '--generate-reports':
             action = 'generate-reports'
+        elif a == '--validate-articles':
+            action = 'validate-articles'
         elif active == 'bs':
             brokensilence_statements.append(_bs(a))
         elif active == 'direct':
@@ -74,9 +76,21 @@ def main(args):
         elif active == 'as-of':
             as_of = a
 
-    verb = 'Updating balances' if action == 'update-balances' else 'Processing reports'
+    verb = {'update-balances': 'Updating balances',
+            'generate-reports': 'Processing reports',
+            'validate-articles': 'Validating articles'}[action]
     print "{} with {} brokensilence statements and {} direct statements".format(
         verb, len(brokensilence_statements), len(direct_statements))
+
+    if action == 'validate-articles':
+        all_articles = set([])
+        for bs in brokensilence_statements:
+            all_articles.update(bs.all_articles())
+        accounts = [AccountMeta.accounts()[a] for a in accounts]
+        for article in all_articles:
+            if not any(account.has_article(article) for account in accounts):
+                print "Article {} not found".format(article)
+        return
 
     for account_id in accounts:
         balance = balances[account_id]

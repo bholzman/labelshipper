@@ -86,6 +86,9 @@ class AccountMeta(object):
     def accounts(class_):
         return class_.ACCOUNTS
 
+    def has_article(self, article):
+        normalized = re.sub('\*', ' ', article)
+        return any(normalized == a for a in self.articles)
 
 class Account(object):
     def __init__(self, account, start_date, start_balance, start_cd, start_lp, **kwargs):
@@ -126,8 +129,7 @@ class Account(object):
         return max([x['date'] for x in self.__entries])
 
     def has_article(self, article):
-        normalized = re.sub('\*', ' ', article)
-        return any(normalized == a for a in self.__meta.articles)
+        return self.__meta.has_article(article)
 
     def _report_rows(self):
         stock_cds = 0
