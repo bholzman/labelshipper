@@ -13,12 +13,12 @@ def data():
 def csv_file():
     import glob
     import random
-    return random.choice(glob.glob('brokensilence/*.csv'))
+    return random.choice(glob.glob('brokensilence/2015/*.csv'))
 
 
 @pytest.fixture(scope='module')
 def direct_csv_file():
-    return 'direct/2015.csv'
+    return 'direct/2017/2017.csv'
 
 
 def test_account():

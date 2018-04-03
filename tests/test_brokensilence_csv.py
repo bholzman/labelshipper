@@ -8,7 +8,7 @@ ERROR_THRESHOLD = 1.0000000001e-2
 
 @pytest.fixture(scope='module')
 def csv_file():
-    return 'brokensilence/2016-01.csv'
+    return 'brokensilence/2016/2016-01.csv'
 
 
 def test_brokensilence_csv_import(csv_file):

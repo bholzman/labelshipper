@@ -11,7 +11,7 @@ def data():
 
 @pytest.fixture(scope='module')
 def csv_file():
-    return 'brokensilence/2015-01.csv'
+    return 'brokensilence/2015/2015-01.csv'
 
 
 def test_account_report_with_brokensilence(csv_file):
