@@ -88,6 +88,8 @@ class AccountMeta(object):
 
     def has_article(self, article):
         normalized = re.sub('\*', ' ', article)
+        normalized = re.sub("7'", '7"', normalized)
+        normalized = re.sub("DG ", 'CD ', normalized)
         return any(normalized == a for a in self.articles)
 
 class Account(object):

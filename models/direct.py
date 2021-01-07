@@ -55,7 +55,7 @@ class Direct(object):
             date_ = _parse_date(date_)
             cds = int(cds or 0)
             lps = int(lps or 0)
-            amount = float(amount)
+            amount = float(amount or 0)
             account_meta = AccountMeta.accounts()[account]
 
             if not comment:
@@ -70,7 +70,7 @@ class Direct(object):
                  'account': account,
                  'amount': amount,
                  'transaction': transaction,
-                 'description': description,
+                 'description': unicode(description, 'utf-8'),
                  'comment': comment,
                  'channel': channel,
                  'cds': cds,

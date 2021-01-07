@@ -99,7 +99,7 @@ class AccountReport(object):
     def _rows(self):
         rows = ""
         for datum in self.__account.report_data():
-            rows += """
+            rows += u"""
                 <tr>
                     <td>{Date}</td>
                     <td>{Transaction}</td>
@@ -146,7 +146,7 @@ class AccountReport(object):
 </tfoot>""".format(balance, digital, stockCD, stockLP)
 
     def as_html(self):
-        return ("""
+        return (u"""
 <html>
     <head>
         <meta charset="UTF-8">

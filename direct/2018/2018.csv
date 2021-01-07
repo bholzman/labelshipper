@@ -1,0 +1,207 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
+2018.01.25,LS00048,120,34,790,sale,band sales,as per invoice P4,Cinema Cinema / Man Bites Dog
+2018.01.25,LS00041,4,,35,sale,gig sales,"Paris, Les Caves Alliees",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.25,LS00029,2,,20,sale,gig sales,"Paris, Les Caves Alliees",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.01.25,LS00032,,1,15,sale,gig sales,"Paris, Les Caves Alliees",Frogbelly And Symphony /The EYE
+2018.01.26,LS00041,3,4,90,sale,gig sales,"Troyes, The Message",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.26,LS00032,,3,20,sale,gig sales,"Troyes, The Message",Frogbelly And Symphony /The EYE
+2018.01.26,LS00029,1,,10,sale,gig sales,"Troyes, The Message",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.01.27,LS00041,6,4,140,sale,gig sales,"Zing, Saarbruecken",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.27,LS00032,,2,40,sale,gig sales,"Zing, Saarbruecken",Frogbelly And Symphony /The EYE
+2018.01.27,LS00029,2,,20,sale,gig sales,"Zing, Saarbruecken",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.01.28,LS00032,,1,15,sale,gig sales,"Heidelberg, TIKK",Frogbelly And Symphony /The EYE
+2018.01.28,LS00041,4,2,80,sale,gig sales,"Heidelberg, TIKK",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.28,LS00029,1,,10,sale,gig sales,"Heidelberg, TIKK",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.01.29,LS00041,6,5,160,sale,gig sales,"Zurich, Xenix",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.29,LS00032,,1,15,sale,gig sales,"Zurich, Xenix",Frogbelly And Symphony /The EYE
+2018.01.29,LS00029,4,,40,sale,gig sales,"Zurich, Xenix",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.01.30,LS00041,3,,30,sale,gig sales,"Augsburg, Neruda",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.02,LS00041,1,1,30,sale,gig sales,"Berlin, Geyger Gallery",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.03,LS00041,2,,20,sale,gig sales,"Platenlaase, Café Grenzbereiche",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.04,LS00041,3,,30,sale,gig sales,"Braunschweig, Barnabys",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.04,LS00029,1,,10,sale,gig sales,"Braunschweig, Barnabys",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.02.05,LS00041,,1,20,sale,gig sales,"Cologne, Hopla",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.05,LS00032,,1,10,sale,gig sales,"Cologne, Hopla",Frogbelly And Symphony /The EYE
+2018.02.08,LS00041,1,1,30,sale,gig sales,"Bremen, Elo Bar",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.08,LS00032,,1,15,sale,gig sales,"Bremen, Elo Bar",Frogbelly And Symphony /The EYE
+2018.02.09,LS00041,,1,20,sale,gig sales,"Groningen, O' Ceallaigh",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.10,LS00041,1,1,30,sale,gig sales,"Cuxhaven, Janjas",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.10,LS00032,,1,10,sale,gig sales,"Cuxhaven, Janjas",Frogbelly And Symphony /The EYE
+2018.02.10,LS00029,2,,15,sale,gig sales,"Cuxhaven, Janjas",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.02.11,LS00041,3,2,70,sale,gig sales,"Hamburg, FAKTOR",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.11,LS00029,1,,10,sale,gig sales,"Hamburg, FAKTOR",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.02.13,LS00041,1,3,70,sale,gig sales,"Amsterdam, Vondelbunker",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.13,LS00032,,1,10,sale,gig sales,"Amsterdam, Vondelbunker",Frogbelly And Symphony /The EYE
+2018.02.15,LS00041,3,1,50,sale,gig sales,"Lille, Le Café Diskaire",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.15,LS00029,2,,20,sale,gig sales,"Lille, Le Café Diskaire",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.02.16,LS00041,2,2,60,sale,gig sales,"Sheffield, Toolmakers",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.15,LS00001,2,1,15,sale,direct sale,"De Platboef, Rotterdam",Astrids Farm / Cyclist
+2018.02.15,LS00002,1,1,13,sale,direct sale,"De Platboef, Rotterdam",Xrfarflight / The Early Bird Catches...
+2018.02.15,LS00004,1,1,13,sale,direct sale,"De Platboef, Rotterdam",Emmy Moll / All The Monsters...
+2018.02.15,LS00005,2,1,15,sale,direct sale,"De Platboef, Rotterdam",Dear John Letter / Between Leaves | Forestal
+2018.02.15,LS00006,,1,11,sale,direct sale,"De Platboef, Rotterdam",Frau Kraushaar / Le Salon Is Very Morbidae
+2018.02.15,LS00007,1,,2,sale,direct sale,"De Platboef, Rotterdam",Introducing Labelship
+2018.02.15,LS00011,2,,4,sale,direct sale,"De Platboef, Rotterdam",Kid Decker / Reveries EP
+2018.02.15,LS00020,,1,11,sale,direct sale,"De Platboef, Rotterdam",Overdrive Amp Explosion/Easy Tiger / Split EP
+2018.02.15,LS00025,2,,4,sale,direct sale,"De Platboef, Rotterdam",Ich Jetzt Taeglich / Allee Sorgenlos
+2018.02.15,LS00023,1,,2,sale,direct sale,"De Platboef, Rotterdam",Owls Of The Swamp / Go With River
+2018.02.15,LS00047,,1,11,sale,direct sale,"De Platboef, Rotterdam",Overdrive Amp Explosion / Bounds
+2018.02.15,LS00048,3,1,17,sale,direct sale,"De Platboef, Rotterdam",Cinema Cinema / Man Bites Dog
+2018.02.15,LS00024,3,,15,sale,direct sale,"De Platboef, Rotterdam",Meike Schrader / Das Gruen In Deinen Augen
+2018.02.15,LS00027,2,,4,sale,direct sale,"De Platboef, Rotterdam",Nikolai Wilckens / Stories The Sea...
+2018.02.15,LS00038,,1,11,sale,direct sale,"De Platboef, Rotterdam",Owls Of The Swamp / Atlas
+2018.02.15,LS00039,,1,11,sale,direct sale,"De Platboef, Rotterdam",Martin Bisi / Ex Nihilo
+2018.02.15,LS00041,,1,11,sale,direct sale,"De Platboef, Rotterdam",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.03,LS00002,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Xrfarflight / The Early Bird Catches...
+2018.02.03,LS00004,2,,4,sale,Label Box,"Platenlaase, Café Grenzbereiche",Emmy Moll / All The Monsters...
+2018.02.03,LS00005,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Dear John Letter / Between Leaves | Forestal
+2018.02.03,LS00006,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Frau Kraushaar / Le Salon Is Very Morbidae
+2018.02.03,LS00007,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Introducing Labelship
+2018.02.03,LS00009,1,,5,sale,Label Box,"Platenlaase, Café Grenzbereiche",Binoculers / Every Seaman...
+2018.02.03,LS00015,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Dear John Letter / Part And Fragment
+2018.02.03,LS00017,3,,6,sale,Label Box,"Platenlaase, Café Grenzbereiche",Torben Stock / Rocket
+2018.02.03,LS00020,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Overdrive Amp Explosion/Easy Tiger / Split EP
+2018.02.03,LS00023,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Owls Of The Swamp / Go With River
+2018.02.03,LS00027,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Nikolai Wilckens / Stories The Sea...
+2018.02.03,LS00030,3,,6,sale,Label Box,"Platenlaase, Café Grenzbereiche",Outroads / I Am Happy
+2018.02.03,LS00036,1,,5,sale,Label Box,"Platenlaase, Café Grenzbereiche",Steve Allen / Wreck The Place
+2018.02.03,LS00038,1,,2,sale,Label Box,"Platenlaase, Café Grenzbereiche",Owls Of The Swamp / Atlas
+2018.02.03,LS00045,2,,10,sale,Label Box,"Platenlaase, Café Grenzbereiche",Phia / The Ocean Of Everything
+2018.01.25,LS00049,,,1.17,sale,Bandcamp,Download,Joey Molinaro / Awash
+2018.01.28,LS00048,,,10.58,sale,Bandcamp ,CD sale Eric Kuntz,Cinema Cinema / Man Bites Dog
+2018.01.29,LS00048,,,3.46,sale,Bandcamp,Download,Cinema Cinema / Man Bites Dog
+2018.02.22,LS00039,,,16.23,sale,Bandcamp,bandcamp sale Greg Neeld,Martin Bisi / Ex Nihilo
+2018.02.22,LS00039,,,16.23,sale,Bandcamp ,Bandcamp sale David Ennis,Martin Bisi / Ex Nihilo
+2018.02.28,LS00039,,,16.37,sale,Bandcamp ,Bandcamp sale Laura Feathers,Martin Bisi / Ex Nihilo
+2018.03.08,LS00039,,,27.61,sale,Bandcamp,Bandcamp sale Christian Michatsch,Martin Bisi / Ex Nihilo
+2018.03.20,LS00001,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Astrids Farm / Cyclist
+2018.03.20,LS00002,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Xrfarflight / The Early Bird Catches...
+2018.03.20,LS00004,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Emmy Moll / All The Monsters...
+2018.03.20,LS00005,2,,4,sale,Label Box,"Waterloo Records, Austin TX",Dear John Letter / Between Leaves | Forestal
+2018.03.20,LS00006,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Frau Kraushaar / Le Salon Is Very Morbidae
+2018.03.20,LS00007,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Introducing Labelship
+2018.03.20,LS00011,2,,1,sale,Label Box,"Waterloo Records, Austin TX",Kid Decker / Reveries EP
+2018.03.20,LS00015,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Dear John Letter / Part And Fragment
+2018.03.20,LS00017,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Torben Stock / Rocket
+2018.03.20,LS00018,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Kid Decker / Your Kind
+2018.03.20,LS00020,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Overdrive Amp Explosion/Easy Tiger / Split EP
+2018.03.20,LS00021,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Overdrive Amp Explosion / Blanks
+2018.03.20,LS00023,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Owls Of The Swamp / Go With River
+2018.03.20,LS00048,2,,10,sale,Label Box,"Waterloo Records, Austin TX",Cinema Cinema / Man Bites Dog
+2018.03.20,LS00026,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Melodica Compilation #2
+2018.03.20,LS00027,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Nikolai Wilckens / Stories The Sea...
+2018.03.20,LS00029,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Liz Hanley / The Ecstasy Of St. Cecilia
+2018.03.20,LS00030,2,,4,sale,Label Box,"Waterloo Records, Austin TX",Outroads / I Am Happy
+2018.03.20,LS00033,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Outroads / Only the Lonely
+2018.03.20,LS00035,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Lonesome Station / Lonesome Station
+2018.03.20,LS00036,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Steve Allen / Wreck The Place
+2018.03.20,LS00037,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Martin Bisi / Sirens Of The Apocalypse
+2018.03.20,LS00038,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Owls Of The Swamp / Atlas
+2018.03.20,LS00041,1,,2,sale,Label Box,"Waterloo Records, Austin TX",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.03.20,LS00042,1,,1,sale,Label Box,"Waterloo Records, Austin TX",Lonesome Station / Current Space
+2018.03.20,LS00045,1,,5,sale,Label Box,"Waterloo Records, Austin TX",Phia / The Ocean Of Everything
+2018.03.14,LS00001,1,1,9.76,sale,direct sale,"Webster's Bookstore, State College PA",Astrids Farm / Cyclist
+2018.03.14,LS00002,2,,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Xrfarflight / The Early Bird Catches...
+2018.03.14,LS00004,2,1,13.01,sale,direct sale,"Webster's Bookstore, State College PA",Emmy Moll / All The Monsters...
+2018.03.14,LS00005,2,,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Dear John Letter / Between Leaves | Forestal
+2018.03.14,LS00006,,1,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Frau Kraushaar / Le Salon Is Very Morbidae
+2018.03.14,LS00015,2,,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Dear John Letter / Part And Fragment
+2018.03.14,LS00026,1,,3.25,sale,direct sale,"Webster's Bookstore, State College PA",Melodica Compilation #2
+2018.03.14,LS00027,1,,3.25,sale,direct sale,"Webster's Bookstore, State College PA",Nikolai Wilckens / Stories The Sea...
+2018.03.14,LS00032,,1,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Frogbelly And Symphony /The EYE
+2018.03.14,LS00038,,1,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Owls Of The Swamp / Atlas
+2018.03.14,LS00041,,1,6.5,sale,direct sale,"Webster's Bookstore, State College PA",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.05.17,LS00048,,26,260,sale,band sales,as per invoice LS20118068,Cinema Cinema / Man Bites Dog
+2018.05.31,LS00049,,,3.38,sale,Bandcamp,download,Joey Molinaro / Awash
+2018.05.31,LS00048,2,,22.76,sale,gig sales,"Fulford Arms, York",Cinema Cinema / Man Bites Dog
+2018.05.31,LS00048,2,,22.76,sale,gig sales,"Chameleon, Nottingham",Cinema Cinema / Man Bites Dog
+2018.05.31,LS00048,3,,34.14,sale,gig sales,"DINA, Sheffield",Cinema Cinema / Man Bites Dog
+2018.06.30,LS00055,,,8.03,sale,Bandcamp,download,Roods & Reeds / The Loom Goes Click
+2018.07.16,LS00044,,,4.72,sale,Bandcamp,download,Steel City Rhythm / Free Lova And Fighting
+2018.08.18,LS00029,1,,17.47,sale,Bandcamp,CD sale Berit Borg,Liz Hanley / The Ecstasy OF St Cecilia
+2018.09.02,LS00041,,,2.37,sale,Bandcamp,download,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.09.09,LS00051,,,4.65,sale,Bandcamp ,download,Ash Gray / Chicken Wire
+2018.09.10,LS00051,,1,17.25,sale,Bandcamp,Vinyl sale Bucky Brown,Ash Gray / Chicken Wire
+2018.09.11,LS00051,1,,10.43,sale,Bandcamp,CD sale Bryan Colegate,Ash Gray / Chicken Wire
+2018.09.11,LS00051,,,3.05,sale,Bandcamp,download,Ash Gray / Chicken Wire
+2018.09.20,LS00004,1,,2,sale,Label Box,Riley's Sheffield,Emmy Moll / All The Monsters...
+2018.09.20,LS00017,1,,2,sale,Label Box,Riley's Sheffield,Torben Stock / Rocket
+2018.09.20,LS00018,1,,2,sale,Label Box,Riley's Sheffield,Kid Decker / Your Kind
+2018.09.20,LS00023,1,,2,sale,Label Box,Riley's Sheffield,Owls Of The Swamp / Go With River
+2018.09.20,LS00038,1,,2,sale,Label Box,Riley's Sheffield,Owls Of The Swamp / Atlas
+2018.09.20,LS00039,,1,10,sale,direct sale,Riley's Sheffield,Martin Bisi / Ex Nihilo
+2018.09.20,LS00044,1,,3,sale,Label Box,Riley's Sheffield,Steel City Rhythm / Free Love And Fighting
+2018.10.11,LS00004,1,,8.65,sale,Bandcamp,mailorder sale,Emmy Moll / All The Monsters...
+2018.10.18,LS00048,40,25,450,sale,band sales,as per invoice LS20118081,Cinema Cinema / Man Bites Dog
+2018.10.22,LS00051,,,3.05,sale,Bandcamp,Download,Ash Gray / Chicken Wire
+2018.11.05,LS00001,2,,4,sale,Label Box,St. Luke's Sheffield,Astrids Farm / Cyclist
+2018.11.05,LS00002,2,,4,sale,Label Box,St. Luke's Sheffield,Xrfarflight / The Early Bird Catches...
+2018.11.05,LS00004,2,,4,sale,Label Box,St. Luke's Sheffield,Emmy Moll / All The Monsters...
+2018.11.05,LS00005,2,,4,sale,Label Box,St. Luke's Sheffield,Dear John Letter / Between Leaves | Forestal
+2018.11.05,LS00006,3,,6,sale,Label Box,St. Luke's Sheffield,Frau Kraushaar / Le Salon Is Very Morbidae
+2018.11.05,LS00007,3,,6,sale,Label Box,St. Luke's Sheffield,Introducing Labelship
+2018.11.05,LS00011,1,,1,sale,Label Box,St. Luke's Sheffield,Kid Decker / Reveries EP
+2018.11.05,LS00015,2,,4,sale,Label Box,St. Luke's Sheffield,Dear John Letter / Part And Fragment
+2018.11.05,LS00017,1,,2,sale,Label Box,St. Luke's Sheffield,Torben Stock / Rocket
+2018.11.05,LS00018,1,,2,sale,Label Box,St. Luke's Sheffield,Kid Decker / Your Kind
+2018.11.05,LS00020,1,,1,sale,Label Box,St. Luke's Sheffield,Overdrive Amp Explosion/Easy Tiger / Split EP
+2018.11.05,LS00021,1,,2,sale,Label Box,St. Luke's Sheffield,Overdrive Amp Explosion / Blanks
+2018.11.05,LS00023,1,,2,sale,Label Box,St. Luke's Sheffield,Owls Of The Swamp / Go With River
+2018.11.05,LS00048,1,,2,sale,Label Box,St. Luke's Sheffield,Cinema Cinema / Man Bites Dog
+2018.11.05,LS00027,3,,6,sale,Label Box,St. Luke's Sheffield,Nikolai Wilckens / Stories The Sea...
+2018.11.05,LS00050,2,,4,sale,Label Box,St. Luke's Sheffield,Mr. C And Friends / Songs For Future Memories
+2018.11.05,LS00030,1,,2,sale,Label Box,St. Luke's Sheffield,Outroads / I Am Happy
+2018.11.05,LS00033,1,,2,sale,Label Box,St. Luke's Sheffield,Outroads / Only the Lonely
+2018.11.05,LS00036,2,,4,sale,Label Box,St. Luke's Sheffield,Steve Allen / Wreck The Place
+2018.11.05,LS00037,2,,4,sale,Label Box,St. Luke's Sheffield,Martin Bisi / Sirens Of The Apocalypse
+2018.11.05,LS00055,1,,2,sale,Label Box,St. Luke's Sheffield,Roods & Reeds / The Loom Goes Click
+2018.11.05,LS00038,1,,2,sale,Label Box,St. Luke's Sheffield,Owls Of The Swamp / Atlas
+2018.11.05,LS00040,1,,2,sale,Label Box,St. Luke's Sheffield,The Bone Lab / Fresh Meat
+2018.11.05,LS00041,1,,2,sale,Label Box,St. Luke's Sheffield,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.11.05,LS00044,1,,2,sale,Label Box,St. Luke's Sheffield,Steel City Rhythm / Free Love And Fighting
+2018.11.05,LS00045,1,,2,sale,Label Box,St. Luke's Sheffield,Phia / The Ocean Of Everything
+2018.11.05,LS00021,1,,2,sale,Label Box,"Airy Fairy, Sheffield",Overdrive Amp Explosion / Blanks
+2018.11.05,LS00040,1,,2,sale,Label Box,"Airy Fairy, Sheffield",The Bone Lab / Fresh Meat
+2018.11.05,LS00001,1,,2,sale,Label Box,"The Rude Shipyard, Sheffield",Astrids Farm / Cyclist
+2018.11.05,LS00015,1,,2,sale,Label Box,"The Rude Shipyard, Sheffield",Dear John Letter / Part And Fragment
+2018.11.05,LS00030,1,,2,sale,Label Box,"The Rude Shipyard, Sheffield",Outroads / I Am Happy
+2018.11.05,LS00041,1,,2,sale,Label Box,"The Rude Shipyard, Sheffield",Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.11.05,LS00044,1,,3,sale,Label Box,"The Rude Shipyard, Sheffield",Steel City Rhythm / Free Love And Fighting
+2018.11.05,LS00045,1,,2,sale,Label Box,"Frankly My Dear, Sheffield",Phia / The Ocean Of Everything
+2018.11.05,LS00040,1,,2,sale,Label Box,"Frankly My Dear, Sheffield",The Bone Lab / Fresh Meat
+2018.11.05,LS00001,1,,2,sale,Label Box,"Makers, Sheffield",Astrids Farm / Cyclist
+2018.11.05,LS00023,1,,2,sale,Label Box,"Makers, Sheffield",Owls Of The Swamp / Go With River
+2018.11.05,LS00004,1,,2,sale,Label Box,"Makers, Sheffield",Emmy Moll / All The Monsters...
+2018.11.05,LS00037,1,,2,sale,Label Box,"Makers, Sheffield",Martin Bisi / Sirens Of The Apocalypse
+2018.12.12,LS00053,,,5.47,sale,Bandcamp ,download,Soup Review / From The Bed To The Settee...
+2018.12.10,LS00053,,1,21.98,sale,Bandcamp,mailorder sale Ben Eve,Soup Review / From The Bed To The Settee...
+2018.12.07,LS00049,,,4.4,sale,Bandcamp,download,Joey Molinaro / Awash
+2018.12.07,LS00051,,,1.51,sale,Bandcamp,download,Ash Gray / Chicken Wire
+2018.12.07,LS00053,1,,13.19,sale,Bandcamp,CD sale Dave Banks,Soup Review / From The Bed To The Settee...
+2018.12.01,LS00029,5,,65.97,sale,Bandcamp ,CD sales Leroy Leonard,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.11.30,LS00053,,3,58.78,sale,Bandcamp,Vinyl sales Stacey Higgins,Soup Review / From The Bed To The Settee...
+2018.11.30,LS00053,,,6.83,sale,Bandcamp ,download,Soup Review / From The Bed To The Settee...
+2018.11.30,LS00053,1,,13.19,sale,Bandcamp,CD sale David Craigie,Soup Review / From The Bed To The Settee...
+2018.11.30,LS00053,,1,17.59,sale,Bandcamp,Vinyl sale Benjamin Giblin,Soup Review / From The Bed To The Settee...
+2018.12.13,LS00053,1,,13.2,sale,Bandcamp,CD Sale Damian McHugh,Soup Review / From The Bed To The Settee...
+2018.12.17,LS00053,,1,17.6,sale,Bandcamp ,Vinyl Sale Vito D'Agostino,Soup Review / From The Bed To The Settee...
+2018.12.19,LS00056,1,,13.15,sale,Bandcamp,CD sale Karsten Hoeft,Rad Orchestra
+2018.12.30,LS00053,,1,17.48,sale,Bandcamp,Vinyl Sale Ali Brice,Soup Review / From The Bed To The Settee...
+2018.12.29,LS00029,1,,13.16,sale,Bandcamp ,CD sale Phyllis Mueller,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.12.30,LS00029,,,3.55,sale,Bandcamp,download,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.11.30,LS00029,1,,10,sale,gig sales,F&S tour Cologne,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.11.30,LS00041,1,,10,sale,gig sales,F&S tour Cologne,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.11.30,LS00041,,,15,sale,gig sales,T-shirt sale Cologne,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.01,LS00041,,1,20,sale,gig sales,F&S tour Cuxhaven,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.02,LS00041,2,,20,sale,gig sales,F&S tour Braunschweig,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.02,LS00043,2,,10,sale,gig sales,F&S tour Braunschweig,Frogbelly And Symphony / 9-V Haunted House
+2018.12.02,LS00029,1,,10,sale,gig sales,F&S tour Braunschweig,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.12.03,LS00041,2,2,55,sale,gig sales,F&S tour Berlin,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.03,LS00029,1,,10,sale,gig sales,F&S tour Berlin,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.12.03,LS00043,2,,10,sale,gig sales,F&S tour Berlin,Frogbelly And Symphony / 9-V Haunted House
+2018.12.04,LS00029,1,,10,sale,gig sales,F&S tour Hamburg,Liz Hanley / The Ecstasy Of St. Cecilia
+2018.12.05,LS00041,,1,20,sale,gig sales,F&S tour Duesseldorf,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.06,LS00041,1,,11.13,sale,gig sales,F&S tour Whitstable,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.07,LS00041,1,,11.13,sale,gig sales,F&S tour Swanage,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.08,LS00041,3,,35,sale,gig sales,F&S tour London,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.08,LS00043,1,,3.95,sale,gig sales,F&S tour London,Frogbelly And Symphony / 9-V Haunted House

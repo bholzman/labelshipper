@@ -1,0 +1,1286 @@
+statement national reference no: 928740, date: 31.01.2019, salesperiode: 01.01.2019-31.01.2019
+
+article no;artist / title;stock begin / end;arrivals dispatch;domestic qty/dealer/net(aver.);amount domestic;export qty;returns domestic qty/dealer/domestic net(aver.);amount returns domestic;f.o.c dom.;total amount
+7"*06256;Tonfang/ThePiss;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+7"*06271;LonesomeStation/s.t.;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 06280;AshGray/ChickenWire;89 / 89;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 08004;Roods&Reeds/TheLoomGoesClick;25 / 25;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 08005;SoupReview/FromTheBedToTheSettee;18 / 18;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD 08007;RadOrchestra/RadOrchestra;51 / 24;0 / 12;15 / 9,035 / 6,144;92,16;0;0 / 0,000 / 0,000;-0,00;0;92,16
+CD*06251;KidDecker/Reveries;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06252;V.A./MelodicaCompilation1;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06253;DearJohnLetter/PartAndFragment;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06254;KidDecker/YourKind;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06255;Binoculers/EverySeaman s...;4 / 4;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06257;T.Stock/Rocket;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06258;OverdriveAmpExplosion/Blanks;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06260;StarsForTheBanned/StarsForTheBanned;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06261;OwlsOfTheSwamp/GoWithRiver;2 / 1;0 / 1;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06263;V.A./MelodicaCompilation2;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06264;MeikeSchrader/DasGrün...;12 / 10;0 / 0;1 / 5,385 / 3,662;3,66;1;0 / 0,000 / 0,000;-0,00;0;3,66
+CD*06265;N.Wilckens/StoriesTheSea...;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06266;Outroads/IAmHappy;5 / 5;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06267;LizHanley/TheEcstasy...;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06272;OwlsOfTheSwamp/Atlas;9 / 9;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06275;FrogbellyAndSymphony/BlueBright...;5 / 5;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*06277;Phia/TheOceanOfEverything;9 / 8;0 / 0;1 / 5,385 / 3,662;3,66;0;0 / 0,000 / 0,000;-0,00;0;3,66
+CD*06278;CinemaCinema/ManBitesDog;147 / 147;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*08003;Phia/TheWomanWhoCountedTheStarsEP;54 / 53;0 / 0;1 / 5,401 / 3,672;3,67;0;0 / 0,000 / 0,000;-0,00;0;3,67
+CD*13901;AstridsFarm/Cyclist;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13903;Xrfarflight/TheEarlyBird;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13906;EmmyMoll/AllTheMonsters;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13908;DearJohnLetter/Between Leaves-Forestal;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13910;FrauKraushaar/LeSalonIsVeryMorbidä;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+CD*13912;V.A./IntroducingLabelship;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 06279;CinemaCinema/ManBitesDog;34 / 34;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 08002;AshGray/ChickenWire;28 / 27;0 / 0;0 / 0,000 / 0,000;0,00;1;0 / 0,000 / 0,000;-0,00;0;0,00
+LP 08006;SoupReview/FromTheBedToTheSettee;25 / 24;0 / 0;0 / 0,000 / 0,000;0,00;1;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*05257;Binoculers/EverySeaman s...;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06259;OverdriveAmpExplosion/EasyTiger(Split-EP;3 / 3;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06268;Frogbelly.../TheEye;2 / 1;0 / 0;1 / 8,392 / 5,707;5,71;0;0 / 0,000 / 0,000;-0,00;0;5,71
+LP*06273;OwlsOfTheSwamp/Atlas(Lim.Ed.);2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06274;M.Bisi/Ex-Nihilo;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*06276;FrogbellyAndSymphony/BlueBright...;9 / 9;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13902;AstridsFarm/Cyclist;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13904;Xrfarflight/TheEarlyBird;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13907;EmmyMoll/AllTheMonsters;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13909;DearJohnLetter/Between Leaves-Forestal;2 / 2;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+LP*13911;FrauKraushaar/LeSalonIsVeryMorbidä;1 / 1;0 / 0;0 / 0,000 / 0,000;0,00;0;0 / 0,000 / 0,000;-0,00;0;0,00
+
+total sales domestic;total amount domestic;total returns domestic;ret amount domestic;total value;handling fee returns;f.o.c total;reserve for returns (nat+int);refund of reserve;stock-return shipping;v.a.t. / tax 19%;v.a.t. / tax 7%;total value to be paid
+19;108,86;0;0,00;108,86;0,00;0;-37,41;8,85;0,00;0,00;0,00;80,30 EUR
+
+
+
+statement international reference no: 928740, date: 31.01.2019, salesperiode: 01.01.2019-31.01.2019
+
+
+article no.;artist / title;export sales/prices;amount export;returns export qty/dealer/net(aver.);amount returns exp.;f.o.c. exp.;total amount
+CD*06264;MeikeSchrader/DasGrün...;1 / 4,750 / 3,658;3,66;0 / 0,000 / 0,000;-0,00;0;3,66
+LP 08002;AshGray/ChickenWire;1 / 7,087 / 5,457;5,46;0 / 0,000 / 0,000;-0,00;0;5,46
+LP 08006;SoupReview/FromTheBedToTheSettee;1 / 8,750 / 6,737;6,74;0 / 0,000 / 0,000;-0,00;0;6,74
+
+total sales export;total amount export;total returns export;total amount returns exp.;handling fee returns;f.o.c. total;total value;v.a.t. / tax 19%;v.a.t. / tax 7%;total value to be paid
+3;15,85;0;0,00;0,00;0;15,85;0,00;0,00;15,85 EUR
+
+
+
+summary physical sales
+
+article no.;barcode;label no.;artist;title;net sales domestic;net sales export;net sales total;net amount domestic;net amount export;net amount total;handling fee returns
+7"*06256;"4250137262567"; ;TONFANG;The Piss;0;0;0;0;0;0;0
+7"*06271;"4250137262710"; ;LONESOME STATION;Lonesome Station (+ CD);0;0;0;0;0;0;0
+CD 06280;"4250137262802"; ;GRAY, ASH;Chicken Wire;0;0;0;0;0;0;0
+CD 08004;"4250137280042"; ;ROODS & REEDS;The Loom Goes Click;0;0;0;0;0;0;0
+CD 08005;"4250137280059"; ;SOUP REVIEW;From The Bed To The Settee (And Back Again);0;0;0;0;0;0;0
+CD 08007;"4250137280073";;RAD ORCHESTRA ;Rad Orchestra;15;0;15;92,16;0;92,16;0
+CD*06251;"4250137262512";LS0011;KID DECKER ;Reveries EP;0;0;0;0;0;0;0
+CD*06252;"4250137262529";LS0013;VARIOUS ARTISTS;Melodica Compilation #1 ;0;0;0;0;0;0;0
+CD*06253;"4250137262536";LS0015;DEAR JOHN LETTER ;Part And Fragment;0;0;0;0;0;0;0
+CD*06254;"4250137262543";LS0018;KID DECKER ;Your Kind;0;0;0;0;0;0;0
+CD*06255;"4250137262550";LS0009;BINOCULERS;Every Seaman s Got A Favourite Spaceship;0;0;0;0;0;0;0
+CD*06257;"4250137262574"; ;STOCK, TORBEN;Rocket;0;0;0;0;0;0;0
+CD*06258;"4250137262581";LS0021;OVERDRIVE AMP EXPLOSION ;Blanks;0;0;0;0;0;0;0
+CD*06260;"4250137262604";LS0022;STARS FOR THE BANNED ;Stars For The Banned;0;0;0;0;0;0;0
+CD*06261;"4250137262611";LS0023;OWLS OF THE SWAMP  ;Go With River;0;0;0;0;0;0;0
+CD*06263;"4250137262635"; ;VARIOUS ARTISTS;Melodica Compilation #2;0;0;0;0;0;0;0
+CD*06264;"4250137262642";LS0024;SCHRADER, MEIKE;Das Grün In Deinen Augen;1;1;2;3,66;3,66;7,32;0
+CD*06265;"4250137262659";LS0027;WILCKENS, NIKOLAI;Stories The Sea Told Me At Night;0;0;0;0;0;0;0
+CD*06266;"4250137262666";LS0030;OUTROADS;I Am Happy;0;0;0;0;0;0;0
+CD*06267;"4250137262673";LS0029;HANLEY, LIZ;The Ecstasy Of St, Cécilia;0;0;0;0;0;0;0
+CD*06272;"4250137262727";LS0038CD;OWLS OF THE SWAMP;Atlas;0;0;0;0;0;0;0
+CD*06275;"4250137262758";LS0041;FROGBELLY AND SYMPHONY;Blue Bright Ow Sleep;0;0;0;0;0;0;0
+CD*06277;"4250137262772"; ;PHIA;The Ocean Of Everything;1;0;1;3,66;0;3,66;0
+CD*06278;"4250137262789"; ;CINEMA CINEMA ;Man Bites Dog;0;0;0;0;0;0;0
+CD*08003;"4250137280035"; ;PHIA;The Woman Who Counted The Stars EP;1;0;1;3,67;0;3,67;0
+CD*13901;"4024572340476";LS0001CD;ASTRID S FARM ;Cyclist;0;0;0;0;0;0;0
+CD*13903;"4024572340483";LS0002CD;XRFARFLIGHT ;The Early Bird;0;0;0;0;0;0;0
+CD*13906;"4024572352899";LS0004CD;EMMY MOLL;All The Monsters;0;0;0;0;0;0;0
+CD*13908;"4024572354909";LS0005CD;DEAR JOHN LETTER ;Between Leaves/Forestal;0;0;0;0;0;0;0
+CD*13910;"4024572354985";LS0006CD;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;0;0;0;0;0;0;0
+CD*13912;"4024572361839";LS0007CD;VARIOUS ARTISTS;Introducing Labelship ;0;0;0;0;0;0;0
+LP 06279;"4250137262796"; ;CINEMA CINEMA ;Man Bites Dog;0;0;0;0;0;0;0
+LP 08002;"4250137280028"; ;GRAY, ASH;Chicken Wire;0;1;1;0;5,46;5,46;0
+LP 08006;"4250137280066"; ;SOUP REVIEW;From The Bed To The Settee (And Back Again);0;1;1;0;6,74;6,74;0
+LP*05257;"4250137252575";LSLP0009;BINOCULERS;Every Seaman s Got A Favourite Spaceship;0;0;0;0;0;0;0
+LP*06259;"4250137262598";LS0020;OVERDRIVE AMP EXPLOSION/EASY TIGER ;Overdrive Amp Explosion/Easy Tiger (Split-LP);0;0;0;0;0;0;0
+LP*06268;"4250137262680";LS0032;FROGBELLY AND SYMPHONY;The Eye EP (+CD);1;0;1;5,71;0;5,71;0
+LP*06273;"4250137262734";LS0038LP;OWLS OF THE SWAMP;Atlas (Lim,Ed,);0;0;0;0;0;0;0
+LP*06274;"4250137262741";LS0039;BISI, MARTIN ;Ex-Nihilo ;0;0;0;0;0;0;0
+LP*06276;"4250137262765"; ;FROGBELLY AND SYMPHONY;Blue Bright Ow Sleep (Lim,Ed);0;0;0;0;0;0;0
+LP*13902;"4024572341176";LS0001LP;ASTRID S FARM ;Cyclist;0;0;0;0;0;0;0
+LP*13904;"4024572341183";LS0002LP;XRFARFLIGHT ;The Early Bird;0;0;0;0;0;0;0
+LP*13907;"4024572354916";LS0004LP;EMMY MOLL;All The Monsters;0;0;0;0;0;0;0
+LP*13909;"4024572354893";LS0005LP;DEAR JOHN LETTER ;Between Leaves/Forestal;0;0;0;0;0;0;0
+LP*13911;"4024572354978";LS0006LP;FRAU KRAUSHAAR ;Le Salon Is Very Morbidä;0;0;0;0;0;0;0
+
+
+statement digital reference no: 928740, date: 31.01.2019, salesperiode: -
+
+
+article no.;barcode;artist;title;track;ISRC;shop;type;country;qty;dealer (average);net (average);total amount
+7" 06256;4250137262567;Tonfang;The Piss;Dieff;DENP21000040;UMA;Stream;Russia;1;0,000;0,000;0,000
+7" 06256;4250137262567;Tonfang;The Piss;Dieff;DENP21000040;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (+ CD);The Flowers Are Gone;DENP21300215;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (+ CD);Just Look;DENP21300210;UMA;Stream;Russia;1;0,000;0,000;0,000
+7" 06271;4250137262710;Lonesome Station;Lonesome Station (+ CD);A Long Day;DENP21300212;YouTube;Stream;Germany;1;0,008;0,007;0,007
+CD 06251;4250137262512;Kid Decker;Reveries EP;Dead Man´s Walk;DENP21000003;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Remain Unshakeably Calm;DET720900688;iTunes/Apple;Stream;Denmark;1;0,018;0,014;0,014
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Silent Sirens;DET720900690;LOEN;Stream;South Korea;1;0,001;0,001;0,001
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Silver Ring of the Bell;DET720900696;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Remain Unshakeably Calm;DET720900688;Deezer;Stream;United Kingdom;1;0,004;0,003;0,003
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Of Grandeur;DET720900691;iTunes/Apple;Stream;Germany;2;0,005;0,004;0,007
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Looking Glass;DET720900689;Google Play;Stream;USA;1;0,005;0,004;0,004
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Remain Unshakeably Calm;DET720900688;Deezer;Stream;Brazil;11;0,002;0,001;0,014
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Kandi;DET720900697;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That´s the Way the Cookie Crumbles;DET720900692;YouTube;Stream;Italy;1;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment; ;DET720900693;YouTube;Stream;United Kingdom;1;0,002;0,002;0,002
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;House of Leaves;DET720900695;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That´s the Way the Cookie Crumbles;DET720900692;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;You Can´t Hear Yourself Think;DET720900693;Deezer;Stream;Brazil;1;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;Crux;DET720900694;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That´s the Way the Cookie Crumbles;DET720900692;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Silver Ring of the Bell;DET720900696;iTunes/Apple;Stream;Nigeria;2;0,001;0,001;0,002
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;That´s the Way the Cookie Crumbles;DET720900692;Deezer;Stream;Brazil;1;0,000;0,000;0,000
+CD 06253;4250137262536;Dear John Letter;Part And Fragment;The Silver Ring of the Bell;DET720900696;Deezer;Stream;Brazil;1;0,000;0,000;0,000
+CD 06254;4250137262543;Kid Decker;Your Kind;Stone Cold;DENP21000024;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06254;4250137262543;Kid Decker;Your Kind;Reveries;DENP21000001;iTunes/Apple;Stream;Germany;2;0,005;0,004;0,007
+CD 06254;4250137262543;Kid Decker;Your Kind;Look About Ready;DENP21000018;iTunes/Apple;Stream;Germany;2;0,005;0,004;0,007
+CD 06254;4250137262543;Kid Decker;Your Kind;Here We Are;DENP21000026;Google Play;Stream;United Kingdom;4;0,008;0,007;0,027
+CD 06254;4250137262543;Kid Decker;Your Kind;Dead Man´s Walk;DENP21000020;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06254;4250137262543;Kid Decker;Your Kind;Your Kind;DENP21000022;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06254;4250137262543;Kid Decker;Your Kind;Dead Man´s Walk;DENP21000020;Google Play;Stream;Germany;1;0,005;0,004;0,004
+CD 06254;4250137262543;Kid Decker;Your Kind;The Munchkins;DENP21000017;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Easy in the Morning Sun;DENP21000029;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Stones;DENP21000030;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Paintbox;DENP21000037;Deezer;Stream;Germany;2;0,006;0,005;0,010
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Grape-Shaped Dream;DENP21000038;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snail´s Shell;DENP21000028;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Mirrorball;DENP21000035;Amazon Digital Services Inc,;Stream;Germany;9;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Chestnuts;DENP21000036;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Stones;DENP21000030;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Paintbox;DENP21000037;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Grape-Shaped Dream;DENP21000038;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Seaman-Like;DENP21000034;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;DENP21000027;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Chestnuts;DENP21000036;iTunes/Apple;Stream;Germany;4;0,007;0,006;0,023
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snakes;DENP21000032;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;On the Sun;DENP21000031;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Easy in the Morning Sun;DENP21000029;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Your Favourite Spaceship;DENP21000033;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Seaman-Like;DENP21000034;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;DENP21000027;iTunes/Apple;Stream;Slovenia;1;0,003;0,002;0,002
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Chestnuts;DENP21000036;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snakes;DENP21000032;iTunes/Apple;Stream;Germany;4;0,007;0,005;0,021
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;On the Sun;DENP21000031;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Easy in the Morning Sun;DENP21000029;iTunes/Apple;Stream;Netherlands;1;0,007;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Your Favourite Spaceship;DENP21000033;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Seaman-Like;DENP21000034;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;DENP21000027;iTunes/Apple;Stream;Germany;4;0,009;0,007;0,027
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Chestnuts;DENP21000036;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snakes;DENP21000032;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;On the Sun;DENP21000031;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Easy in the Morning Sun;DENP21000029;iTunes/Apple;Stream;Germany;6;0,006;0,005;0,028
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Your Favourite Spaceship;DENP21000033;Amazon Digital Services Inc,;Stream;Germany;14;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Paintbox;DENP21000037;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;DENP21000027;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snail´s Shell;DENP21000028;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Mirrorball;DENP21000035;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Easy in the Morning Sun;DENP21000029;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Stones;DENP21000030;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Paintbox;DENP21000037;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Lions;DENP21000027;Amazon Digital Services Inc,;Stream;Germany;16;0,000;0,000;0,001
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Snail´s Shell;DENP21000028;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06255;4250137262550;Binoculers;Every Seaman s Got A Favourite Spaceship;Mirrorball;DENP21000035;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 06257;4250137262574;Torben Stock;Rocket;Sad Movie Song;DEZ651101243;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;At the Corner;DENP21100061;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Siegfried;DENP21100067;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Riot;DENP21100069;iTunes/Apple;Stream;Switzerland;1;0,001;0,001;0,001
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Riot;DENP21100069;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Lowlight;DENP21100066;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Unlink;DENP21100065;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Interlude;DENP21100062;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;U;DENP21100063;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Autumn;DENP21100068;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06258;4250137262581;Overdrive Amp Explosion;Blanks;Stzar;DENP21100064;Deezer;Stream;Germany;3;0,006;0,005;0,015
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;DENP21100079;Amazon Unlimited;Stream;USA;3;0,012;0,010;0,029
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By the Riverside;DENP21100083;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;Deezer;Stream;Colombia;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;Deezer;Stream;Russia;5;0,001;0,001;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes the Wind;DENP21100081;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;iTunes/Apple;Stream;Thailand;4;0,001;0,001;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;DENP21100084;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By the Riverside;DENP21100083;Deezer;Stream;Germany;2;0,006;0,005;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;YouTube Red;Stream;USA;11;0,009;0,007;0,080
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;DENP21100085;YouTube;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes the Wind;DENP21100081;iTunes/Apple;Stream;Australia;3;0,008;0,006;0,019
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;UMA;Stream;Belarus;3;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;DENP21100084;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;DENP21100086;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By the Riverside;DENP21100083;Deezer;Stream;Brazil;1;0,003;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;YouTube Red;Stream;United Kingdom;1;0,013;0,011;0,011
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;DENP21100085;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go with River;DENP21100088;YouTube;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;iTunes/Apple;Stream;USA;3;0,003;0,003;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Praying Mantis;DENP21100084;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;DENP21100086;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;43;DENP21100077;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;YouTube Red;Stream;Germany;1;0,005;0,004;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Skywaters;DENP21100085;Amazon Unlimited;Stream;USA;2;0,013;0,010;0,021
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Go with River;DENP21100088;iTunes/Apple;Stream;Australia;11;0,006;0,005;0,056
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;Deezer;Stream;United Kingdom;1;0,010;0,008;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;iTunes/Apple;Stream;France;1;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;DENP21100087;iTunes/Apple;Stream;Russia;2;0,002;0,002;0,004
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Walking Song;DENP21100086;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;YouTube Red;Stream;Australia;1;0,011;0,008;0,008
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;DENP21100079;iTunes/Apple;Stream;Australia;2;0,008;0,006;0,013
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By the Riverside;DENP21100083;iTunes/Apple;Stream;South Africa;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;Deezer;Stream;Poland;1;0,004;0,003;0,003
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;iTunes/Apple;Stream;Australia;5;0,003;0,002;0,011
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Long May You Run;DENP21100087;iTunes/Apple;Stream;Australia;7;0,004;0,003;0,024
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks and Turns;DENP21100082;iTunes/Apple;Stream;Australia;3;0,007;0,006;0,017
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;UMA;Stream;Ukraine;3;0,000;0,000;0,000
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Pyramid;DENP21100079;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;By the Riverside;DENP21100083;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Stones and Bones;DENP21100078;Deezer;Stream;France;2;0,006;0,005;0,010
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Here Comes the Wind;DENP21100081;UMA;Stream;Russia;9;0,001;0,001;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;Tricks and Turns;DENP21100082;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06261;4250137262611;Owls Of The Swamp;Go With River;So Far Away;DENP21100080;UMA;Stream;Russia;18;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;United Kingdom;2;0,010;0,008;0,016
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;Deezer;Stream;Germany;2;0,004;0,003;0,006
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Austria;2;0,008;0,007;0,014
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;iTunes/Apple;Stream;Germany;3;0,006;0,005;0,014
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;TIDAL;Stream;Italy;1;0,007;0,006;0,006
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;UMA;Stream;Ukraine;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Kyrgyzstan;1;0,003;0,002;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2; ;DENP21100118;YouTube;Stream;Ireland;1;0,004;0,004;0,004
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;TIDAL;Stream;Switzerland;2;0,008;0,006;0,012
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;TIDAL;Stream;Italy;1;0,007;0,006;0,006
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;iTunes/Apple;Stream;Germany;2;0,003;0,002;0,004
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Netherlands;4;0,008;0,007;0,027
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;Amazon Unlimited;Stream;Germany;3;0,011;0,009;0,027
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;Switzerland;5;0,012;0,010;0,050
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;Google Play;Stream;Norway;1;0,006;0,005;0,005
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;TIDAL;Stream;Switzerland;2;0,012;0,009;0,019
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;USA;42;0,005;0,004;0,164
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;Yandex LLC;Stream;Russia;3;0,000;0,000;0,001
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Austria;2;0,006;0,005;0,010
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Switzerland;3;0,012;0,010;0,029
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;TIDAL;Stream;Switzerland;3;0,013;0,010;0,031
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;Amazon Unlimited;Stream;Germany;1;0,011;0,009;0,009
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;Italy;1;0,007;0,006;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Amazon Unlimited;Stream;USA;1;0,013;0,010;0,010
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;Google Play;Stream;USA;1;0,005;0,004;0,004
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;TIDAL;Stream;Germany;3;0,012;0,009;0,028
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;TIDAL;Stream;Switzerland;2;0,008;0,006;0,012
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Italy;2;0,007;0,006;0,012
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2; ;DENP21100118;YouTube;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;iTunes/Apple;Stream;South Africa;1;0,002;0,002;0,002
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;TIDAL;Stream;Germany;2;0,008;0,007;0,013
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Italy;1;0,004;0,003;0,003
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;Deezer;Stream;Netherlands;1;0,009;0,008;0,008
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;iTunes/Apple;Stream;South Africa;1;0,002;0,002;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Taiwan, Province Of China;1;0,003;0,002;0,002
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;iTunes/Apple;Stream;France;1;0,005;0,004;0,004
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;UMA;Stream;Ukraine;1;0,000;0,000;0,000
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Australia;2;0,006;0,005;0,010
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Poland;1;0,005;0,004;0,004
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;Germany;1;0,008;0,006;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Amazon Unlimited;Stream;United Kingdom;1;0,018;0,014;0,014
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;Deezer;Stream;Netherlands;8;0,006;0,005;0,042
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;iTunes/Apple;Stream;Germany;6;0,006;0,005;0,028
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;TIDAL;Stream;Norway;1;0,013;0,010;0,010
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Germany;29;0,004;0,003;0,097
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Yandex LLC;Stream;Russia;70;0,000;0,000;0,025
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;iTunes/Apple;Stream;South Africa;1;0,002;0,002;0,002
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;Deezer;Stream;Germany;2;0,004;0,003;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Germany;68;0,005;0,004;0,249
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;TIDAL;Stream;Switzerland;3;0,010;0,008;0,025
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;Italy;1;0,007;0,006;0,006
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;Deezer;Stream;Germany;2;0,004;0,003;0,006
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Switzerland;12;0,006;0,005;0,062
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;Deezer;Stream;Netherlands;2;0,009;0,008;0,015
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;UMA;Stream;Russia;63;0,000;0,000;0,006
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;TIDAL;Stream;Switzerland;3;0,010;0,008;0,025
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Argentina;1;0,009;0,007;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Norway;11;0,014;0,011;0,120
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;TIDAL;Stream;Germany;1;0,008;0,006;0,006
+CD 06263;4250137262635;Various Artists;Melodica Compilation #2; ;4250137262635;iTunes/Apple;Download;Germany;1;5,280;4,224;4,224
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;Denmark;1;0,007;0,005;0,005
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Amazon Unlimited;Stream;Germany;15;0,006;0,005;0,071
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;TIDAL;Stream;Germany;1;0,009;0,007;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;UMA;Stream;Russia;42;0,001;0,001;0,030
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;Yandex LLC;Stream;Russia;3;0,000;0,000;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;France;18;0,006;0,005;0,085
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;TIDAL;Stream;Romania;1;0,007;0,005;0,005
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;Germany;2;0,008;0,007;0,013
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;South Africa;5;0,002;0,002;0,009
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;Deezer;Stream;Germany;39;0,004;0,003;0,134
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;Deezer;Stream;Germany;3;0,005;0,004;0,013
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;UMA;Stream;Belarus;2;0,000;0,000;0,000
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iMusica;Stream;Brazil;2;0,011;0,009;0,018
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Italy;1;0,007;0,006;0,006
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;iTunes/Apple;Stream;Germany;2;0,003;0,002;0,004
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;iTunes/Apple;Stream;Switzerland;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Amazon Unlimited;Stream;Austria;1;0,009;0,007;0,007
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;Amazon Digital Services Inc,;Stream;USA;6;0,000;0,000;0,001
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;Deezer;Stream;Netherlands;4;0,009;0,008;0,030
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;France;4;0,007;0,006;0,022
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;UMA;Stream;Kazakhstan;2;0,000;0,000;0,000
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;iTunes/Apple;Download;Canada;1;0,409;0,327;0,327
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;USA;1;0,008;0,007;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Canada;4;0,005;0,004;0,016
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;TIDAL;Stream;Norway;1;0,012;0,009;0,009
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;iTunes/Apple;Stream;Spain;2;0,003;0,003;0,005
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;TIDAL;Stream;Switzerland;3;0,010;0,008;0,025
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Russia;5;0,001;0,001;0,006
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;Deezer;Stream;France;5;0,006;0,005;0,025
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;TIDAL;Stream;Switzerland;4;0,012;0,009;0,037
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Google Play;Stream;Slovenia;2;0,004;0,003;0,007
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Germany;39;0,005;0,004;0,153
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;Deezer;Stream;Netherlands;4;0,009;0,008;0,030
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;USA;3;0,010;0,008;0,024
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;iTunes/Apple;Stream;Germany;3;0,001;0,001;0,002
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;TIDAL;Stream;Switzerland;2;0,008;0,006;0,012
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;Deezer;Stream;Germany;7;0,006;0,005;0,033
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Canada;13;0,005;0,004;0,048
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;USA;1;0,006;0,005;0,005
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;Deezer;Stream;France;1;0,007;0,005;0,005
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;TIDAL;Stream;Switzerland;5;0,012;0,010;0,050
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;Brazil;4;0,003;0,002;0,009
+CD 06263;4250137262635;Njord;Melodica Compilation #2;Seldom Seen Sister;DENP21100117;TIDAL;Stream;Germany;1;0,009;0,007;0,007
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;iTunes/Apple;Stream;South Africa;1;0,004;0,003;0,003
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Norway;1;0,022;0,017;0,017
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;Deezer;Stream;Canada;1;0,005;0,004;0,004
+CD 06263;4250137262635;Owls Of The Swamp;Melodica Compilation #2;Water Song;DENP21100121;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Halla Norðfjörð;Melodica Compilation #2;Maybe;DENP21100111;TIDAL;Stream;Poland;6;0,003;0,003;0,015
+CD 06263;4250137262635;Jona Byron;Melodica Compilation #2;Dead Horse;DENP21100115;iTunes/Apple;Download;Netherlands;1;0,625;0,500;0,500
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;Deezer;Stream;South Africa;1;0,001;0,001;0,001
+CD 06263;4250137262635;Our Blanket Skies;Melodica Compilation #2;Black-Eyed Angel;DENP21100114;Deezer;Stream;Germany;1;0,004;0,003;0,003
+CD 06263;4250137262635;Town Of Saints;Melodica Compilation #2;Start Something;DENP21100113;TIDAL;Stream;United Kingdom;1;0,018;0,015;0,015
+CD 06263;4250137262635;Il Tempo Gigante;Melodica Compilation #2;Lost Something Good;DENP21100110;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 06263;4250137262635;Lâˆ™isa;Melodica Compilation #2;Springrainair;DENP21100116;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;TIDAL;Stream;Denmark;9;0,008;0,006;0,057
+CD 06263;4250137262635;Mijo Biscan;Melodica Compilation #2;Trapped Fox;DENP21100122;iTunes/Apple;Stream;South Africa;1;0,002;0,002;0,002
+CD 06263;4250137262635;Phia;Melodica Compilation #2;Jennifer;DENP21100120;TIDAL;Stream;Switzerland;1;0,008;0,006;0,006
+CD 06263;4250137262635;Hello Piedpiper;Melodica Compilation #2;The Poet;DENP21100112;Amazon Digital Services Inc,;Stream;Germany;2;0,000;0,000;0,000
+CD 06263;4250137262635;L,F, Singer;Melodica Compilation #2;Last Dropout of Beauty School;DENP21100119;Deezer;Stream;Netherlands;3;0,009;0,008;0,023
+CD 06263;4250137262635;Mighty Oaks;Melodica Compilation #2;When I Dream I See;DENP21100118;iTunes/Apple;Stream;Belgium;2;0,006;0,004;0,009
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;DENP21100126;iTunes/Apple;Stream;Germany;4;0,004;0,003;0,011
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;DENP21100125;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;DENP21100124;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;DENP21100133;iTunes/Apple;Stream;Germany;2;0,005;0,004;0,007
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen; ;DENP21100130;YouTube;Stream;Germany;1;0,002;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;DENP21100128;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;DENP21100131;iTunes/Apple;Stream;Germany;4;0,003;0,002;0,008
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;DENP21100126;iTunes/Apple;Stream;Austria;1;0,001;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;DENP21100125;Amazon Digital Services Inc,;Stream;Germany;2;0,002;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;DENP21100124;Amazon Digital Services Inc,;Stream;Germany;2;0,002;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;DENP21100133;Amazon Digital Services Inc,;Stream;Germany;1;0,003;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;DENP21100130;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;DENP21100128;iTunes/Apple;Stream;Germany;6;0,006;0,005;0,028
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;DENP21100131;Amazon Digital Services Inc,;Stream;Germany;2;0,002;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ach Bitte;DENP21100126;Amazon Digital Services Inc,;Stream;Germany;3;0,001;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;DENP21100123;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;DENP21100129;YouTube;Stream;Germany;1;0,025;0,020;0,020
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grün in deinen Augen;DENP21100132;Yandex LLC;Stream;Russia;10;0,000;0,000;0,004
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;DENP21100130;iTunes/Apple;Stream;Germany;5;0,001;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;DENP21100128;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;DENP21100127;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;DENP21100123;iTunes/Apple;Stream;Germany;4;0,005;0,004;0,015
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;DENP21100129;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grün in deinen Augen;DENP21100132;iTunes/Apple;Stream;Germany;12;0,007;0,006;0,069
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Wiegenlied;DENP21100130;Amazon Digital Services Inc,;Stream;Germany;2;0,002;0,001;0,003
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;DENP21100124;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;DENP21100127;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;DENP21100123;Deezer;Stream;Germany;1;0,001;0,001;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;DENP21100129;iTunes/Apple;Stream;Germany;25;0,003;0,002;0,061
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grün in deinen Augen;DENP21100132;Amazon Unlimited;Stream;Germany;6;0,011;0,009;0,054
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;DENP21100125;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;DENP21100124;TIDAL;Stream;Germany;1;0,002;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Ein neuer Tag;DENP21100127;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Sicherhalt;DENP21100123;Amazon Digital Services Inc,;Stream;Germany;3;0,002;0,002;0,005
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Hamburg, mein Hafen;DENP21100129;Amazon Digital Services Inc,;Stream;Germany;16;0,001;0,001;0,013
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Das Grün in deinen Augen;DENP21100132;Amazon Digital Services Inc,;Stream;Germany;2;0,003;0,002;0,005
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Utopia;DENP21100125;TIDAL;Stream;Germany;1;0,002;0,002;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Im Ring;DENP21100124;iTunes/Apple;Stream;Latvia;1;0,000;0,000;0,000
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Die Geister, die ich rief;DENP21100133;Yandex LLC;Stream;Russia;5;0,000;0,000;0,002
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Kaffeehaussong;DENP21100128;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06264;4250137262642;Meike Schrader;Das Grün In Deinen Augen;Halt mich;DENP21100131;Yandex LLC;Stream;Russia;23;0,000;0,000;0,008
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;On and On;DENP21200137;Google Play;Stream;Mexico;3;0,002;0,002;0,005
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Goodnight Country Boy;DENP21200143;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;Did I Forget;DENP21200136;UMA;Stream;Moldova;1;0,000;0,000;0,000
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;City Lights;DENP21200139;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06265;4250137262659;Nikolai Wilckens;Stories The Sea Told Me At Night;A Day by the Sea;DENP21200134;Google Play;Stream;Russia;1;0,002;0,001;0,001
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;DENP21300159;Spotify;Stream;Mexico;4;0,001;0,001;0,005
+CD 06266;4250137262666;Outroads;I Am Happy; ;DENP21300162;YouTube;Stream;USA;4;0,016;0,013;0,052
+CD 06266;4250137262666;Outroads;I Am Happy;Happiness;DENP21300161;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Best Not Make a Scene;DENP21300163;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;DENP21300159;iTunes/Apple;Stream;United Kingdom;2;0,007;0,005;0,011
+CD 06266;4250137262666;Outroads;I Am Happy;She Looked Like a Friend;DENP21300162;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Happiness;DENP21300161;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;iTunes/Apple;Stream;Taiwan, Province Of China;4;0,006;0,005;0,019
+CD 06266;4250137262666;Outroads;I Am Happy;Dear Demon;DENP21300164;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;She Looked Like a Friend;DENP21300162;Spotify;Stream;Mexico;3;0,001;0,001;0,003
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;DENP21300160;TIDAL;Stream;Poland;1;0,004;0,003;0,003
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;iTunes/Apple;Stream;Belgium;1;0,011;0,009;0,009
+CD 06266;4250137262666;Outroads;I Am Happy;Closer;DENP21300166;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;She Looked Like a Friend;DENP21300162;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;DENP21300160;Spotify;Stream;United Kingdom;2;0,005;0,004;0,008
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;iTunes/Apple;Stream;Australia;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Closer;DENP21300166;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06266;4250137262666;Outroads;I Am Happy;Gravey;DENP21300160;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+CD 06266;4250137262666;Outroads;I Am Happy;This Wine Is a Kiss;DENP21300165;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;I´ll Walk with You;DENP21300167;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;Closer;DENP21300166;Google Play;Stream;United Kingdom;1;0,000;0,000;0,000
+CD 06266;4250137262666;Outroads;I Am Happy;La da Die;DENP21300158;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 06266;4250137262666;Outroads;I Am Happy;Good Company;DENP21300159;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06266;4250137262666;Outroads;I Am Happy;This Wine Is a Kiss;DENP21300165;SoundCloud Go;Stream;Canada;1;0,001;0,001;0,001
+CD 06266;4250137262666;Outroads;I Am Happy;I´ll Walk with You;DENP21300167;Spotify;Stream;Germany;1;0,003;0,003;0,003
+CD 06266;4250137262666;Outroads;I Am Happy;Best Not Make a Scene;DENP21300163;Spotify;Stream;United Kingdom;1;0,005;0,004;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;DENP21300148;iTunes/Apple;Download;USA;1;0,443;0,354;0,354
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;DENP21300146;iTunes/Apple;Stream;Canada;6;0,003;0,003;0,016
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Southwind;DENP21300154;YouTube;Stream;USA;1;0,006;0,005;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;DENP21300152;iTunes/Apple;Download;USA;1;0,443;0,354;0,354
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April´s Fool / I Ne´er Shall Wean Her;DENP21300147;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;DENP21300145;YouTube;Stream;USA;1;0,003;0,002;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;DENP21300148;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;DENP21300146;Google Play;Stream;Canada;7;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Southwind;DENP21300154;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;DENP21300152;iTunes/Apple;Stream;Canada;5;0,003;0,003;0,013
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;Google Play;Stream;USA;2;0,005;0,004;0,007
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April´s Fool / I Ne´er Shall Wean Her;DENP21300147;iTunes/Apple;Stream;Japan;3;0,009;0,007;0,022
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;DENP21300145;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;DENP21300148;Google Play;Stream;Canada;8;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;DENP21300146;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Southwind;DENP21300154;Google Play;Stream;Canada;7;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;DENP21300152;Google Play;Stream;Canada;8;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;Google Play;Stream;France;1;0,006;0,005;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April´s Fool / I Ne´er Shall Wean Her;DENP21300147;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;DENP21300145;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;DENP21300148;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;DENP21300144;iTunes/Apple;Stream;Japan;1;0,009;0,007;0,007
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia; ;DENP21300151;YouTube;Stream;USA;1;0,002;0,001;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;DENP21300149;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;Google Play;Stream;Canada;6;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April´s Fool / I Ne´er Shall Wean Her;DENP21300147;Google Play;Stream;Canada;7;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;DENP21300145;Google Play;Stream;Canada;7;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Dark Horse on the Wind;DENP21300150;Google Play;Stream;Canada;8;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;DENP21300144;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;DENP21300151;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Johnston;DENP21300149;Google Play;Stream;Canada;6;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;DENP21300146;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;My Son Tim;DENP21300145;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;YouTube;Stream;USA;2;0,007;0,005;0,011
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bodenstown Churchyard;DENP21300144;Google Play;Stream;Canada;7;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;DENP21300151;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Isle of St, Helena;DENP21300148;iTunes/Apple;Stream;USA;6;0,000;0,000;0,002
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Bonny Light Horseman;DENP21300146;iTunes/Apple;Stream;Ireland;1;0,000;0,000;0,000
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Keg of Brandy;DENP21300152;iTunes/Apple;Stream;USA;3;0,002;0,001;0,004
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Crooked Road to Dublin / Considine´s Grove;DENP21300153;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;April´s Fool / I Ne´er Shall Wean Her;DENP21300147;YouTube;Stream;USA;2;0,003;0,002;0,005
+CD 06267;4250137262673;Liz Hanley;The Ecstasy Of St, Cécilia;Sanctuary;DENP21300151;Google Play;Stream;Canada;5;0,000;0,000;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Man;DENP21300180;UMA;Stream;Russia;3;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;UMA;Stream;Russia;418;0,000;0,000;0,039
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Don´t You Dare;DENP21300182;UMA;Stream;Russia;3;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Cannon and Bull;DENP21300184;UMA;Stream;Russia;4;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Mentally Ill;DENP21300175;UMA;Stream;Russia;6;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Man;DENP21300180;Pandora;Stream;USA;2;0,003;0,002;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;UMA;Stream;Moldova;2;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Don´t You Dare;DENP21300182;Pandora;Stream;USA;5;0,001;0,001;0,006
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Cannon and Bull;DENP21300184;Pandora;Stream;USA;3;0,001;0,001;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Mentally Ill;DENP21300175;Pandora;Stream;USA;4;0,001;0,001;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;Deezer;Stream;Canada;1;0,005;0,004;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Man;DENP21300180;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;When It All Began;DENP21300176;UMA;Stream;Russia;4;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;UMA;Stream;Kazakhstan;5;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Destruction Is a Virtue;DENP21300174;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Cannon and Bull;DENP21300184;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Like an Old Toy;DENP21300181;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;Amazon Unlimited;Stream;Germany;1;0,005;0,004;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Man;DENP21300180;AWA;Stream;Japan;2;0,008;0,006;0,013
+CD 06270;4250137262703;Steve Allen;Wreck the Place;When It All Began;DENP21300176;Pandora;Stream;USA;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;UMA;Stream;Belarus;8;0,000;0,000;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Destruction Is a Virtue;DENP21300174;UMA;Stream;Russia;4;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Braining Cats and Dogs;DENP21300179;UMA;Stream;Russia;7;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Like an Old Toy;DENP21300181;Pandora;Stream;USA;4;0,002;0,001;0,006
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Ghost in the Crowd;DENP21300183;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Grey Sky;DENP21300178;UMA;Stream;Russia;8;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Orwell´s Dream;DENP21300185;UMA;Stream;Russia;8;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;TIDAL;Stream;USA;2;0,003;0,002;0,005
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Destruction Is a Virtue;DENP21300174;Pandora;Stream;USA;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Braining Cats and Dogs;DENP21300179;Pandora;Stream;USA;3;0,001;0,001;0,003
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Like an Old Toy;DENP21300181;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Ghost in the Crowd;DENP21300183;Pandora;Stream;USA;6;0,001;0,001;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Grey Sky;DENP21300178;Pandora;Stream;USA;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Orwell´s Dream;DENP21300185;Pandora;Stream;USA;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;TIDAL;Stream;France;1;0,005;0,004;0,004
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Destruction Is a Virtue;DENP21300174;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Braining Cats and Dogs;DENP21300179;iTunes/Apple;Stream;Germany;12;0,001;0,001;0,007
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;UMA;Stream;Ukraine;33;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Ghost in the Crowd;DENP21300183;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Dead Grey Sky;DENP21300178;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 06270;4250137262703;Steve Allen;Wreck the Place;Orwell´s Dream;DENP21300185;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06270;4250137262703;Steve Allen;Wreck the Place;I´m Not a Racist, But,,,;DENP21300177;Pandora;Stream;USA;2;0,002;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;UMA;Stream;Russia;2;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;UMA;Stream;Kyrgyzstan;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Kazakhstan;17;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;USA;14;0,006;0,005;0,071
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;Deezer;Stream;France;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;UMA;Stream;Ukraine;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;UMA;Stream;Russia;2;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;YouTube;Stream;USA;1;0,008;0,006;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Russia;93;0,000;0,000;0,023
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;Hong Kong;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Italy;2;0,012;0,009;0,018
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;AUOA11300032;UMA;Stream;Ukraine;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;AUOA11300033;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Belarus;31;0,000;0,000;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Ukraine;1;0,004;0,003;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;YouTube;Stream;USA;1;0,011;0,009;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;UMA;Stream;Russia;2;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Uzbekistan;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Moldova;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;Germany;4;0,004;0,004;0,014
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;France;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;AUOA11300032;UMA;Stream;Russia;6;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;Yandex LLC;Stream;Russia;3;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;iTunes/Apple;Stream;Thailand;5;0,002;0,001;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;AUOA11300033;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Armenia;3;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;South Africa;6;0,002;0,001;0,008
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;UMA;Stream;Ukraine;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;SoundCloud Go;Stream;USA;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;Deezer;Stream;Canada;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Ukraine;15;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Kazakhstan;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;Canada;6;0,004;0,004;0,021
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Canada;11;0,004;0,003;0,031
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;AUOA11300032;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;UMA;Stream;Ukraine;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;iTunes/Apple;Stream;Netherlands;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;AUOA11300033;iTunes/Apple;Stream;France;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;iTunes/Apple;Stream;Netherlands;5;0,001;0,001;0,003
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;SoundCloud Go;Stream;USA;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Russia;1;0,002;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;TIDAL;Stream;Belgium;1;0,012;0,010;0,010
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;iTunes/Apple;Stream;Taiwan, Province Of China;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;YouTube;Stream;USA;1;0,006;0,005;0,005
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Russia;773;0,000;0,000;0,123
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Belarus;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;Google Play;Stream;USA;5;0,005;0,004;0,018
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Belgium;5;0,006;0,004;0,022
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;AUOA11300032;iTunes/Apple;Stream;Netherlands;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;UMA;Stream;Russia;4;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;AUOA11300033;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;USA;13;0,004;0,003;0,042
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Romania;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;iTunes/Apple;Stream;India;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;iTunes/Apple;Stream;Netherlands;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;iTunes/Apple;Stream;Netherlands;4;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;UMA;Stream;Ukraine;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Moldova;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Azerbaijan;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;Google Play;Stream;USA;2;0,005;0,004;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Restless;AUOA11300032;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;iTunes/Apple;Stream;USA;2;0,004;0,003;0,007
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;iTunes/Apple;Stream;Australia;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Going Home;AUOA11300033;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;Russia;1;0,002;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Netherlands;4;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Fall;AUOA11300030;iTunes/Apple;Stream;Netherlands;1;0,001;0,001;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Water Song;AUOA11300034;UMA;Stream;Ukraine;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;iTunes/Apple;Stream;Canada;3;0,003;0,002;0,006
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;iTunes/Apple;Stream;Canada;2;0,002;0,002;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;UMA;Stream;Russia;10;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;UMA;Stream;Kyrgyzstan;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;SoundCloud Go;Stream;USA;1;0,003;0,002;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;Deezer;Stream;United Kingdom;2;0,010;0,008;0,015
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Closer Now;AUOA11300028;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Grandfather Clock;AUOA11300035;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shelter;AUOA11300031;iTunes/Apple;Stream;Netherlands;3;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;YouTube Red;Stream;USA;1;0,014;0,011;0,011
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;UMA;Stream;Ukraine;2;0,000;0,000;0,000
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;The Hypnotist;AUOA11300024;iTunes/Apple;Stream;Netherlands;4;0,001;0,001;0,002
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Garden;AUOA11300027;iTunes/Apple;Stream;Lithuania;1;0,005;0,004;0,004
+CD 06272;4250137262727;Owls Of The Swamp;Atlas;Shapeshifter;AUOA11300029;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Cola in Mongolia;DENP21500242;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Patch of Blue;DENP21500241;iTunes/Apple;Stream;USA;4;0,002;0,002;0,008
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Leyla´s Find;DENP21500243;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;iTunes/Apple;Stream;United Kingdom;5;0,008;0,006;0,032
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Cola in Mongolia;DENP21500242;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Organism;DENP21500245;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Leyla´s Find;DENP21500243;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;iTunes/Apple;Stream;Switzerland;2;0,001;0,001;0,002
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;DENP21500240;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Organism;DENP21500245;iTunes/Apple;Stream;USA;2;0,004;0,003;0,007
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;DENP21500238;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;iTunes/Apple;Stream;France;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Before I Die;DENP21500240;iTunes/Apple;Stream;United Kingdom;1;0,001;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Organism;DENP21500245;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Invite to Eternity;DENP21500238;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;DENP21500244;iTunes/Apple;Stream;USA;2;0,004;0,003;0,007
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;Deezer;Stream;France;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep; ;DENP21500237;YouTube;Stream;Germany;1;0,006;0,005;0,005
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Hazyland;DENP21500246;iTunes/Apple;Stream;USA;4;0,003;0,003;0,011
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Shingle;DENP21500244;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;Amazon Unlimited;Stream;USA;1;0,013;0,010;0,010
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Hazyland;DENP21500246;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Ride off into the Sunset and Disappear;DENP21500239;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06275;4250137262758;Frogbelly and Symphony;Blue Bright Ow Sleep;Minderbinder;DENP21500237;Amazon Digital Services Inc,;Stream;Germany;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;iTunes/Apple;Stream;Germany;2;0,009;0,007;0,014
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;DENP21600279;iTunes/Apple;Stream;Germany;2;0,009;0,007;0,014
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;Deezer;Stream;Germany;2;0,004;0,003;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;UMA;Stream;Russia;11;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Brazil;15;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;Deezer;Stream;Germany;3;0,005;0,004;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Spain;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;TIDAL;Stream;USA;2;0,013;0,010;0,020
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;iTunes/Apple;Stream;Germany;2;0,009;0,007;0,014
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;DENP21600279;Deezer;Stream;Germany;3;0,002;0,002;0,006
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;UMA;Stream;Belarus;5;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;Deezer;Stream;Germany;4;0,005;0,004;0,017
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;South Korea;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;Google Play;Stream;Ukraine;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;Saudi Arabia;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;DENP21600279;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;TIDAL;Stream;USA;2;0,008;0,007;0,013
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;UMA;Stream;Russia;4;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;Google Play;Stream;Japan;2;0,008;0,007;0,013
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Japan;2137;0,001;0,001;1,675
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Japan;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;Deezer;Stream;Germany;3;0,005;0,004;0,012
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;Deezer;Stream;Germany;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube Red;Stream;USA;2;0,010;0,008;0,016
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube Red;Stream;USA;3;0,002;0,001;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;Switzerland;1;0,012;0,009;0,009
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;iTunes/Apple;Stream;Canada;2;0,003;0,003;0,005
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;YouTube;Stream;France;1;0,002;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;Deezer;Stream;Germany;2;0,002;0,002;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;France;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Indonesia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;USA;10;0,003;0,002;0,024
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;USA;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;iTunes/Apple;Stream;USA;13;0,007;0,005;0,070
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;DENP21600279;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Canada;2;0,001;0,000;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Croatia;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;Germany;2;0,009;0,007;0,014
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Thailand;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;United Kingdom;3;0,000;0,000;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;iTunes/Apple;Stream;Poland;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;UMA;Stream;Russia;3;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Red Bicycles;DENP21600279;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Chemistry;DENP21600275;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;I More Than Rather Like You;DENP21600274;Google Play;Stream;Japan;1;0,008;0,007;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Argentina;1;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;So Far, So Close;DENP21600271;Yandex LLC;Stream;Russia;21;0,000;0,000;0,007
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Canada;1;0,001;0,001;0,001
+CD 06277;4250137262772;Phia;The Ocean Of Everything;End of the Day;DENP21600280;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Revisionist;DENP21600278;iTunes/Apple;Stream;Japan;1;0,001;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Do You Ever?;DENP21600273;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 06277;4250137262772;Phia;The Ocean Of Everything;If Not You;DENP21600277;Google Play;Stream;Japan;2;0,008;0,007;0,013
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Open / Closed;DENP21600276;YouTube;Stream;Taiwan, Province Of China;3;0,002;0,001;0,004
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Begin Again;DENP21600272;YouTube;Stream;Switzerland;2;0,000;0,000;0,000
+CD 06277;4250137262772;Phia;The Ocean Of Everything;Heartstrings;DENP21600270;iTunes/Apple;Stream;Germany;4;0,009;0,007;0,027
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Exotic Blood;DENP21700296;iTunes/Apple;Stream;USA;32;0,008;0,006;0,200
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Run Until You´re Out;DENP21700295;iTunes/Apple;Stream;USA;36;0,008;0,006;0,225
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;iTunes/Apple;Stream;USA;31;0,008;0,006;0,194
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Taxi Driver;DENP21700298;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Exotic Blood;DENP21700296;Deezer;Stream;Italy;1;0,001;0,001;0,001
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Run Until You´re Out;DENP21700295;Deezer;Stream;Italy;1;0,001;0,001;0,001
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Bomb Plot;DENP21700294;TIDAL;Stream;USA;1;0,015;0,012;0,012
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Taxi Driver;DENP21700298;TIDAL;Stream;USA;1;0,015;0,012;0,012
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;Yandex LLC;Stream;Russia;6;0,000;0,000;0,002
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Mask of the Red Death;DENP21700299;iTunes/Apple;Stream;USA;20;0,008;0,006;0,125
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Bomb Plot;DENP21700294;iTunes/Apple;Stream;USA;39;0,008;0,006;0,244
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Taxi Driver;DENP21700298;iTunes/Apple;Stream;USA;28;0,008;0,006;0,175
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;UMA;Stream;Russia;4;0,000;0,000;0,001
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Exotic Blood;DENP21700296;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Bomb Plot;DENP21700294;Google Play;Stream;India;1;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Shiner No, 5;DENP21700300;iTunes/Apple;Stream;USA;20;0,008;0,006;0,125
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;UMA;Stream;Kazakhstan;17;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Exotic Blood;DENP21700296;TIDAL;Stream;USA;2;0,015;0,012;0,023
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Bomb Plot;DENP21700294;Deezer;Stream;Italy;1;0,001;0,001;0,001
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Run Until You´re Out;DENP21700295;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;UMA;Stream;Armenia;1;0,000;0,000;0,000
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Exotic Blood;DENP21700296;TIDAL;Stream;Norway;1;0,011;0,009;0,009
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Run Until You´re Out;DENP21700295;TIDAL;Stream;USA;2;0,015;0,012;0,023
+CD 06278;4250137262789;Cinema Cinema;Man Bites Dog;Digital Clockwork Orange;DENP21700297;TIDAL;Stream;USA;1;0,015;0,012;0,012
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;Amazon Unlimited;Stream;United Kingdom;1;0,018;0,014;0,014
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;iTunes/Apple;Stream;USA;3;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;iTunes/Apple;Stream;United Kingdom;7;0,013;0,011;0,075
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700322;YouTube;Stream;France;2;0,001;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;YouTube;Stream;United Kingdom;3;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;It Might Get Loud;DENP21700327;Deezer;Stream;France;4;0,004;0,003;0,012
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;TIDAL;Stream;Germany;7;0,012;0,010;0,070
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700326;YouTube;Stream;United Kingdom;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;iTunes/Apple;Stream;United Kingdom;8;0,013;0,011;0,085
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;Deezer;Stream;France;5;0,003;0,003;0,013
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700319;YouTube;Stream;France;1;0,001;0,001;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;Napster;Stream;France;1;0,007;0,006;0,006
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;iTunes/Apple;Stream;Germany;19;0,007;0,006;0,111
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700326;YouTube;Stream;France;3;0,003;0,002;0,007
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;Deezer;Stream;France;8;0,003;0,003;0,022
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;iTunes/Apple;Stream;United Kingdom;3;0,013;0,010;0,030
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;YouTube;Stream;France;1;0,003;0,003;0,003
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700327;YouTube;Stream;United Kingdom;2;0,001;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;Deezer;Stream;France;12;0,003;0,003;0,034
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;Gaana (Reporting Only);Stream;India;1;0,001;0,001;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;TIDAL;Stream;USA;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;UMA;Stream;Moldova;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;iTunes/Apple;Stream;United Kingdom;6;0,013;0,011;0,064
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;Deezer;Stream;France;5;0,003;0,003;0,013
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;Deezer;Stream;France;6;0,004;0,003;0,019
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;It Might Get Loud;DENP21700327;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;4250137262802;ProStudioMasters,com Inc,;Download;USA;1;4,930;3,944;3,944
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;iTunes/Apple;Stream;United Kingdom;2;0,013;0,010;0,020
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;TIDAL;Stream;Germany;7;0,012;0,010;0,070
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;TIDAL;Stream;Germany;7;0,011;0,009;0,062
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;TIDAL;Stream;Germany;8;0,011;0,009;0,073
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;Deezer;Stream;Germany;2;0,006;0,005;0,010
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700318;YouTube;Stream;France;2;0,003;0,002;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700325;YouTube;Stream;France;1;0,005;0,004;0,004
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;It Might Get Loud;DENP21700327;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;Deezer;Stream;France;16;0,003;0,003;0,041
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;YouTube;Stream;France;1;0,004;0,003;0,003
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;Deezer;Stream;Germany;1;0,006;0,005;0,005
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;Deezer;Stream;France;5;0,003;0,003;0,013
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Josephine Clark;DENP21700321;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Other Man;DENP21700318;LOEN;Stream;South Korea;1;0,002;0,002;0,002
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Golden Road;DENP21700319;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;The Creek Don´t Rise;DENP21700320;Deezer;Stream;France;8;0,003;0,003;0,022
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700318;YouTube;Stream;Austria;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Chicken Wire;DENP21700325;YouTube;Stream;Austria;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Life´s Pounding Adventure;DENP21700326;iTunes/Apple;Stream;United Kingdom;2;0,013;0,010;0,020
+CD 06280;4250137262802;Ash Gray;Chicken Wire;It Might Get Loud;DENP21700327;iTunes/Apple;Stream;United Kingdom;9;0,013;0,010;0,091
+CD 06280;4250137262802;Ash Gray;Chicken Wire; ;DENP21700320;YouTube;Stream;France;1;0,004;0,003;0,003
+CD 06280;4250137262802;Ash Gray;Chicken Wire;When the Devil Comes Home;DENP21700323;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Firefly;DENP21700324;TIDAL;Stream;Germany;6;0,012;0,010;0,058
+CD 06280;4250137262802;Ash Gray;Chicken Wire;Sundown (Come See Me);DENP21700322;Deezer;Stream;France;8;0,003;0,003;0,022
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;The Woman Who Counted the Stars;DENP21700328;iTunes/Apple;Stream;Australia;6;0,007;0,005;0,032
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Denim;DENP21700331;Google Play;Stream;Germany;2;0,005;0,004;0,009
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Washed Away;DENP21700330;YouTube Red;Stream;Australia;3;0,009;0,008;0,023
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Silver & Gold;DENP21700332;Amazon Unlimited;Stream;USA;2;0,008;0,007;0,014
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;The Woman Who Counted the Stars;DENP21700328;Google Play;Stream;Germany;2;0,005;0,004;0,009
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Denim;DENP21700331;Google Play;Stream;Australia;3;0,002;0,001;0,004
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Washed Away;DENP21700330;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Oxide;DENP21700329;iTunes/Apple;Stream;Australia;2;0,008;0,006;0,013
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;The Woman Who Counted the Stars;DENP21700328;Google Play;Stream;Australia;6;0,003;0,002;0,012
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Denim;DENP21700331;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Washed Away;DENP21700330;Google Play;Stream;Germany;2;0,005;0,004;0,009
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Oxide;DENP21700329;Google Play;Stream;Germany;2;0,005;0,004;0,009
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;The Woman Who Counted the Stars;DENP21700328;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Washed Away;DENP21700330;Google Play;Stream;Australia;2;0,005;0,004;0,008
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Oxide;DENP21700329;Deezer;Stream;Germany;2;0,002;0,001;0,003
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Silver & Gold;DENP21700332;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Washed Away;DENP21700330;Deezer;Stream;Germany;1;0,002;0,002;0,002
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Denim;DENP21700331;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Silver & Gold;DENP21700332;Google Play;Stream;Australia;10;0,001;0,000;0,005
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;The Woman Who Counted the Stars;DENP21700328;iTunes/Apple;Stream;Germany;1;0,004;0,004;0,004
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Denim;DENP21700331;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+CD 08003;4250137280035;Phia;The Woman Who Counted The Stars EP;Silver & Gold;DENP21700332;Deezer;Stream;Germany;2;0,002;0,002;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;Germany;25;0,003;0,003;0,067
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Italy;1;0,002;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Snowfall;DENP21800343;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;iTunes/Apple;Stream;Japan;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;United Kingdom;3;0,004;0,003;0,009
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Austria;2;0,002;0,002;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;Turkey;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Out for the Day;DENP21800344;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;France;1;0,004;0,003;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Ireland;1;0,005;0,004;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Snowfall;DENP21800343;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;iTunes/Apple;Stream;Ireland;3;0,005;0,004;0,012
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;iTunes/Apple;Stream;Germany;2;0,006;0,005;0,010
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Taiwan, Province Of China;1;0,002;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;Netherlands;1;0,004;0,003;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;UMA;Stream;Russia;6;0,001;0,001;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;Amazon Digital Services Inc,;Download;United Kingdom;1;0,486;0,389;0,389
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;Canada;1;0,003;0,002;0,002
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Germany;254;0,003;0,002;0,582
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Feels Like Home;DENP21800342;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Snowfall;DENP21800343;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;iTunes/Apple;Stream;Germany;2;0,006;0,005;0,009
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Switzerland;4;0,001;0,001;0,005
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;iTunes/Apple;Stream;Germany;3;0,009;0,007;0,020
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;Germany;30;0,003;0,003;0,080
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;Spotify;Stream;Germany;17;0,003;0,003;0,045
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;Austria;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;France;3;0,004;0,003;0,009
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;YouTube;Stream;Germany;1;0,005;0,004;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Feels Like Home;DENP21800342;Spotify;Stream;Germany;16;0,003;0,003;0,043
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Out for the Day;DENP21800344;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;USA;2;0,002;0,002;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Sweden;1;0,004;0,003;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;Spotify;Stream;Ireland;1;0,005;0,004;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;France;1;0,004;0,003;0,003
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;iTunes/Apple;Stream;USA;2;0,006;0,005;0,010
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;YouTube;Stream;Spain;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Czech Republic;1;0,002;0,002;0,002
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Feels Like Home;DENP21800342;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Out for the Day;DENP21800344;Spotify;Stream;Germany;12;0,003;0,003;0,030
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;Spotify;Stream;United Kingdom;2;0,003;0,003;0,005
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Spain;2;0,004;0,003;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;Spotify;Stream;United Kingdom;2;0,001;0,001;0,002
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;Spotify;Stream;Germany;20;0,003;0,003;0,053
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Snowfall;DENP21800343;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;Austria;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;Spotify;Stream;Luxembourg;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;UMA;Stream;Russia;2;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;iTunes/Apple;Stream;Japan;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Costa Rica;1;0,002;0,002;0,002
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;USA;2;0,003;0,002;0,004
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Feels Like Home;DENP21800342;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Out for the Day;DENP21800344;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;Spotify;Stream;Germany;21;0,003;0,003;0,056
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;Spotify;Stream;Japan;1;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Norway;2;0,005;0,004;0,008
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Undertow;DENP21800338;Spotify;Stream;Germany;18;0,003;0,003;0,048
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Home by Bearna;DENP21800337;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Snowfall;DENP21800343;Spotify;Stream;Germany;22;0,003;0,003;0,057
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;At the End of the Day;DENP21800340;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;On the Road;DENP21800339;Spotify;Stream;Germany;21;0,003;0,003;0,056
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;USA;3;0,002;0,002;0,005
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Mountain Man;DENP21800335;iTunes/Apple;Stream;Germany;2;0,006;0,005;0,010
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Calling;DENP21800336;Spotify;Stream;Chile;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Too Many Things;DENP21800334;Spotify;Stream;United Kingdom;1;0,001;0,001;0,001
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Feels Like Home;DENP21800342;Amazon Digital Services Inc,;Stream;Germany;5;0,000;0,000;0,000
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;Out for the Day;DENP21800344;iTunes/Apple;Stream;Germany;1;0,009;0,007;0,007
+CD 08004;4250137280042;Roods and Reeds;The Loom Goes Click;The Weaver & The Factory Maid;DENP21800341;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+CD 13901;4024572340476;Astrids Farm;Cyclist;Hey Girl;DET720800383;iHeartRadio (Reporting Only);Stream;USA;2;0,013;0,010;0,020
+CD 13901;4024572340476;Astrids Farm;Cyclist;Full Metall Jacket;DET720900375;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 13901;4024572340476;Astrids Farm;Cyclist;About a Band;DET720800377;iTunes/Apple;Stream;United Kingdom;2;0,007;0,005;0,011
+CD 13901;4024572340476;Astrids Farm;Cyclist;Razorblades;DET720800378;TIDAL;Stream;Norway;1;0,017;0,014;0,014
+CD 13901;4024572340476;Astrids Farm;Cyclist;Poverty;DET720800373;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 13903;4024572340483;xrfarflight;The Early Bird;Freq, Ghost;DET720800393;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Messy Lane;DET720800397;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;Poland;6;0,003;0,002;0,012
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Mad Bedcine;DET720800390;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;Norway;1;0,012;0,009;0,009
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;UMA;Stream;Russia;7;0,000;0,000;0,000
+CD 13903;4024572340483;xrfarflight;The Early Bird;Mad Bedcine;DET720800390;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;Hungary;1;0,005;0,004;0,004
+CD 13903;4024572340483;xrfarflight;The Early Bird;Smashing Bubbles;DET720800395;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;UMA;Stream;Belarus;1;0,000;0,000;0,000
+CD 13903;4024572340483;xrfarflight;The Early Bird; ;DET720800389;YouTube;Stream;Mexico;1;0,000;0,000;0,000
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Protoplanets;DET720800387;iTunes/Apple;Stream;Germany;2;0,005;0,004;0,007
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;United Kingdom;1;0,013;0,010;0,010
+CD 13903;4024572340483;xrfarflight;The Early Bird;L,F, Anthill;DET720800389;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Protoplanets;DET720800387;Amazon Digital Services Inc,;Stream;USA;5;0,000;0,000;0,001
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;Turkey;1;0,004;0,003;0,003
+CD 13903;4024572340483;xrfarflight;The Early Bird;Freq, Ghost;DET720800393;TIDAL;Stream;Italy;1;0,000;0,000;0,000
+CD 13903;4024572340483;xrfarflight;The Early Bird;Messy Lane;DET720800397;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+CD 13903;4024572340483;xrfarflight;The Early Bird;Dream Theatre;DET720800394;TIDAL;Stream;Singapore;1;0,013;0,010;0,010
+CD 13906;4024572352899;emmy moll;All The Monsters;Bird;DET720800421;iTunes/Apple;Stream;Finland;3;0,000;0,000;0,001
+CD 13906;4024572352899;emmy moll;All The Monsters;Tortoise;DET720800419;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 13906;4024572352899;emmy moll;All The Monsters;Be Light;DET720800411;iTunes/Apple;Stream;Japan;1;0,009;0,007;0,007
+CD 13906;4024572352899;emmy moll;All The Monsters;Tortoise;DET720800419;Amazon Unlimited;Stream;United Kingdom;1;0,018;0,014;0,014
+CD 13906;4024572352899;emmy moll;All The Monsters;Be Light;DET720800411;iTunes/Apple;Stream;India;1;0,002;0,002;0,002
+CD 13906;4024572352899;emmy moll;All The Monsters;Seagull;DET720800413;UMA;Stream;Russia;1;0,000;0,000;0,000
+CD 13906;4024572352899;emmy moll;All The Monsters;Drifted;DET720800415;Amazon Unlimited;Stream;Germany;4;0,011;0,009;0,036
+CD 13906;4024572352899;emmy moll;All The Monsters;Cloud No,9;DET720800418;iTunes/Apple;Stream;India;9;0,001;0,001;0,009
+CD 13906;4024572352899;emmy moll;All The Monsters; ;DET720800421;YouTube;Stream;Germany;1;0,015;0,012;0,012
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;DET720800423;UMA;Stream;Russia;4;0,000;0,000;0,000
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;DET720800423;UMA;Stream;Kazakhstan;1;0,000;0,000;0,000
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;DET720800423;iTunes/Apple;Stream;Russia;1;0,003;0,003;0,003
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;DET720800423;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;Trap / Black Kite;DET720800423;Google Play;Stream;USA;1;0,005;0,004;0,004
+CD 13908;4024572354909;Dear John Letter;Between Leaves/Forestal;In the Sticks / Between Leaves;DET720800426;iTunes/Apple;Stream;Canada;1;0,003;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;DET720800467;iTunes/Apple;Stream;Germany;2;0,009;0,007;0,014
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du Mir Verraten;DET720800468;Deezer;Stream;Germany;3;0,005;0,004;0,011
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;DET720800466;YouTube;Stream;Germany;1;0,026;0,021;0,021
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;DET720800467;Deezer;Stream;Germany;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Elektroniskä Pülsä;DET720800465;YouTube;Stream;Germany;2;0,002;0,001;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;DET720800466;TIDAL;Stream;Sweden;1;0,009;0,007;0,007
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Romy;DET720800470;YouTube;Stream;Germany;1;0,001;0,001;0,001
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Elektroniskä Pülsä;DET720800465;Deezer;Stream;Germany;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;DET720800466;Google Play;Stream;Belgium;2;0,008;0,006;0,012
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Romy;DET720800470;iTunes/Apple;Stream;USA;1;0,000;0,000;0,000
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Court of Love;DET720800472;YouTube;Stream;Germany;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Wellnesspunkt De;DET720800475;iTunes/Apple;Stream;USA;2;0,002;0,002;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Oh Gaga Oh Jeh;DET720800466;Deezer;Stream;Germany;1;0,005;0,004;0,004
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Raum Und Zeit;DET720800471;TIDAL;Stream;Germany;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;DET720800469;YouTube;Stream;USA;2;0,005;0,004;0,008
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Wellnesspunkt De;DET720800475;iTunes/Apple;Stream;Germany;2;0,001;0,001;0,001
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du Mir Verraten;DET720800468;YouTube;Stream;Germany;1;0,001;0,001;0,001
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Politiki Dummes Ficki;DET720800477;SoundCloud Go;Stream;Germany;1;0,003;0,002;0,002
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;DET720800469;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Tuperte;DET720800467;TIDAL;Stream;Sweden;1;0,009;0,007;0,007
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Kannst Du Mir Verraten;DET720800468;iTunes/Apple;Stream;USA;3;0,003;0,002;0,007
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Politiki Dummes Ficki;DET720800477;Amazon Unlimited;Stream;Germany;1;0,004;0,003;0,003
+CD 13910;4024572354985;Frau Kraushaar;Le Salon Is Very Morbidä;Cats on Crack;DET720800469;TIDAL;Stream;Sweden;1;0,009;0,007;0,007
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;I Found You;DENP21600267;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;DENP21600264;Yandex LLC;Stream;Russia;2;0,000;0,000;0,001
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;DENP21600266;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;DENP21600264;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;How Long Have I Been Sleeping?;DENP21600266;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Skipping Stones;DENP21600264;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;DENP21600265;YouTube;Stream;USA;1;0,003;0,002;0,002
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;DENP21600265;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;DENP21600263;iTunes/Apple;Stream;Thailand;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Meteorite;DENP21600265;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 05039;4250137250397;Owls of the Swamp;Meteorite EP;Start All Over;DENP21600263;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Portrait of a Failed Scene;DENP21700290;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Tortoise, Hare and Skygazer;DENP21700291;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Patriarch;DENP21700286;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;The White Bride´s Wooden Hand;DENP21700289;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Patriarch;DENP21700286;TIDAL;Stream;Denmark;1;0,007;0,005;0,005
+DG 05072;4250137250724;Joey Molinaro;Awash;The Saddest Clown;DENP21700282;YouTube;Stream;USA;1;0,004;0,003;0,003
+DG 05072;4250137250724;Joey Molinaro;Awash;Youthful Grey;DENP21700293;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Haunt;DENP21700292;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;The Saddest Clown;DENP21700282;UMA;Stream;Russia;3;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Winged Luna;DENP21700288;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Dance with Oedipus;DENP21700284;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;The Saddest Clown;DENP21700282;Deezer;Stream;Russia;1;0,001;0,001;0,001
+DG 05072;4250137250724;Joey Molinaro;Awash;Truer Woman;DENP21700283;UMA;Stream;Russia;2;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Texas Swing;DENP21700285;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05072;4250137250724;Joey Molinaro;Awash;Train Death;DENP21700287;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;Disease;DENP21700301;iTunes/Apple;Stream;United Kingdom;3;0,007;0,005;0,016
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;The Founder;DENP21700306;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;Disease;DENP21700301;iTunes/Apple;Stream;Switzerland;2;0,006;0,005;0,010
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;The Founder;DENP21700306;iTunes/Apple;Stream;United Kingdom;3;0,007;0,005;0,016
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;A Few Questions to the World;DENP21700302;iTunes/Apple;Stream;United Kingdom;3;0,007;0,005;0,016
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;Ruin;DENP21700303;iTunes/Apple;Stream;United Kingdom;4;0,007;0,005;0,022
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;New Bounds;DENP21700304;iTunes/Apple;Stream;United Kingdom;4;0,007;0,005;0,022
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;Hope;DENP21700305;UMA;Stream;Russia;1;0,001;0,001;0,001
+DG 05141;4250137251417;Overdrive Amp Explosion;Bounds;Hope;DENP21700305;iTunes/Apple;Stream;United Kingdom;3;0,007;0,005;0,016
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;In the Light / Gypsy King;DENP21700309;TIDAL;Stream;USA;1;0,013;0,010;0,010
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Vital Signs;DENP21700307;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Friends;DENP21700310;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;In the Light / Gypsy King;DENP21700309;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Vital Signs;DENP21700307;Deezer;Stream;France;2;0,004;0,003;0,006
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Fallen Leaves;DENP21700316;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;In the Light / Gypsy King;DENP21700309;iTunes/Apple;Stream;France;1;0,005;0,004;0,004
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Swallows;DENP21700313;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Fallen Leaves;DENP21700316;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Home;DENP21700315;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Johnny;DENP21700314;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Demon Driver;DENP21700317;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Highwayman´s Hollow;DENP21700308;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;In the Light / Gypsy King;DENP21700309;UMA;Stream;Russia;3;0,000;0,000;0,000
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Demon Driver;DENP21700317;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Will Ye Go Tae Flanders;DENP21700311;iTunes/Apple;Stream;United Kingdom;2;0,007;0,005;0,011
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Friends;DENP21700310;TIDAL;Stream;USA;1;0,013;0,011;0,011
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;In the Light / Gypsy King;DENP21700309;UMA;Stream;Kazakhstan;2;0,000;0,000;0,000
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;A Singularly Fine Day;DENP21700312;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Will Ye Go Tae Flanders;DENP21700311;Deezer;Stream;United Kingdom;1;0,009;0,008;0,008
+DG 05189;4250137251899;Mr, C & Friends;Songs For Future Memories;Friends;DENP21700310;TIDAL;Stream;Singapore;1;0,013;0,010;0,010
+DG 05285;4250137252858;Phia;Oxide (Single);Oxide;DENP21700333;Google Play;Stream;Australia;6;0,001;0,001;0,004
+DG 09021;4250137290218;9-Volt Haunted House|Frogbelly And Symphony;Can I Dress Like You?;Shingle;DENP21500253;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09021;4250137290218;9-Volt Haunted House|Frogbelly And Symphony;Can I Dress Like You?;Shingle;DENP21500253;Amazon Unlimited;Stream;Germany;1;0,009;0,007;0,007
+DG 09021;4250137290218;9-Volt Haunted House|Frogbelly And Symphony;Can I Dress Like You?;Pneumonia´15;DENP21500251;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09021;4250137290218;9-Volt Haunted House|Frogbelly And Symphony;Can I Dress Like You?;Patch of Blue;DENP21500252;UMA;Stream;Russia;3;0,000;0,000;0,000
+DG 09022;4250137290225;Lonesome Station;Current Space;Own Trail;DENP21500249;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+DG 09022;4250137290225;Lonesome Station;Current Space;Lost Train;DENP21500248;UMA;Stream;Russia;3;0,001;0,001;0,002
+DG 09022;4250137290225;Lonesome Station;Current Space;Lost Train;DENP21500248;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+DG 09022;4250137290225;Lonesome Station;Current Space;Hide;DENP21500250;iTunes/Apple;Stream;Switzerland;1;0,001;0,001;0,001
+DG 09022;4250137290225;Lonesome Station;Current Space;Hide;DENP21500250;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+DG 09022;4250137290225;Lonesome Station;Current Space;Current Space;DENP21500247;iTunes/Apple;Download;Germany;1;0,625;0,500;0,500
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;DENP21600258;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;DENP21600260;Amazon Digital Services Inc,;Stream;United Kingdom;1;0,003;0,002;0,002
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;DENP21600257;iTunes/Apple;Stream;United Kingdom;4;0,011;0,009;0,036
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;iTunes/Apple;Stream;Mexico;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;DENP21600258;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;DENP21600259;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;DENP21600261;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;iTunes/Apple;Stream;Guatemala;2;0,005;0,004;0,008
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Never Stop;DENP21600258;iTunes/Apple;Stream;United Kingdom;4;0,007;0,005;0,021
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;DENP21600259;iTunes/Apple;Stream;United Kingdom;2;0,004;0,003;0,006
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;DENP21600261;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;Google Play;Stream;United Kingdom;3;0,008;0,007;0,020
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;DENP21600259;Google Play;Stream;Italy;3;0,005;0,004;0,012
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Price We Pay;DENP21600261;iTunes/Apple;Stream;United Kingdom;5;0,010;0,008;0,041
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;DENP21600260;UMA;Stream;Russia;6;0,000;0,000;0,000
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;iTunes/Apple;Stream;United Kingdom;2;0,007;0,005;0,011
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Countdown to Zero;DENP21600259;Deezer;Stream;United Kingdom;1;0,006;0,005;0,005
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;DENP21600256;iTunes/Apple;Stream;United Kingdom;2;0,013;0,010;0,020
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;DENP21600260;LOEN;Stream;South Korea;1;0,002;0,001;0,001
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;Google Play;Stream;United Kingdom;2;0,008;0,007;0,014
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting; ;DENP21600255;YouTube;Stream;United Kingdom;2;0,001;0,001;0,002
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Pennies and Pounds;DENP21600256;Google Play;Stream;United Kingdom;1;0,008;0,007;0,007
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Lost Along the Way;DENP21600260;iTunes/Apple;Stream;United Kingdom;2;0,007;0,005;0,011
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;This Life;DENP21600257;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;Google Play;Stream;South Africa;2;0,003;0,002;0,004
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;My Eyes Never Sleep;DENP21600262;iTunes/Apple;Stream;United Arab Emirates;3;0,007;0,006;0,017
+DG 09050;4250137290508;Steel City Rhythm;Free Love & Fighting;Beautiful Haze;DENP21600255;YouTube;Stream;United Kingdom;1;0,001;0,001;0,001
+DG 09234;4250137292342;Phia;Open/Closed;Open/Closed;DENP21600281;Yandex LLC;Stream;Russia;5;0,000;0,000;0,002
+DG 09234;4250137292342;Phia;Open/Closed;Open/Closed;DENP21600281;iTunes/Apple;Stream;USA;1;0,008;0,006;0,006
+DG 09234;4250137292342;Phia;Open/Closed;Open/Closed;DENP21600281;iTunes/Apple;Stream;Germany;2;0,004;0,004;0,007
+DG 09234;4250137292342;Phia;Open/Closed;Open/Closed;DENP21600281;Amazon Unlimited;Stream;USA;1;0,011;0,009;0,009
+DG 09234;4250137292342;Phia;Open/Closed;Open/Closed;DENP21600281;Amazon Unlimited;Stream;Germany;1;0,007;0,006;0,006
+DG 09268;4250137292687;Owls Of The Swamp;Meteorite;Meteorite;DENP21600268;iTunes/Apple;Stream;Australia;1;0,000;0,000;0,000
+DG 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;DENP21600269;Yandex LLC;Stream;Russia;3;0,000;0,000;0,001
+DG 09287;4250137292878;Owls of the Swamp;Start All Over;Start All Over;DENP21600269;iTunes/Apple;Stream;Canada;1;0,004;0,003;0,003
+DG 09626;4250137296265;Overdrive Amp Explosion;Intervals;What the Funk;DENP21100108;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09626;4250137296265;Overdrive Amp Explosion;Intervals;Late;DENP21100103;iTunes/Apple;Stream;Switzerland;1;0,001;0,001;0,001
+DG 09626;4250137296265;Overdrive Amp Explosion;Intervals;Intervals;DENP21100102;SoundCloud Go;Stream;USA;1;0,003;0,002;0,002
+DG 09626;4250137296265;Overdrive Amp Explosion;Intervals;Home;DENP21100101;SoundCloud Go;Stream;USA;1;0,003;0,002;0,002
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single; ;DENP21300157;YouTube;Stream;Germany;1;0,001;0,001;0,001
+DG 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single; ;DENP21300156;YouTube;Stream;Germany;4;0,003;0,003;0,010
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;DENP21300157;YouTube;Stream;Germany;1;0,001;0,001;0,001
+DG 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Weg vun´t Dörp un nah Hamborg;DENP21300156;YouTube;Stream;Germany;1;0,002;0,002;0,002
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;DENP21300157;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+DG 09744;4250137297446;Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Weg vun´t Dörp un nah Hamborg;DENP21300156;iTunes/Apple;Stream;Germany;1;0,001;0,001;0,001
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;DENP21300157;iTunes/Apple;Stream;Denmark;1;0,000;0,000;0,000
+DG 09744;4250137297446;Meike Schrader|Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;DENP21300155;YouTube;Stream;Germany;1;0,002;0,002;0,002
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;DENP21300157;Deezer;Stream;Germany;1;0,001;0,001;0,001
+DG 09744;4250137297446;Meike Schrader|Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;DENP21300155;iTunes/Apple;Stream;Germany;5;0,004;0,003;0,017
+DG 09744;4250137297446;Meike Schrader;Hamburg, Mien Hoben - Split Single;Hamburg, mein Hafen;DENP21300157;Amazon Digital Services Inc,;Stream;Germany;4;0,003;0,002;0,010
+DG 09744;4250137297446;Meike Schrader|Wiebke Colmorgen;Hamburg, Mien Hoben - Split Single;Hamborg, mien Hoben;DENP21300155;Deezer;Stream;Germany;8;0,005;0,004;0,029
+DG 09782;4250137297828;Outroads;Only The Lonely?;Best Not Make a Scene;DENP21300186;iTunes/Apple;Stream;Spain;3;0,005;0,004;0,013
+DG 09782;4250137297828;Outroads;Only The Lonely?;Don´t Wait for the Money;DENP21300187;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09782;4250137297828;Outroads;Only The Lonely?;The Ballad of Seasonally Adjusted Disorder (S,A,D);DENP21300188;iTunes/Apple;Stream;Spain;3;0,005;0,004;0,013
+DG 09782;4250137297828;Outroads;Only The Lonely?;Don´t Wait for the Money;DENP21300187;iTunes/Apple;Stream;Spain;3;0,005;0,004;0,013
+DG 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;DENP21300193;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+DG 09782;4250137297828;Outroads;Only The Lonely?;Closer;DENP21300190;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;DENP21300193;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09782;4250137297828;Outroads;Only The Lonely?;Closer;DENP21300190;iTunes/Apple;Stream;Spain;3;0,005;0,004;0,013
+DG 09782;4250137297828;Outroads;Only The Lonely?;Sleeping Sun;DENP21300193;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09782;4250137297828;Outroads;Only The Lonely?;Brother;DENP21300192;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09782;4250137297828;Outroads;Only The Lonely?;Interval;DENP21300191;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09782;4250137297828;Outroads;Only The Lonely?;Best Not Make a Scene;DENP21300186;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09782;4250137297828;Outroads;Only The Lonely?;Dust;DENP21300189;iTunes/Apple;Stream;Spain;3;0,005;0,004;0,013
+DG 09783;4250137297835;Outroads;Goodbye To All That;Quiet One at the Back;DENP21300197;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;DENP21300195;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Just in Case;DENP21300203;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;No Accident;DENP21300206;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;Goodnight;DENP21300209;iTunes/Apple;Stream;United Kingdom;1;0,001;0,000;0,000
+DG 09783;4250137297835;Outroads;Goodbye To All That;Waiting Room;DENP21300199;iTunes/Apple;Stream;United Kingdom;1;0,001;0,000;0,000
+DG 09783;4250137297835;Outroads;Goodbye To All That;Instrumental;DENP21300194;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;My Angels;DENP21300198;YouTube;Stream;United Kingdom;1;0,001;0,001;0,001
+DG 09783;4250137297835;Outroads;Goodbye To All That;Goodnight;DENP21300209;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;Waiting Room;DENP21300199;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Hold;DENP21300204;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;My Angels;DENP21300198;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 09783;4250137297835;Outroads;Goodbye To All That;Can You Make Me Feel Good?;DENP21300208;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;Rooms in Space;DENP21300202;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;DENP21300201;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;My Angels;DENP21300198;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Brother;DENP21300196;iTunes/Apple;Stream;United Kingdom;1;0,013;0,010;0,010
+DG 09783;4250137297835;Outroads;Goodbye To All That;Restless Spirit Blues;DENP21300207;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 09783;4250137297835;Outroads;Goodbye To All That;Hellbound on My Trail;DENP21300201;Amazon Unlimited;Stream;USA;2;0,013;0,010;0,021
+DG 09783;4250137297835;Outroads;Goodbye To All That;My Angels;DENP21300198;Google Play;Stream;Netherlands;1;0,003;0,003;0,003
+DG 09783;4250137297835;Outroads;Goodbye To All That;Brother;DENP21300196;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09783;4250137297835;Outroads;Goodbye To All That;Restless Spirit Blues;DENP21300207;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;Heads Up;DENP21300195;iTunes/Apple;Stream;United Kingdom;1;0,007;0,005;0,005
+DG 09783;4250137297835;Outroads;Goodbye To All That;Kate´s Song;DENP21300205;iTunes/Apple;Stream;Spain;1;0,005;0,004;0,004
+DG 09783;4250137297835;Outroads;Goodbye To All That;Amigo Mio (Bacon);DENP21300200;iTunes/Apple;Stream;Spain;2;0,005;0,004;0,009
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;A Story in Brooklyn (True);DENP21400223;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Rock Mona Lisa;DENP21400224;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Rock Mona Lisa;DENP21400224;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Nadine;DENP21400228;Google Play;Stream;France;1;0,006;0,005;0,005
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Felicity Ann Mcguire;DENP21400222;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Buddhist Girl;DENP21400225;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Buddhist Girl;DENP21400225;iTunes/Apple;Stream;USA;2;0,000;0,000;0,001
+DG 09884;4250137298849;Martin Bisi;Sirens Of The Apocalypse;Sirens of the Apocalypse;DENP21400218;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Too Cold (Clap Attack);DENP21400231;iTunes/Apple;Stream;Colombia;1;0,005;0,004;0,004
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Sexy Time;DENP21400234;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Sexy Time;DENP21400234;Deezer;Stream;USA;2;0,005;0,004;0,009
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Man Work;DENP21400233;UMA;Stream;Russia;1;0,000;0,000;0,000
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Hole Again;DENP21400235;iTunes/Apple;Stream;Australia;1;0,008;0,006;0,006
+DG 09929;4250137299297;The Bone Lab;Fresh Meat;Hole Again;DENP21400235;Deezer;Stream;Denmark;2;0,014;0,011;0,023
+LP 06259;4250137262598;Overdrive Amp Explosion;Overdrive Amp Explosion/Easy Tiger (Split-LP);Recognise;DENP21100072;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Sugar Castles;DENP21200171;Amazon Unlimited;Stream;United Kingdom;1;0,018;0,014;0,014
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Paying the Price;DENP21200169;TIDAL;Stream;Germany;1;0,014;0,011;0,011
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Kookaburra;DENP21200172;iTunes/Apple;Stream;USA;1;0,004;0,003;0,003
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Amour fou;DENP21200168;TIDAL;Stream;Germany;2;0,014;0,011;0,023
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Amour fou;DENP21200168;Google Play;Stream;Estonia;1;0,007;0,006;0,006
+LP 06268;4250137262680;Frogbelly and Symphony;The Eye EP (+CD);Sugar Castles;DENP21200171;Google Play;Stream;Estonia;1;0,007;0,006;0,006
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Sin-Love-Hate;QMXUG1403202;iTunes/Apple;Stream;Germany;1;0,004;0,004;0,004
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Nihil Holy;QMXUG1403201;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Nihil Holy;QMXUG1403201;iTunes/Apple;Stream;Slovenia;1;0,004;0,003;0,003
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;The Mermaid Queen;QMXUG1403203;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Nihil Holy;QMXUG1403201;iTunes/Apple;Stream;Germany;1;0,004;0,004;0,004
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;The Mermaid Queen;QMXUG1403203;iTunes/Apple;Stream;Germany;1;0,004;0,004;0,004
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Invite to Heaven Hell;QMXUG1403204;YouTube;Stream;Germany;1;0,001;0,001;0,001
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Sin-Love-Hate;QMXUG1403202;Yandex LLC;Stream;Russia;1;0,000;0,000;0,000
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Holy Threesome;QMXUG1403207;Amazon Unlimited;Stream;United Kingdom;1;0,017;0,014;0,014
+LP 06274;4250137262741;Martin Bisi;Ex-Nihilo ;Sin-Love-Hate;QMXUG1403202;iTunes/Apple;Stream;Slovenia;1;0,004;0,003;0,003
+
+total sales;total amount;v.a.t.;total value
+7327;26,45;0,00;26,45 EURO
+

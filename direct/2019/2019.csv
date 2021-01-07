@@ -1,0 +1,105 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
+2019.01.14,LS00056,1,,13.08,sale,Bandcamp,CD sale Blaise Arthur,Rad Orchestra
+2019.01.15,LS00053,,1,17.54,sale,Bandcamp,Vinyl sale Josh Crowle,Soup Review / From The Bed To The Settee..
+2019.01.22,LS00056,1,,11.41,sale,Labelship,direct sale,Rad Orchestra
+2019.01.31,LS00029,,,5.15,sale,Bandcamp,download,Liz Hanley / The Ecstasy of St. Cecilia
+2019.01.26,LS00006,,1,13.09,sale,Bandcamp,vinyl sale Kristof Albertijn,Frau Kraushaar / Le Salon Is Very Morbidae
+2019.02.09,LS00056,1,,17.45,sale,Bandcamp,CD sale Alan Ingram,Rad Orchestra
+2019.02.27,LS00002,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Xrfarflight / The Early Bird..
+2019.02.27,LS00005,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Dear John Letter / Between Leaves | Forestal
+2019.02.27,LS00006,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Frau Kraushaar / Le Salon Is Very Morbidae
+2019.02.27,LS00048,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Cinema Cinema / Man Bites Dog
+2019.02.27,LS00039,,2,16.06,sale,Labelship,Gastro Vinyl Bristol,Martin Bisi / Ex Nihilo
+2019.02.27,LS00051,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Ash Gray / Chicken Wire
+2019.02.27,LS00041,,1,8.03,sale,Labelship,Gastro Vinyl Bristol,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.03.06,LS00053,,,5.17,sale,Bandcamp,download,Soup Review / From The Bed To The Settee..
+2019.03.15,LS00051,,,0.65,sale,Bandcamp,single track download,Ash Gray / Chicken Wire
+2019.03.19,LS00029,,,4.89,sale,Bandcamp,download,Liz Hanley / The Ecstasy of St. Cecilia
+2019.03.19,LS00049,,,0.74,sale,Bandcamp,download,Joey Molinaro / Awash
+2019.04.10,LS00053,,1,17.79,sale,Bandcamp,Vinyl sale Lauren Stone,Soup Review / From The Bed To The Settee..
+2019.04.10,LS00056,,,13.87,sale,Bandcamp,download sales,Rad Orchestra
+2019.05.01,LS00001,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Astrid's Farm / Cyclist
+2019.05.01,LS00002,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Xrfarflight / The Early Bird..
+2019.05.01,LS00004,2,,5,sale,Label Box,"A House With No Name, Columbus OH",Emmy Moll / All The Monsters..
+2019.05.01,LS00005,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Dear John Letter / Between Leaves | Forestal
+2019.05.01,LS00006,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Frau Kraushaar / Le Salon Is Very Morbidae
+2019.05.01,LS00007,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Introducing Labelship
+2019.05.01,LS00011,2,,1,sale,Label Box,"A House With No Name, Columbus OH",Kid Decker / Reveries
+2019.05.01,LS00015,2,,3,sale,Label Box,"A House With No Name, Columbus OH",Dear John Letter / Part & Fragment
+2019.05.01,LS00018,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Kid Decker / Your Kind
+2019.05.01,LS00027,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Nikolai Wilckens / Stories The Sea..
+2019.05.01,LS00030,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Outroads / I Am Happy
+2019.05.01,LS00033,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Outroads / Only the Lonely?
+2019.05.01,LS00035,1,,1,sale,Label Box,"A House With No Name, Columbus OH",Lonesome Station / Lonesome Station
+2019.05.01,LS00037,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Martin bisi / Sirens Of The Apocalypse
+2019.05.01,LS00041,2,,6,sale,Label Box,"A House With No Name, Columbus OH",Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.05.01,LS00042,1,,1,sale,Label Box,"A House With No Name, Columbus OH",Lonesome Station / Current Space
+2019.05.01,LS00045,1,,3,sale,Label Box,"A House With No Name, Columbus OH",Phia / The Ocean Of Everything
+2019.05.01,LS00004,1,2,13,sale,direct sale,"Spinning Discs, Sheffield UK",Emmy Moll / All The Monsters..
+2019.05.01,LS00009,1,,3,sale,Label Box,"Spinning Discs, Sheffield UK",Binoculers / Every Seaman..
+2019.05.01,LS00044,1,,3,sale,Label Box,"Spinning Discs, Sheffield UK",Steel City Rhythm / Free Love & Fighting
+2019.05.01,LS00037,1,,3,sale,Label Box,"Spinning Discs, Sheffield UK",Martin bisi / Sirens Of The Apocalypse
+2019.05.01,LS00053,1,,3.5,sale,Label Box,"Spinning Discs, Sheffield UK",Soup Review / From The Bed To The Settee..
+2019.05.01,LS00048,1,,3.5,sale,Label Box,"Spinning Discs, Sheffield UK",Cinema Cinema / Man Bites Dog
+2019.05.01,LS00020,,1,5,sale,direct sale,"Spinning Discs, Sheffield UK",Easy Tiger / Overdrive Amp Explosion
+2019.05.01,LS00002,,1,6,sale,Labelship,direct sale,Xrfarflight / The Early Bird..
+2019.05.01,LS00053,,1,6,sale,Labelship,direct sale,Soup Review / From The Bed To The Settee..
+2019.05.01,LS00044,1,,5,sale,Label Box,"The Rude Shipyard, Sheffield",Steel City Rhythm / Free Love & Fighting
+2019.05.01,LS00009,1,,5,sale,Label Box,"Café #9, Sheffield",Binoculers / Every Seaman..
+2019.05.01,LS00048,1,,5,sale,Label Box,"Café #9, Sheffield",Cinema Cinema / Man Bites Dog
+2019.05.01,LS00037,1,,5,sale,Label Box,"Café #9, Sheffield",Martin bisi / Sirens Of The Apocalypse
+2019.05.01,LS00030,1,,5,sale,Label Box,"Café #9, Sheffield",Outroads / I Am Happy
+2019.05.01,LS00037,1,,2,sale,Label Box,"Makers, Sheffield",Martin bisi / Sirens Of The Apocalypse
+2019.05.01,LS00001,,1,6,sale,direct sale,"BBE Store, London",Astrid's Farm / Cyclist
+2019.05.01,LS00002,,1,6,sale,direct sale,"BBE Store, London",Xrfarflight / The Early Bird..
+2019.05.01,LS00004,,1,6,sale,direct sale,"BBE Store, London",Emmy Moll / All The Monsters..
+2019.05.01,LS00053,,1,6,sale,direct sale,"BBE Store, London",Soup Review / From The Bed To The Settee..
+2019.05.01,LS00048,,1,6,sale,direct sale,"BBE Store, London",Cinema Cinema / Man Bites Dog
+2019.04.16,LS00001,,1,5,sale,direct sale,"Out On The Floor Records, London",Astrid's Farm / Cyclist
+2019.04.16,LS00002,,1,5,sale,direct sale,"Out On The Floor Records, London",Xrfarflight / The Early Bird..
+2019.04.16,LS00004,,1,5,sale,direct sale,"Out On The Floor Records, London",Emmy Moll / All The Monsters..
+2019.04.16,LS00005,,1,9,sale,direct sale,"Out On The Floor Records, London",Dear John Letter / Between Leaves | Forestal
+2019.04.16,LS00006,,1,5,sale,direct sale,"Out On The Floor Records, London",Frau Kraushaar / Le Salon Is Very Morbidae
+2019.04.16,LS00038,,1,5,sale,direct sale,"Out On The Floor Records, London",Owls Of The Swamp / Atlas
+2019.04.16,LS00039,,1,5,sale,direct sale,"Out On The Floor Records, London",Martin Bisi / Ex Nihilo
+2019.04.16,LS00051,,1,5,sale,direct sale,"Out On The Floor Records, London",Ash Gray / Chicken Wire
+2019.04.16,LS00041,,1,9,sale,direct sale,"Out On The Floor Records, London",Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.05.01,LS00051,1,,13.37,sale,Bandcamp,CD sale Tara Nicholson,Ash Gray / Chicken Wire
+2019.05.07,LS00029,1,,13.41,sale,Bandcamp,CD sale Graham Roberts,Liz Hanley / The Ecstasy of St. Cecilia
+2019.05.07,LS00029,1,,16.09,sale,Bandcamp,CD sale Michael Mitsch,Liz Hanley / The Ecstasy of St. Cecilia
+2019.06.04,LS00006,,,0.89,sale,Bandcamp,download sales,Frau Kraushaar / Le Salon Is Very Morbidae
+2019.06.04,LS00049,,,0.89,sale,Bandcamp,download sales,Joey Molinaro / Awash
+2019.05.24,LS00053,,1,17.74,sale,Bandcamp,vinyl sale Daniel Laver,Soup Review / From The Bed To The Settee..
+2019.06.11,LS00049,,,0.94,sale,Bandcamp,download sales,Joey Molinaro / Awash
+2019.06.12,LS00053,,1,17.74,sale,Bandcamp,vinyl sale Luke Beard,Soup Review / From The Bed To The Settee..
+2019.07.08,LS00051,,,8.23,sale,Bandcamp,download sales,Ash Gray / Chicken Wire
+2019.07.25,LS00029,1,,12.63,sale,Bandcamp,CD sale Joan E Dillon,Liz Hanley / The Ecstasy of St. Cecilia
+2019.09.11,LS00056,1,,13.56,sale,Bandcamp,CD sale Caroline Revel,Rad Orchestra
+2019.09.25,LS00048,,,2.38,sale,Bandcamp,download,Cinema Cinema / Man Bites Dog
+2019.09.25,LS00001,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Astrid's Farm / Cyclist
+2019.09.25,LS00004,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Emmy Moll / All The Monsters..
+2019.09.25,LS00005,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Dear John Letter / Between Leaves | Forestal
+2019.09.25,LS00018,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Kid Decker / Your Kind
+2019.09.25,LS00021,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Overdrive Amp Explosion / Blanks
+2019.09.25,LS00023,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Owls Of The Swamp / Go With River
+2019.09.25,LS00048,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Cinema Cinema / Man Bites Dog
+2019.09.25,LS00029,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Liz Hanley / The Ecstasy of St. Cecilia
+2019.09.25,LS00030,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Outroads / I Am Happy
+2019.09.25,LS00036,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Steve Allen / Wreck The Place
+2019.09.25,LS00038,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Owls Of The Swamp / Atlas
+2019.09.25,LS00051,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Ash Gray / Chicken Wire
+2019.09.25,LS00041,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.09.25,LS00053,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Soup Review / From The Bed To The Settee..
+2019.09.25,LS00044,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Steel City Rhythm / Free Love & Fighting
+2019.09.25,LS00045,1,,2.82,sale,Label Box,Gastro Vinyl Bristol,Phia / The Ocean Of Everything
+2019.11.05,LS00032,,1,15,sale,Bandcamp,vinyl sale Bob Webb,Frogbelly And Symphony / The Eye
+2019.11.05,LS00029,1,,13,sale,Bandcamp,CD sale Maurice McCafferty,Liz Hanley / The Ecstasy of St. Cecilia
+2019.11.26,LS00039,,,0.3,sale,Bandcamp,download sales,Martin Bisi / Ex Nihilo
+2019.11.26,LS00051,,1,18.16,sale,Bandcamp,vinyl sale Kenny Kerr,Ash Gray / Chicken Wire
+2019.12.02,LS00048,,,3.22,sale,Bandcamp,download sales,Cinema Cinema / Man Bites Dog
+2019.12.09,LS00056,1,,15.21,sale,Bandcamp,CD sale Ed Noble,Rad Orchestra
+2019.12.18,LS00055,2,,27.98,sale,Bandcamp,CD sale Heinz Brossolat,Roods & Reeds / The Loom Goes Click
+2019.12.18,LS00053,2,,26.99,sale,Bandcamp,CD sale Joseph Willis,Soup Review / From The Bed To The Settee..
+2019.12.18,LS00029,2,,26.99,sale,Bandcamp,CD sale Patrick Sullivan,Liz Hanley / The Ecstasy of St. Cecilia
+2019.12.30,LS00051,1,,9.87,sale,Bandcamp,CD sale Martyn Yeatman,Ash Gray / Chicken Wire
+2019.12.30,LS00023,1,,7.59,sale,Bandcamp,CD sale Tim Hartmann,Owls Of The Swamp / Go With River

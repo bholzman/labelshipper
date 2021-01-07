@@ -1,0 +1,36 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
+2019.01.14,LS00056,-17,,,stock-in,Max,stock from artist to label,Rad Orchestra
+2019.11.06,LS00041,,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00041,1,,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00041,3,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00029,1,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00043,1,,,tour sales,band kitty,tour USA 2019,Frogbelly and Symphony / 9-Volt Haunted House
+2019.11.06,LS00041,3,3,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00029,1,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00032,,2,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / The EYE
+2019.11.06,LS00029,1,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00032,,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / The EYE
+2019.11.06,LS00041,1,,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00041,2,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00029,2,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00032,,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / The EYE
+2019.11.06,LS00043,2,,,tour sales,band kitty,tour USA 2019,Frogbelly and Symphony / 9-Volt Haunted House
+2019.11.06,LS00029,1,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00043,1,,,tour sales,band kitty,tour USA 2019,Frogbelly and Symphony / 9-Volt Haunted House
+2019.11.06,LS00041,2,1,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00041,4,3,,tour sales,band kitty,tour USA 2019,Frogbelly And Symphony / Blue Bright Ow Sleep
+2019.11.06,LS00029,3,,,tour sales,band kitty,tour USA 2019,Liz Hanley / The Ecstatsy Of St Cecilia
+2019.11.06,LS00043,4,,,tour sales,band kitty,tour USA 2019,Frogbelly and Symphony / 9-Volt Haunted House
+2019.12.02,LS00036,2,,,stock-out,mail,Bandcamp Order via Steve,Steve Allen / Wreck The Place
+2019.12.23,LS00009,-1,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Binoculers / every Seaman
+2019.12.23,LS00027,-1,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Nikolai Wilckens / Stories The Sea Told Me..
+2019.12.23,LS00030,-1,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Outroads / I Am Happy
+2019.12.23,LS00048,-142,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Cinema Cinema / Man Bites Dog
+2019.12.23,LS00052,-49,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Phia / the Woman Who Counted The Stars
+2019.12.23,LS00055,-28,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Roods & Reeds / The Loom Goes Click
+2019.12.23,LS00001,-1,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Astrids Farm / Cyclist
+2019.12.23,LS00006,-1,,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Frau Kraushaar / Le Salon Is Very Morbidae..
+2019.12.23,LS00020,,-2,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Overdrive Amp Explosion / Easy Tiger
+2019.12.23,LS00048,,-31,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Cinema Cinema / Man Bites Dog
+2019.12.23,LS00053,,-23,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Soup Review - From The Bed To The Settee..
+2019.12.23,LS00039,,-11,,dispatch to Labelship,Brokensilence,stock return from distro to Label,Martin Bisi / Ex Nihilo

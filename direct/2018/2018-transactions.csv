@@ -1,0 +1,33 @@
+DATE,RELEASE_ID,CDS,LPS,AMOUNT,TRANSACTION,CHANNEL,DESCRIPTION,Product
+2018.02.22,LS00043,,,-10.97,expense,payPal,pay-off artist ,Frogbelly And Symphony / 9-V Haunted House
+2018.02.22,LS00043,,,-10.96,expense,Labelship,pay-off Labelship,Frogbelly And Symphony / 9-V Haunted House
+2018.01.01,LS00041,,,-84,expense,Squarespace,website and domain Frogbelly 2017,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.01.01,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Jan 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.02.01,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Feb 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.03.01,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Mar 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.04.11,LS00049,,,-20.73,expense,payPal,payoff 2017,Joey Molinaro / Awash
+2018.05.03,LS00055,,,-200.85,expense,MPO,manufacturing 500 CDS,Roods And Reeds / The Loom Goes Click
+2018.05.03,LS00055,,,200.85,expense reimbursed,Labelship D,manufacturing 500 CDS,Roods And Reeds / The Loom Goes Click
+2018.02.28,LS00051,,,850,expense reimbursed,Ash Gray,PR Maren Kumpe,Ash Gray / Chicken Wire
+2018.02.28,LS00051,,,-850,expense,Labelship D,PR Maren Kumpe,Ash Gray / Chicken Wire
+2018.05.22,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly May 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.04.22,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Apr 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.07.30,LS00051,,,-699,expense,MPO,re-press 500 CDs,Ash Gray / Chicken Wire
+2018.07.30,LS00041,,,-18,expense,Squarespace,annual domain fee,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.08.30,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Jun 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.08.30,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly jul 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.08.30,LS00041,,,-28,expense,Squarespace,website and domain Frogbelly Aug 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.09.08,LS00053,,,-206.35,expense,Audrey Steuerwald,layout work / album cover vinyl,Soup Review / From The Bed To The Settee
+2018.11.23,LS00053,,,-530.34,expense,CRAM duplication,CD pressing ,Soup Review / From The Bed To The Settee
+2018.11.15,LS00053,,,259.56,sale,Chris+Mario,CD purchase,Soup Review / From The Bed To The Settee
+2018.11.23,LS00041,,,-28,expense,Squarespace,website and domain Aug 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.11.23,LS00041,,,-28,expense,Squarespace,website and domain sep 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.11.23,LS00041,,,-28,expense,Squarespace,website and domain Oct 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.13,LS00041,,,-28,expense,Squarespace,website and domain Nov 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.13,LS00041,,,-33.6,expense,Squarespace,website and domain Dec 2018,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.13,LS00041,,,-383.08,expense,Shirtysomething,t-shirt manufacturing,Frogbelly And Symphony / Blue Bright Ow Sleep
+2018.12.19,LS00056,,,-388.57,expense,Polymath PR,PR fee Tom Brumpton,Rad Orchestra
+2018.12.19,LS00056,,,-850,expense,Music Matters,PR fee Maren Kumpe,Rad Orchestra
+2018.12.29,LS00053,,,-87.75,expense,Audrey Steuerwald,CD Layout,Soup Review / From The Bed To The Settee
+2018.12.29,LS00053,,,-425,expense,Music Matters,PR fee Maren Kumpe,Soup Review / From The Bed To The Settee
+2018.12.20,LS00056,,,400,expense reimbursed,Max Andre Rademacher,PR fee Maren Kumpe,Rad Orchestra
